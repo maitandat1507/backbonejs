@@ -1,0 +1,89 @@
+{
+ "kind": "books#volume",
+ "id": "VURz3uFWLFYC",
+ "etag": "5O1jag+pq2w",
+ "selfLink": "https://www.googleapis.com/books/v1/volumes/VURz3uFWLFYC",
+ "volumeInfo": {
+  "title": "Imagery in Sport",
+  "authors": [
+   "Tony Morris",
+   "Michael Spittle",
+   "Anthony P. Watt"
+  ],
+  "publisher": "Human Kinetics",
+  "publishedDate": "2005",
+  "description": "\u003cp\u003eIt has long been known that almost all elite athletes use imagery and that most sport psychologists apply imagery in working with athletes. But most material on the subject has been, to this point, relegated to single chapters in books, to journal articles, or to conference proceedings.\u003c/p\u003e\u003cp\u003eNow \u003ci\u003eImagery in Sport\u003c/i\u003eaddresses the breadth of what researchers and practitioners in sport psychology know about the topic, and it treats each issue in depth, considering current theories and research on imagery and its application in sport. The reference also addresses future directions in research and practice for imagery in sport. In doing so, \u003ci\u003eImagery in Sport\u003c/i\u003eprovides the most comprehensive look at the state of imagery and its uses in sport today. The authors take readers step by step through understanding, investigating, applying, and advancing imagery in sport. The text includes the following:\u003cbr\u003e-Sample scripts, preperformance suggestions, and sport-specific and site-specific tips\u003c/p\u003e\u003cp\u003e-Presentation and critical analysis of 10 well-known theoretical frameworks for understanding imagery\u003c/p\u003e\u003cp\u003e-A full chapter devoted to understanding and successfully using the available measures of imagery in sport, including how to administer imagery-ability measures\u003cbr\u003e\u003ci\u003eImagery in Sport\u003c/i\u003etakes complex theories and presents them clearly, using examples from everyday sport contexts. The book helps readers become familiar with the current knowledge about the topic and learn to view it with a critical eye. And it provides practicing sport psychologists with guidelines and strategies for using imagery to help athletes improve their performances.\u003c/p\u003e",
+  "industryIdentifiers": [
+   {
+    "type": "ISBN_10",
+    "identifier": "0736037527"
+   },
+   {
+    "type": "ISBN_13",
+    "identifier": "9780736037525"
+   }
+  ],
+  "readingModes": {
+   "text": true,
+   "image": true
+  },
+  "pageCount": 387,
+  "printedPageCount": 408,
+  "dimensions": {
+   "height": "24.00 cm",
+   "width": "15.20 cm",
+   "thickness": "2.90 cm"
+  },
+  "printType": "BOOK",
+  "categories": [
+   "Education / Physical Education",
+   "Psychology / General",
+   "Sports & Recreation / Sports Psychology"
+  ],
+  "averageRating": 4.0,
+  "ratingsCount": 1,
+  "contentVersion": "preview-1.0.0",
+  "imageLinks": {
+   "smallThumbnail": "http://bks6.books.google.co.uk/books?id=VURz3uFWLFYC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE709yaZWHSHfF5CPrRI0Xq5nTUfRfIcuF4PNxfLfmmFy0M_pl5Fx8LkZGgxamaQCn5OVqf3JDl56JEWGRQjaOTyj62NQ4EHqO-uv900HbfmK-m7V8S4&source=gbs_api",
+   "thumbnail": "http://bks6.books.google.co.uk/books?id=VURz3uFWLFYC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE72q2yWf605FSEsViafapWguhR-AZWWE-8xHi6h8dpHEh_Xkg37siH3d_aWZRIquB0yCCn3x-luKc9cfoCt2_W-1mGK1tfLUmV8KhMBPKWn6WXB7mG4&source=gbs_api",
+   "small": "http://bks6.books.google.co.uk/books?id=VURz3uFWLFYC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE72_AlY6Lxnp0w7AHOHNNa3dSzvyS3ecv5-u8zKi4kKYKynkw7WIHcncUcWBkt-eKDGBEKl_s8QZ3uqDYdAonbsVzXFutjCGz5TtsXcjzpYy9YgBlCI&source=gbs_api",
+   "medium": "http://bks6.books.google.co.uk/books?id=VURz3uFWLFYC&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE725RwRfdjcWtEvys13VNdCYj-pZasyVd8rYMHR0hCSZbHEzJkR8lHYv4MTOaneu3ZTJ05PmzQIg_S7Qa3nLTDSv3-n_HH4J--UcOv4hnhJezNOc9mQ&source=gbs_api",
+   "large": "http://bks6.books.google.co.uk/books?id=VURz3uFWLFYC&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE711j9PSZZD4QB1qcE2tZE0qigv-1aWrsPBQjol_1j5dDkSn_Kf7EYdPLKvzWxlBQTYQ-vJ-vDMLGd7LrFMcn58jACDIZUQ2rwo-D7_qIvnKPFd1iXk&source=gbs_api",
+   "extraLarge": "http://bks6.books.google.co.uk/books?id=VURz3uFWLFYC&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE70rO2p5ap5YFUg-gdfUE_PnG24O8_ty_gPCa-l0XEaDLHt_d5QeCi2nk3qN_Lvkc0zC2xygDqQ-lMukJ-byT3DkMIZEU1z6djx5zXi8jIMwhzvLZos&source=gbs_api"
+  },
+  "language": "en",
+  "previewLink": "http://books.google.co.uk/books?id=VURz3uFWLFYC&hl=&source=gbs_api",
+  "infoLink": "http://books.google.co.uk/books?id=VURz3uFWLFYC&hl=&source=gbs_api",
+  "canonicalVolumeLink": "http://books.google.co.uk/books/about/Imagery_in_Sport.html?hl=&id=VURz3uFWLFYC"
+ },
+ "layerInfo": {
+  "layers": [
+   {
+    "layerId": "geo",
+    "volumeAnnotationsVersion": "1"
+   }
+  ]
+ },
+ "saleInfo": {
+  "country": "GB",
+  "saleability": "NOT_FOR_SALE",
+  "isEbook": false
+ },
+ "accessInfo": {
+  "country": "GB",
+  "viewability": "PARTIAL",
+  "embeddable": true,
+  "publicDomain": false,
+  "textToSpeechPermission": "ALLOWED",
+  "epub": {
+   "isAvailable": true,
+   "acsTokenLink": "http://books.google.co.uk/books/download/Imagery_in_Sport-sample-epub.acsm?id=VURz3uFWLFYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+  },
+  "pdf": {
+   "isAvailable": false
+  },
+  "webReaderLink": "http://books.google.co.uk/books/reader?id=VURz3uFWLFYC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+  "accessViewStatus": "SAMPLE",
+  "quoteSharingAllowed": false
+ }
+}

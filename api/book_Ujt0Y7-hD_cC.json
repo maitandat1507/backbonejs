@@ -1,0 +1,104 @@
+{
+ "kind": "books#volume",
+ "id": "Ujt0Y7-hD_cC",
+ "etag": "aokQNCfS5QY",
+ "selfLink": "https://www.googleapis.com/books/v1/volumes/Ujt0Y7-hD_cC",
+ "volumeInfo": {
+  "title": "The Book of Romance",
+  "subtitle": "What Solomon Says About Love, Sex, and Intimacy",
+  "authors": [
+   "Tommy Nelson"
+  ],
+  "publisher": "Thomas Nelson Inc",
+  "publishedDate": "1998-11-13",
+  "description": "\u003cp\u003eThe Bible is well-known for its wisdom on spiritual concerns and righteous living. But did you know it can also guide you in matters of dating, courtship, and marriage?\u003c/p\u003e \u003cp\u003e \"Based on what God knows about us,\" says Tommy Nelson, \"He has provided an instruction manual in the Song of Solomon with eight very enlightening, explicit, and highly practical chapters on the topics of love, sex and intimacy.\"\u003c/p\u003e \u003cp\u003eWise and engaging, \u003ci\u003eThe Book of Romance\u003c/i\u003e digs deep into the Song of Solomon and what it says about the Bible's most passionate lovers. As you learn about their relationship, you'll discover how you, too, can experience the deep emotional, sexual, and spiritual satisfaction that God created to be enjoyed in marriage.\u003c/p\u003e",
+  "industryIdentifiers": [
+   {
+    "type": "ISBN_10",
+    "identifier": "1418565555"
+   },
+   {
+    "type": "ISBN_13",
+    "identifier": "9781418565558"
+   }
+  ],
+  "readingModes": {
+   "text": true,
+   "image": true
+  },
+  "pageCount": 192,
+  "printedPageCount": 225,
+  "printType": "BOOK",
+  "categories": [
+   "Family & Relationships / Love & Romance"
+  ],
+  "averageRating": 4.5,
+  "ratingsCount": 14,
+  "contentVersion": "0.2.2.0.preview.3",
+  "imageLinks": {
+   "smallThumbnail": "http://bks3.books.google.co.uk/books?id=Ujt0Y7-hD_cC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE73doagqnGDilCV1PipIjCmWNqn29jzyaJRWsD3mJk88bNEj2YuKjovJ_Byze8nw4s4wcZaz39Jtf3vwkgEIyo6GTRF_BP-O-YDYUBJXNwfD_LXUEtU&source=gbs_api",
+   "thumbnail": "http://bks3.books.google.co.uk/books?id=Ujt0Y7-hD_cC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE72xSiWevMAg8zd1LBoul-ZDF_arl4kAxVbdh682G8tcznwyeSL7v1bvRis-YYJPWYj4IZmbzBvxYd-fEatUKwbFTAHlns6SiFNRwCvj6zwkgrYE6Xg&source=gbs_api",
+   "small": "http://bks3.books.google.co.uk/books?id=Ujt0Y7-hD_cC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE73T1AE9YdOKxPu6FAz7DLcx5Gln5-dZnr2TjMrfojBQIVQev5Jh6eLFbE8fpxqwsgbPqy8nHYKD0HdjBXxGpnyH-DaQ8uNCe1wEbsRrl5n_x51L5NE&source=gbs_api",
+   "medium": "http://bks3.books.google.co.uk/books?id=Ujt0Y7-hD_cC&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE73H9j1N3G38fryKrgU0AIl6UyJpW1PJSLYaoDvM9zsZynMFJ0-3GUed4-CGqO1Z4Uf6sh4OXYDqi-99UAQvOy4rl5aNQXN38_C7EmDXfb5qShQAs9Q&source=gbs_api",
+   "large": "http://bks3.books.google.co.uk/books?id=Ujt0Y7-hD_cC&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE724lAqVl9YpG1PmQTFy3UM5XHcYoD2n-n_YYRcmfdZFXOkC6xSRdh2Rjysb4IK5bYpeEr99PAhvOakwZzcA70qiR7dAOfRSzM8_vQMWN20hORdGhws&source=gbs_api",
+   "extraLarge": "http://bks3.books.google.co.uk/books?id=Ujt0Y7-hD_cC&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE71h-mcb6Lpl6-DS2VfMzJz_7RL4SPzbsq-4g-kMk5wTXc_bdJLQdeTvU1RIJQETx98tLMrIYYp0Uyzl_KTkMmk0MS8iguyxgrokYKqST67dh8wMjxM&source=gbs_api"
+  },
+  "language": "en",
+  "previewLink": "http://books.google.co.uk/books?id=Ujt0Y7-hD_cC&hl=&source=gbs_api",
+  "infoLink": "http://books.google.co.uk/books?id=Ujt0Y7-hD_cC&hl=&source=gbs_api",
+  "canonicalVolumeLink": "http://books.google.co.uk/books/about/The_Book_of_Romance.html?hl=&id=Ujt0Y7-hD_cC"
+ },
+ "layerInfo": {
+  "layers": [
+   {
+    "layerId": "geo",
+    "volumeAnnotationsVersion": "5"
+   }
+  ]
+ },
+ "saleInfo": {
+  "country": "GB",
+  "saleability": "FOR_SALE",
+  "isEbook": true,
+  "listPrice": {
+   "amount": 11.01,
+   "currencyCode": "GBP"
+  },
+  "retailPrice": {
+   "amount": 7.38,
+   "currencyCode": "GBP"
+  },
+  "buyLink": "http://books.google.co.uk/books?id=Ujt0Y7-hD_cC&hl=&buy=&source=gbs_api",
+  "offers": [
+   {
+    "finskyOfferType": 1,
+    "listPrice": {
+     "amountInMicros": 1.101E7,
+     "currencyCode": "GBP"
+    },
+    "retailPrice": {
+     "amountInMicros": 7380000.0,
+     "currencyCode": "GBP"
+    }
+   }
+  ]
+ },
+ "accessInfo": {
+  "country": "GB",
+  "viewability": "PARTIAL",
+  "embeddable": true,
+  "publicDomain": false,
+  "textToSpeechPermission": "ALLOWED",
+  "epub": {
+   "isAvailable": true,
+   "acsTokenLink": "http://books.google.co.uk/books/download/The_Book_of_Romance-sample-epub.acsm?id=Ujt0Y7-hD_cC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+  },
+  "pdf": {
+   "isAvailable": true,
+   "acsTokenLink": "http://books.google.co.uk/books/download/The_Book_of_Romance-sample-pdf.acsm?id=Ujt0Y7-hD_cC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+  },
+  "webReaderLink": "http://books.google.co.uk/books/reader?id=Ujt0Y7-hD_cC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+  "accessViewStatus": "SAMPLE",
+  "quoteSharingAllowed": false
+ }
+}

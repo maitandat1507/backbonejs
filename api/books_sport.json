@@ -1,0 +1,750 @@
+[
+  {
+   "kind": "books#volume",
+   "id": "YHZtv4XKeCMC",
+   "etag": "m5DL1NC5YBU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YHZtv4XKeCMC",
+   "volumeInfo": {
+    "title": "Physiology of Sport and Exercise With Web Study Guide-5th Edition",
+    "authors": [
+     "W. Larry Kenney",
+     "Jack Wilmore",
+     "David Costill"
+    ],
+    "publisher": "Human Kinetics",
+    "publishedDate": "1999",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781450421133"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "145042113X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 710,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.co.uk/books?id=YHZtv4XKeCMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks8.books.google.co.uk/books?id=YHZtv4XKeCMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=YHZtv4XKeCMC&printsec=frontcover&dq=sport&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=YHZtv4XKeCMC&dq=sport&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/Physiology_of_Sport_and_Exercise_With_We.html?hl=&id=YHZtv4XKeCMC"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 35.99,
+     "currencyCode": "GBP"
+    },
+    "retailPrice": {
+     "amount": 27.05,
+     "currencyCode": "GBP"
+    },
+    "buyLink": "http://books.google.co.uk/books?id=YHZtv4XKeCMC&dq=sport&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.599E7,
+       "currencyCode": "GBP"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.705E7,
+       "currencyCode": "GBP"
+      }
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 3.239E7,
+       "currencyCode": "GBP"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.434E7,
+       "currencyCode": "GBP"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 180.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.co.uk/books/download/Physiology_of_Sport_and_Exercise_With_We-sample-pdf.acsm?id=YHZtv4XKeCMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=YHZtv4XKeCMC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-fGmwe2AVWIC",
+   "etag": "qXyIldkbvVs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-fGmwe2AVWIC",
+   "volumeInfo": {
+    "title": "Sport",
+    "subtitle": "A Critical Sociology",
+    "authors": [
+     "Richard Giulianotti"
+    ],
+    "publisher": "Polity",
+    "publishedDate": "2005",
+    "description": "In this lively new book, Richard Giulianotti provides a critical sociological interpretation of modern sport. As global festivals such as the Olympic games and football's World Cup demonstrate, sport's social, political, economic and cultural significance is becoming increasingly apparent across the world. Its popularity alone means that sociologists cannot ignore sport. Chapter-by-chapter, Giulianotti offers a cogent examination of a range of widely taught sociological theories and issues that relate to sport. These include functionalism, Weberian sociology, Marxism, postmodern sociology, and globalisation. The author's use of an international range of case studies and research, about a wide variety of sports, helps to make his account especially accessible to undergraduate readers. 'Sport: a critical sociology' will therefore have strong appeal to upper-level undergraduates on courses such as sport and leisure studies, cultural studies, and modern social theory.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780745625454"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0745625452"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 267,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 2,
+    "contentVersion": "0.2.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.co.uk/books?id=-fGmwe2AVWIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks5.books.google.co.uk/books?id=-fGmwe2AVWIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=-fGmwe2AVWIC&printsec=frontcover&dq=sport&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=-fGmwe2AVWIC&dq=sport&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/Sport.html?hl=&id=-fGmwe2AVWIC"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.co.uk/books/download/Sport-sample-epub.acsm?id=-fGmwe2AVWIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=-fGmwe2AVWIC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "In this lively new book, Richard Giulianotti provides a critical sociological interpretation of modern sport."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VURz3uFWLFYC",
+   "etag": "/D9kGMlM6aA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VURz3uFWLFYC",
+   "volumeInfo": {
+    "title": "Imagery in Sport",
+    "authors": [
+     "Tony Morris",
+     "Michael Spittle",
+     "Anthony P. Watt"
+    ],
+    "publisher": "Human Kinetics",
+    "publishedDate": "2005",
+    "description": "It has long been known that almost all elite athletes use imagery and that most sport psychologists apply imagery in working with athletes. But most material on the subject has been, to this point, relegated to single chapters in books, to journal articles, or to conference proceedings. Now Imagery in Sportaddresses the breadth of what researchers and practitioners in sport psychology know about the topic, and it treats each issue in depth, considering current theories and research on imagery and its application in sport. The reference also addresses future directions in research and practice for imagery in sport. In doing so, Imagery in Sportprovides the most comprehensive look at the state of imagery and its uses in sport today. The authors take readers step by step through understanding, investigating, applying, and advancing imagery in sport. The text includes the following: -Sample scripts, preperformance suggestions, and sport-specific and site-specific tips -Presentation and critical analysis of 10 well-known theoretical frameworks for understanding imagery -A full chapter devoted to understanding and successfully using the available measures of imagery in sport, including how to administer imagery-ability measures Imagery in Sporttakes complex theories and presents them clearly, using examples from everyday sport contexts. The book helps readers become familiar with the current knowledge about the topic and learn to view it with a critical eye. And it provides practicing sport psychologists with guidelines and strategies for using imagery to help athletes improve their performances.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0736037527"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780736037525"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 387,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.co.uk/books?id=VURz3uFWLFYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks6.books.google.co.uk/books?id=VURz3uFWLFYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=VURz3uFWLFYC&printsec=frontcover&dq=sport&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=VURz3uFWLFYC&dq=sport&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/Imagery_in_Sport.html?hl=&id=VURz3uFWLFYC"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.co.uk/books/download/Imagery_in_Sport-sample-epub.acsm?id=VURz3uFWLFYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=VURz3uFWLFYC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The text includes the following: -Sample scripts, preperformance suggestions, and sport-specific and site-specific tips -Presentation and critical analysis of 10 well-known theoretical frameworks for understanding imagery -A full chapter ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "eDFRHrZV53YC",
+   "etag": "vIxfbrVcxA8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/eDFRHrZV53YC",
+   "volumeInfo": {
+    "title": "Sport Marketing",
+    "subtitle": "Managing the Exchange Process",
+    "authors": [
+     "George R. Milne",
+     "Mark A. McDonald"
+    ],
+    "publisher": "Jones & Bartlett Learning",
+    "publishedDate": "1999",
+    "description": "Sport Marketing:Managing the Exchange Process presents cutting edge conceptual and empirical approaches for managers to manage relationships with consumers. The central theme of the book is the sport marketing exchange, because this process is fundamental to marketing and can be used to highlight the challenges and opportunities faced by the sport marketer. The authors challenge students, researchers, and managers in sport marketing to embrace current marketing tools that are being employed by marketers in other industry sectors. Several recent marketing techniques are discussed and illustrated within the sport context.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0763708739"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780763708733"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 169,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.co.uk/books?id=eDFRHrZV53YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks6.books.google.co.uk/books?id=eDFRHrZV53YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=eDFRHrZV53YC&printsec=frontcover&dq=sport&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=eDFRHrZV53YC&dq=sport&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/Sport_Marketing.html?hl=&id=eDFRHrZV53YC"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=eDFRHrZV53YC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The central theme of the book is the sport marketing exchange, because this process is fundamental to marketing and can be used to highlight the challenges and opportunities faced by the sport marketer."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "2ioRPCnPvLIC",
+   "etag": "pq2tB1h5gtI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/2ioRPCnPvLIC",
+   "volumeInfo": {
+    "title": "Sport Management",
+    "subtitle": "Principles and Applications",
+    "authors": [
+     "Aaron C. T. Smith",
+     "Matthew Nicholson"
+    ],
+    "publisher": "Routledge",
+    "publishedDate": "2012",
+    "description": "Now available in a fully revised and updated third edition, Sport Management: Principles and Applications examines the nature of the sport industry and the role of the state, non-profit and professional sectors in sport. It focuses on core management principles and their application in a sporting context, highlighting the unique challenges faced in a career in sport management. Written in highly accessible style, each chapter has a coherent structure designed to make key information and concepts simple to find and to utilize. Chapters contain a conceptual overview, references, further reading, relevant websites, study questions and up-to-date case studies from around the world to show how theory works in the professional world. Topics covered include: strategic planning organizational culture organizational structures human resource management leadership governance financial management marketing performance management. This book provides a comprehensive introduction to the practical application of management principles within sport organizations. It is ideal for first and second year students studying sport management related courses, as well as those studying business focused and human movement/physical education courses who are seeking an overview of sport management principles. Visit the companion website at www.routledge.com/textbooks/hoye",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781856178198"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1856178196"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 284,
+    "printType": "BOOK",
+    "categories": [
+     "Business & Economics"
+    ],
+    "contentVersion": "1.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.co.uk/books?id=2ioRPCnPvLIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks7.books.google.co.uk/books?id=2ioRPCnPvLIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=2ioRPCnPvLIC&printsec=frontcover&dq=sport&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=2ioRPCnPvLIC&dq=sport&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/Sport_Management.html?hl=&id=2ioRPCnPvLIC"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=2ioRPCnPvLIC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This book provides a comprehensive introduction to the practical application of management principles within sport organizations."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WCEpIM4YiG4C",
+   "etag": "EnRX5O92uRs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WCEpIM4YiG4C",
+   "volumeInfo": {
+    "title": "Sports",
+    "subtitle": "The First Five Millennia",
+    "authors": [
+     "Allen Guttmann"
+    ],
+    "publisher": "Univ of Massachusetts Press",
+    "publishedDate": "2004",
+    "description": "From ancient Egyptian archery and medieval Japanese football to contemporary American baseball, sports have been shaped by - and in turn have helped shape - the culture of which it is part. This work traces this evolution across continents, cultures, and historical epochs to construct a single comprehensive narrative of the world's sports.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1558494707"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781558494701"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 448,
+    "printType": "BOOK",
+    "categories": [
+     "Sports & Recreation"
+    ],
+    "contentVersion": "1.0.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.co.uk/books?id=WCEpIM4YiG4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks1.books.google.co.uk/books?id=WCEpIM4YiG4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=WCEpIM4YiG4C&printsec=frontcover&dq=sport&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=WCEpIM4YiG4C&dq=sport&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/Sports.html?hl=&id=WCEpIM4YiG4C"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=WCEpIM4YiG4C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This work traces this evolution across continents, cultures, and historical epochs to construct a single comprehensive narrative of the world&#39;s sports."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_tyFxRRpY6YC",
+   "etag": "RatOlanAuaw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_tyFxRRpY6YC",
+   "volumeInfo": {
+    "title": "Doing Sport Psychology",
+    "authors": [
+     "Mark B. Andersen"
+    ],
+    "publisher": "Human Kinetics",
+    "publishedDate": "2000",
+    "description": "Mark B. Andersen examines authentic examples of sport psychologists at work to teach readers how to use their knowledge of sport psychology in an effective and efficient manner.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0736000860"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780736000864"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 293,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "contentVersion": "1.0.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.co.uk/books?id=_tyFxRRpY6YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks1.books.google.co.uk/books?id=_tyFxRRpY6YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=_tyFxRRpY6YC&printsec=frontcover&dq=sport&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=_tyFxRRpY6YC&dq=sport&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/Doing_Sport_Psychology.html?hl=&id=_tyFxRRpY6YC"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=_tyFxRRpY6YC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Mark B. Andersen examines authentic examples of sport psychologists at work to teach readers how to use their knowledge of sport psychology in an effective and efficient manner."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PGRkblShhU8C",
+   "etag": "u37zsDs1nq0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PGRkblShhU8C",
+   "volumeInfo": {
+    "title": "Handbook on the Economics of Sport",
+    "authors": [
+     "S. Szymanski"
+    ],
+    "publisher": "Edward Elgar Publishing",
+    "publishedDate": "2005",
+    "description": "The editors should be commended for taking on such a big task, and succeeding so well. This book should be in the library of every institution where students have to write a paper that may be related to sport, or on the shelf of any lecturer teaching economics or public finance who has even a remote interest in sport. The material is very accessible, and useful in many different settings. Ruud H. Koning, Jahrbücher f. Nationalökonomie u. Statistik Edward Elgar s brilliant market niche is identifying a topic in economics, finding editors who know the area backwards and challenging them to assemble the best cross-section of relevant articles either already published or newly commissioned. Handbook on the Economics of Sport is Edward Elgar at its very best. If you love economics you ll find many fascinating insights here; if you love sport but know little economics then this book is mostly accessible and will teach you a lot; and if you are a sports-mad economist then you will be in hog heaven. Furthermore, if, like this reviewer, you are broadly very sceptical about the reports consultants produce for governments on the supposed economic windfall from hosting a big event or subsidising a stadium then you will get a lot of good counter-arguments in this volume. Indeed there are several chapters on the above theme that I m sure I ll be copying frequently to government officials in years to come. . . The demand for sport is a fascinating subject and it is hard to pick out just one chapter from the second section. Read them all they make a wonderful 65-page treat. . . Part VI was a real feast, a smorgasbord. . . This is a magnificent piece of work and the 36-page index rounds it all off splendidly. John Blundell, Economic Affairs The book covers the most important areas of research of an emerging economic sub-discipline spanning the past half a century. It serves admirably the purpose of an introduction into the rich and growing area of reflection for all concerned. . . the editors and authors of the Handbook have done a commendable job of accumulating sophisticated material for many economists, managers, politicians and self-conscious fans, who are sure to find excellent training ground for the whole heptathlon. . . This book will be invaluable for advanced students investigating professional sport. From the point of view of lawyers, particularly those engaged with the relationship between law and sports governance, the Handbook offers invaluable analysis of the economic issues that are alluded to in those debates but rarely examined in detail. . . These insights will also prove useful for policy analysts and sports administrators for whom many sections should be considered mandatory reading. Aleksander Sulejewicz, Journal of Contemporary European Research Over 800 pages on the economics of sport. What a feast! What a treat! The editors have done a wonderful job both in terms of breadth from David Beckham to child labour in Pakistan and depth, tournaments and luxury taxes for example. . . The 86 chapters are uniformly of a very high standard and illuminating. And there are real gems in some of the contributions. British Journal on the Economics of Sport This very interesting and comprehensive book achieves its objective, namely to present an overview of research in sports economics at an introductory level. . . [The editors] have produced an excellent reference book that belongs in all academic institutions libraries. It provides extensive introduction to the growing body of literature in the rising field of economics of sport. The book s relevant monographs should be read by institutions, cities and countries prior to their committing major resources towards sports facilities or a sporting event. James Angresano, Journal of Sports Economics One could think of this book as the sports-and-economics counterpart to Joy of Cooking, because it will satisfy the needs of those with a keen interest in such subjects as the",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781847204073"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1847204074"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 830,
+    "printType": "BOOK",
+    "categories": [
+     "Sports & Recreation"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 3,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.co.uk/books?id=PGRkblShhU8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks5.books.google.co.uk/books?id=PGRkblShhU8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=PGRkblShhU8C&printsec=frontcover&dq=sport&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=PGRkblShhU8C&dq=sport&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/Handbook_on_the_Economics_of_Sport.html?hl=&id=PGRkblShhU8C"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 48.0,
+     "currencyCode": "GBP"
+    },
+    "retailPrice": {
+     "amount": 36.9,
+     "currencyCode": "GBP"
+    },
+    "buyLink": "http://books.google.co.uk/books?id=PGRkblShhU8C&dq=sport&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.8E7,
+       "currencyCode": "GBP"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.69E7,
+       "currencyCode": "GBP"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.co.uk/books/download/Handbook_on_the_Economics_of_Sport-sample-pdf.acsm?id=PGRkblShhU8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=PGRkblShhU8C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This book should be in the library of every institution where students have to write a paper that may be related to sport, or on the shelf of any lecturer teaching economics or public finance who has even a remote interest in sport."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wxDkz6akXiwC",
+   "etag": "U14qat0Y30w",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wxDkz6akXiwC",
+   "volumeInfo": {
+    "title": "Advances in Sport Psychology",
+    "authors": [
+     "Thelma S. Horn"
+    ],
+    "publisher": "Human Kinetics",
+    "publishedDate": "2008",
+    "description": "The updated third edition of Advances in Sport Psychologyoffers a view of the latest research in the field of sport psychology. The text is written by 34 of the field's most prolific researchers and scholars, including Maureen Weiss, Shane Murphy, and Albert Carron. These contributors extend the boundaries that have defined the field and provide a clear direction for future research. This third edition has been completely revised to reflect the advances that have occurred in the field within the past several years. The text provides readers with a complete picture of current research and emerging topics in sport psychology while challenging researchers to examine the factors that keep this discipline growing. Advances in Sport Psychology, Third Edition, provides a fresh look at sport psychology with these features: -Four new chapters on qualitative research methods, achievement goal theories, self-confidence, and family and peer influences -Significant revisions of the second-edition chapters, along with more concise overviews of individual topics -An analysis and synthesis of the state of knowledge for each topic and a discussion of future research directions The text focuses on the most important and active areas of current research, which recognize the merging of individual and socioenvironmental factors in making sense of sport performance and behavior. Each chapter includes a definition of terms, an explanation of the chapter's scope, and an outline of the sections. The author then provides a review of the available research and theory on the chapter's main topic, analyzes the state of knowledge in the area, and devotes significant space to future research directions. The book is divided into four parts. Part Ioffers a comprehensive introduction to the field, including definitions, history, and research paradigms and methodologies. Part IIexplores individual characteristics that affect sport participants' behavior, including self-perceptions, attributional patterns and perceptions of control, motivational orientations, and achievement goal perspectives. Part IIIexplores socioenvironmental factors that affect sport participants' behaviors. Part IVdelves into the research and theory concerning intervention techniques used for enhancing performance and modifying athletes' behaviors, including imagery and mental rehearsal, attentional processes, goal setting, and flow and peak performance. Advances in Sport Psychology, Third Edition, offers a new and thorough understanding of where sport psychology has been, where it is now, and where it is headed. This text will help students prepare and conduct their own research, and it will be a great reference for professionals who want to stay on the cutting-edge of the field.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0736057358"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780736057356"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 499,
+    "printType": "BOOK",
+    "categories": [
+     "Medical"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "3.1.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.co.uk/books?id=wxDkz6akXiwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks8.books.google.co.uk/books?id=wxDkz6akXiwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=wxDkz6akXiwC&printsec=frontcover&dq=sport&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=wxDkz6akXiwC&dq=sport&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/Advances_in_Sport_Psychology.html?hl=&id=wxDkz6akXiwC"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=wxDkz6akXiwC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This text will help students prepare and conduct their own research, and it will be a great reference for professionals who want to stay on the cutting-edge of the field."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ZRD6gMj2XRkC",
+   "etag": "mn5CcekZQaA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ZRD6gMj2XRkC",
+   "volumeInfo": {
+    "title": "Sport Business Management in Aotearoa/New Zealand",
+    "authors": [
+     "Sarah Leberman",
+     "Christopher William Collins",
+     "Linda Trenberth"
+    ],
+    "publisher": "Cengage Learning Australia",
+    "publishedDate": "2006",
+    "description": "Sport Business Management in Aotearoa/New Zealand provides comprehensive and up-to-date coverage of the basic principles and practice of management and their application to the business of sport. By combining key management concepts with practical applications, this book provides students of sport management with a clear understanding of sport within the New Zealand context. This second edition includes new chapters focussing on Ma-ori sport and its management; sport in the global market place; strategic alliances; sport and the law; and facility management. Other chapters have been either updated or rewritten to reflect the current sporting environment in Aotearoa/New Zealand. The chapters in Sport Business Management in Aotearoa/New Zealand have been written in such a way that they can be read independently from each other, and as such the book does not need to be read in order. However, the book has been organised to follow a logical flow: Section One - provides an understanding of the context within which sport management operates in Aotearoa/New Zealand; Section Two - focuses on key management themes as applied to sport; Section Three - considers the business of managing sport and, as such, contains chapters with more practical applications. Sport Business Management in Aotearoa/New Zealand is a useful resource for students, practitioners, volunteers and those who have an interest in the administration and management of sport. Sarah Leberman is a Senior Lecturer in the Department of Management at Massey University in Palmerston North. Chris Collins is the CEO of the Eastern Institute of Technology in Napier. Linda Trenberth is a Senior Lecturer in the Department of Management at Birkbeck College in London.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0170128962"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780170128964"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 447,
+    "printType": "BOOK",
+    "categories": [
+     "Sports"
+    ],
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.co.uk/books?id=ZRD6gMj2XRkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks1.books.google.co.uk/books?id=ZRD6gMj2XRkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=ZRD6gMj2XRkC&printsec=frontcover&dq=sport&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=ZRD6gMj2XRkC&dq=sport&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/Sport_Business_Management_in_Aotearoa_Ne.html?hl=&id=ZRD6gMj2XRkC"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=ZRD6gMj2XRkC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "By combining key management concepts with practical applications, this book provides students of sport management with a clear understanding of sport within the New Zealand context."
+   }
+  }
+]

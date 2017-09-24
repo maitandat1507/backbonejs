@@ -1,0 +1,77 @@
+{
+ "kind": "books#volume",
+ "id": "f48nl_3Up8gC",
+ "etag": "iJhzqB+ZbLs",
+ "selfLink": "https://www.googleapis.com/books/v1/volumes/f48nl_3Up8gC",
+ "volumeInfo": {
+  "title": "Building Sci-fi Moviescapes",
+  "subtitle": "The Science Behind the Fiction",
+  "authors": [
+   "Matt Hanson"
+  ],
+  "publisher": "Gulf Professional Publishing",
+  "publishedDate": "2005",
+  "description": "Building Sci-fi Moviescapes provides a rare, behind-the-scenes examination of how the digital city and space-scapes in science fiction movies are created-through the eyes of directors, producers, production designers, and visualization artists. \u003cbr\u003e\u003cbr\u003eThis is a stunning showcase of some of the most impressive digital city and space-scapes to come out of the movies, from Hollywood, as well as the Japanese and European film industries. From seminal movies of the 1980s such as Tron and Bladerunner, to classic series such as The Matrix and Star Wars, to recent films such as Sky Captain and the World of Tomorrow, this book is the definitive guide to the imagined aesthetics of the future.\u003cbr\u003e\u003cbr\u003eThrough authoritative commentary and interviews with key directors, producers, production designers, and 3D visual artists, Building Sci-fi Moviescapes explores trends and digital visualization methods in science fiction films from the last three decades. \u003cbr\u003e\u003cbr\u003e* A celebration in design and creativity in Sci-Fi filmmaking for the CG artist\u003cbr\u003e* Access to reavealing interviews with key 3D industry professionals\u003cbr\u003e* Rich creative inspiration for Sci-Fi filmmakers",
+  "industryIdentifiers": [
+   {
+    "type": "ISBN_10",
+    "identifier": "0240807723"
+   },
+   {
+    "type": "ISBN_13",
+    "identifier": "9780240807720"
+   }
+  ],
+  "readingModes": {
+   "text": false,
+   "image": true
+  },
+  "pageCount": 176,
+  "printedPageCount": 186,
+  "dimensions": {
+   "height": "27.00 cm",
+   "width": "22.20 cm",
+   "thickness": "1.60 cm"
+  },
+  "printType": "BOOK",
+  "categories": [
+   "Design / Graphic Arts / General"
+  ],
+  "averageRating": 4.0,
+  "ratingsCount": 1,
+  "contentVersion": "0.0.1.0.preview.1",
+  "imageLinks": {
+   "smallThumbnail": "http://bks3.books.google.co.uk/books?id=f48nl_3Up8gC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE70a5VsbI96WFC5TYmMH5GiHjDSecpZkYitrGZrlHiDaWTui0hVNNFu4In4pUjETWl-X5omV6FKa0tFFYvwc6-y1cpKLZROngmaRBP4bt53_hVmHsmo&source=gbs_api",
+   "thumbnail": "http://bks3.books.google.co.uk/books?id=f48nl_3Up8gC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE715CL7CEawtt_JX9zHME4QvE23S-hRO1q14K4gY12V4HAuzTMXPOBPyiDEJgb0GCgfWMbUDsd8RhMbkMfwZC1rMpeDAzDGb-KEAP_gHeY3hglcJH7Y&source=gbs_api",
+   "small": "http://bks3.books.google.co.uk/books?id=f48nl_3Up8gC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE70PwI66NwgJWnc8S1bbqnFpsakIDQaQ_91aTNuM5LhcB8jpnXs2iUzu_oEZchlhMO-d0qkwRI6KT80gn0fSpP1TGpYX_w6nd-4d5SFOKaOJBVR3WNE&source=gbs_api",
+   "medium": "http://bks3.books.google.co.uk/books?id=f48nl_3Up8gC&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE70IhnUDZf4lsFyvwaTE7Jcc2mu8GVIi0hjUCMwYspjsdznfoc9ASGbFXsjP3b0o6nxZtc2AKGgDmZ1YbahV7pdhB8Azwik7HkwRiMYLfiE0SmIMZ0E&source=gbs_api",
+   "large": "http://bks3.books.google.co.uk/books?id=f48nl_3Up8gC&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE71YzvX8z_rCIjG76Yo6pbD1D5NG2AhLyqUs8W_7e4bQUYRDyfcQBOeIJUXvS30qppJiJ9MKZ1-rYzWTLtaZK3yz1DOit4drQypk0A_oli3myxLu6vk&source=gbs_api",
+   "extraLarge": "http://bks3.books.google.co.uk/books?id=f48nl_3Up8gC&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE70eipbwXIVF6pETjRqiYG7peORrRUhat3OF-hIWEevoMmS4mO-soO19VSIXMiQaimorP6jOIqb9R2tJnX31Wr3UkSuH9-g44WGm_WtW2Ayi2xEBqc4&source=gbs_api"
+  },
+  "language": "en",
+  "previewLink": "http://books.google.co.uk/books?id=f48nl_3Up8gC&hl=&source=gbs_api",
+  "infoLink": "http://books.google.co.uk/books?id=f48nl_3Up8gC&hl=&source=gbs_api",
+  "canonicalVolumeLink": "http://books.google.co.uk/books/about/Building_Sci_fi_Moviescapes.html?hl=&id=f48nl_3Up8gC"
+ },
+ "saleInfo": {
+  "country": "GB",
+  "saleability": "NOT_FOR_SALE",
+  "isEbook": false
+ },
+ "accessInfo": {
+  "country": "GB",
+  "viewability": "PARTIAL",
+  "embeddable": true,
+  "publicDomain": false,
+  "textToSpeechPermission": "ALLOWED",
+  "epub": {
+   "isAvailable": false
+  },
+  "pdf": {
+   "isAvailable": false
+  },
+  "webReaderLink": "http://books.google.co.uk/books/reader?id=f48nl_3Up8gC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+  "accessViewStatus": "SAMPLE",
+  "quoteSharingAllowed": false
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "kind": "books#volume",
+ "id": "9aBTSTQoEQQC",
+ "etag": "n7xJBQamNgQ",
+ "selfLink": "https://www.googleapis.com/books/v1/volumes/9aBTSTQoEQQC",
+ "volumeInfo": {
+  "title": "Body Horror",
+  "subtitle": "Photojournalism, Catastrophe and War",
+  "authors": [
+   "John Taylor"
+  ],
+  "publisher": "Manchester University Press",
+  "publishedDate": "1998",
+  "description": "What compels us to look at shocking photographs or, alternatively, to look away? Should the media use disturbing images to inform, at the risk of offending? How is our sense of politics, morality, and culture affected when we are exposed to gruesome images of accidents and disasters, murder and execution, grief and death? In Body Horror, John Taylor addresses these questions by examining how the media presents unsettling pictures, especially those of dead and injured \"foreigners.\" Drawing on news coverage of recent events in the Gulf, Bosnia and Rwanda, Taylor argues that documentary photography, for all the horror it reproduces, ultimately defines a democracy.",
+  "industryIdentifiers": [
+   {
+    "type": "ISBN_10",
+    "identifier": "0719037220"
+   },
+   {
+    "type": "ISBN_13",
+    "identifier": "9780719037221"
+   }
+  ],
+  "readingModes": {
+   "text": true,
+   "image": true
+  },
+  "pageCount": 210,
+  "printedPageCount": 226,
+  "dimensions": {
+   "height": "24.00 cm",
+   "width": "2.50 cm"
+  },
+  "printType": "BOOK",
+  "contentVersion": "0.0.1.0.preview.3",
+  "imageLinks": {
+   "smallThumbnail": "http://books.google.com/books/content?id=9aBTSTQoEQQC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE70D_I_lD504pEO_SMitawMUc89wLIKnQ1PzzkChEa0uqujkC0nZGJlnirXM3NgzCTo-DkxoLagG0hJqzhANF6qa3tvgTdJGIeygf5vOMmswlJEZivE&source=gbs_api",
+   "thumbnail": "http://books.google.com/books/content?id=9aBTSTQoEQQC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE72WeYgnviyqIOSSC3D7GN2mxgGbZfDEUfgL5sKhCcN96Kibkmhz56Yza8M7b3Ndiz_sAU1GtprHOc3XvbHUJnejU3beEWbVw1E-51QnDWtDhzdR_Eo&source=gbs_api",
+   "small": "http://books.google.com/books/content?id=9aBTSTQoEQQC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE70cu46tnunm8UXLfEShpvF4Ucc0Zz9t4doKVKWre6AzSaEjqghyB0z-UQyGZJW4uKQf_QR3U5eqA2hcx5Ythgt6soWnk4Sl0jjmgmPZaMpSDT9nDvk&source=gbs_api",
+   "medium": "http://books.google.com/books/content?id=9aBTSTQoEQQC&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE73g_vdNcLUuWDuVfBEDVOrqbPfjOWGx-vCMt4hUGODjuy51Usltw_x5miqlF2Ufbyn1eq5rCtGYpRj37xBh9B6CgVn0LC7mTun7Z4yLwfscwquLAQA&source=gbs_api",
+   "large": "http://books.google.com/books/content?id=9aBTSTQoEQQC&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE727f63qsNWoIaIfy6nEkn2VPYWyx492z3jFfOnsrI4jLe5rhfb72mM99wd8cXQoGdy3N_hPnQ0H5adFd4KM63rval8bJ-VKhVAhAOYkbMzbnTPdDn8&source=gbs_api",
+   "extraLarge": "http://books.google.com/books/content?id=9aBTSTQoEQQC&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE70MQ-ZZNmI9gLnHzv5Mq4MG96EfIpVIjAJ4UJQMVvCB4APIR1Sa4Bm_mDYcrjZxlpzhYkeXuC6A1BdO7DL3rFJ2Rc_WJjN7CKYYmAIjfM9LNID-zAM&source=gbs_api"
+  },
+  "language": "en",
+  "previewLink": "http://books.google.co.uk/books?id=9aBTSTQoEQQC&hl=&source=gbs_api",
+  "infoLink": "http://books.google.co.uk/books?id=9aBTSTQoEQQC&hl=&source=gbs_api",
+  "canonicalVolumeLink": "http://books.google.co.uk/books/about/Body_Horror.html?hl=&id=9aBTSTQoEQQC"
+ },
+ "layerInfo": {
+  "layers": [
+   {
+    "layerId": "geo",
+    "volumeAnnotationsVersion": "3"
+   }
+  ]
+ },
+ "saleInfo": {
+  "country": "GB",
+  "saleability": "NOT_FOR_SALE",
+  "isEbook": false
+ },
+ "accessInfo": {
+  "country": "GB",
+  "viewability": "PARTIAL",
+  "embeddable": true,
+  "publicDomain": false,
+  "textToSpeechPermission": "ALLOWED",
+  "epub": {
+   "isAvailable": true,
+   "acsTokenLink": "http://books.google.co.uk/books/download/Body_Horror-sample-epub.acsm?id=9aBTSTQoEQQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+  },
+  "pdf": {
+   "isAvailable": false
+  },
+  "webReaderLink": "http://books.google.co.uk/books/reader?id=9aBTSTQoEQQC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+  "accessViewStatus": "SAMPLE",
+  "quoteSharingAllowed": false
+ }
+}

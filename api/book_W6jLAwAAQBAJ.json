@@ -1,0 +1,95 @@
+{
+ "kind": "books#volume",
+ "id": "W6jLAwAAQBAJ",
+ "etag": "4tRW6lFU3eY",
+ "selfLink": "https://www.googleapis.com/books/v1/volumes/W6jLAwAAQBAJ",
+ "volumeInfo": {
+  "title": "Best Tv Scifi Shows Ever Made: Top 100",
+  "authors": [
+   "Alex Trost",
+   "Vadim Kravetsky"
+  ],
+  "publisher": "A&V",
+  "publishedDate": "2014-06-13",
+  "description": "Are you looking for a journey that will take you through this amazing obok, along with funny comments and a word puzzle? Then this book is for you. Whether you are looking at this book for curiosity, choices, options, or just for fun; this book fits any criteria. Writing this book did not happen quickly. It is thorough look at accuracy and foundation before the book was even started. This book was created to inform, entertain and maybe even test your knowledge. By the time you finish reading this book you will want to share it with others.\n \n",
+  "industryIdentifiers": [
+   {
+    "type": "ISBN_10",
+    "identifier": "1490587462"
+   },
+   {
+    "type": "ISBN_13",
+    "identifier": "9781490587462"
+   }
+  ],
+  "readingModes": {
+   "text": false,
+   "image": true
+  },
+  "pageCount": 28,
+  "printedPageCount": 36,
+  "dimensions": {
+   "height": "27.90 cm",
+   "width": "21.60 cm",
+   "thickness": "0.20 cm"
+  },
+  "printType": "BOOK",
+  "contentVersion": "preview-1.0.0",
+  "imageLinks": {
+   "smallThumbnail": "http://bks6.books.google.co.uk/books?id=W6jLAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE73UQ8mEDX_KAnlGQLYM30vqqwCicrcg8e2SEuy-3bSTzl3yOBRwiDAbITmZCIyfHGGBXkM7UQCD_tTtDHgA7JEjiyEwLMV7b-tO89yjsMGLRIWgpKA&source=gbs_api",
+   "thumbnail": "http://bks6.books.google.co.uk/books?id=W6jLAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE72D-tBq_rniQhA2YNv84y-rBDwVPrip7yuxVW8W0IHNaiaslvDSU3WmHX6-YR10bGL5L-7vICIRVDQdNx7zAjSwb99OdromIoUQTPCbBrGlfGQ-eFQ&source=gbs_api",
+   "small": "http://bks6.books.google.co.uk/books?id=W6jLAwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE70jMXjGywBV8lgiFKbq1N9ZGy4mglFqlIOu_x_ySPP9tBxw2kuRZIx92D_IHHlQy6_Wgt_doOfxhkkvuXOsGFVw2gAGFWheBGmGt-qUW7UQ9etjyg4&source=gbs_api",
+   "medium": "http://bks6.books.google.co.uk/books?id=W6jLAwAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE72tnogQNR9qyVrqlAGu7hxtQtFYKLWjY2yekeO1oKQaXLyq-IZFC2q0LO92sB7sxQ_5u6_J4diDJllfbqS3301vkMLVUYD7T1yz1uPFR1PRgHdG2Rg&source=gbs_api",
+   "large": "http://bks6.books.google.co.uk/books?id=W6jLAwAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE711_wIGjHqOaxfnsJw7PhXEidguWDSwu2MzIkkbzIV2VmYi8c1dWoBrN2xBaY1Joh8LD5qmvFeVXzG3LEheIjvEBtOFcVJ8S3EjN4AjjdaDeFNHh6A&source=gbs_api",
+   "extraLarge": "http://bks6.books.google.co.uk/books?id=W6jLAwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE73OKQBO5Ger6zrN1AA7BiG0pEsMyuvxVQytwOI3M33PTL-NmUS6aAkQnFcVbC5oMkdnjwLV6K7A7a6IGADawwGffvqanUYotzpE3unKQmkplilFBTk&source=gbs_api"
+  },
+  "language": "en",
+  "previewLink": "http://books.google.co.uk/books?id=W6jLAwAAQBAJ&hl=&source=gbs_api",
+  "infoLink": "http://books.google.co.uk/books?id=W6jLAwAAQBAJ&hl=&source=gbs_api",
+  "canonicalVolumeLink": "http://books.google.co.uk/books/about/Best_Tv_Scifi_Shows_Ever_Made_Top_100.html?hl=&id=W6jLAwAAQBAJ"
+ },
+ "saleInfo": {
+  "country": "GB",
+  "saleability": "FOR_SALE",
+  "isEbook": true,
+  "listPrice": {
+   "amount": 3.84,
+   "currencyCode": "GBP"
+  },
+  "retailPrice": {
+   "amount": 2.88,
+   "currencyCode": "GBP"
+  },
+  "buyLink": "http://books.google.co.uk/books?id=W6jLAwAAQBAJ&hl=&buy=&source=gbs_api",
+  "offers": [
+   {
+    "finskyOfferType": 1,
+    "listPrice": {
+     "amountInMicros": 3840000.0,
+     "currencyCode": "GBP"
+    },
+    "retailPrice": {
+     "amountInMicros": 2880000.0,
+     "currencyCode": "GBP"
+    }
+   }
+  ]
+ },
+ "accessInfo": {
+  "country": "GB",
+  "viewability": "PARTIAL",
+  "embeddable": true,
+  "publicDomain": false,
+  "textToSpeechPermission": "ALLOWED",
+  "epub": {
+   "isAvailable": false
+  },
+  "pdf": {
+   "isAvailable": true,
+   "acsTokenLink": "http://books.google.co.uk/books/download/Best_Tv_Scifi_Shows_Ever_Made_Top_100-sample-pdf.acsm?id=W6jLAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+  },
+  "webReaderLink": "http://books.google.co.uk/books/reader?id=W6jLAwAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+  "accessViewStatus": "SAMPLE",
+  "quoteSharingAllowed": false
+ }
+}

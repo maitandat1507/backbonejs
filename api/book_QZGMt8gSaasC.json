@@ -1,0 +1,76 @@
+{
+ "kind": "books#volume",
+ "id": "QZGMt8gSaasC",
+ "etag": "+U70sBp333s",
+ "selfLink": "https://www.googleapis.com/books/v1/volumes/QZGMt8gSaasC",
+ "volumeInfo": {
+  "title": "Romance",
+  "authors": [
+   "Barbara Fuchs"
+  ],
+  "publisher": "Psychology Press",
+  "publishedDate": "2004",
+  "description": "\u003cp\u003eOften derided as an inferior form of literature, 'romance' as a literary mode or genre defies satisfactory definition, dividing critics, scholars and readers alike. This useful guidebook traces the myriad transformations of 'romance' from medieval courtly love to Mills and Boon, and claims that its elusive and complex nature serves as a touchstone for larger questions of literary and cultural theory, such as:\u003c/p\u003e\u003cul\u003e\u003cli\u003eHow does the history of 'romance' as a category force us to rethink the historicization of literary genres?\u003c/li\u003e\u003cli\u003eWhat definitions can we provide for our own time to help us recognize and analyze new forms of 'romance'?\u003c/li\u003e\u003cli\u003eTo what extent is the resistance to romance a resistance to the imaginative force of literature?\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eThe case for 'romance' as a concept is presented clearly and imaginatively, arguing that its usefulness to contemporary critics can be maintained if it is regarded as a literary strategy rather than a fixed genre. In encouraging the reader to consider the fluidity of literature, Romance will be of equal value to all students of historical and comparative literatures and of modern literary forms.\u003c/p\u003e",
+  "industryIdentifiers": [
+   {
+    "type": "ISBN_10",
+    "identifier": "041521260X"
+   },
+   {
+    "type": "ISBN_13",
+    "identifier": "9780415212601"
+   }
+  ],
+  "readingModes": {
+   "text": false,
+   "image": true
+  },
+  "pageCount": 146,
+  "printedPageCount": 168,
+  "dimensions": {
+   "height": "21.00 cm",
+   "width": "13.30 cm",
+   "thickness": "1.80 cm"
+  },
+  "printType": "BOOK",
+  "categories": [
+   "Literary Criticism / General",
+   "Literary Criticism / Medieval",
+   "Literary Criticism / Renaissance"
+  ],
+  "contentVersion": "0.0.1.0.preview.1",
+  "imageLinks": {
+   "smallThumbnail": "http://bks6.books.google.co.uk/books?id=QZGMt8gSaasC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE71j75ZWlllQl458SORf2SwRXlGeao2t9aP_4beucy7hl4I75W2pSBmXdDn7ZuhbTgQMbSVmbEsBXFHutBqaCiEdImoJLXzCZh9hUlA2eF4UY43hgNk&source=gbs_api",
+   "thumbnail": "http://bks6.books.google.co.uk/books?id=QZGMt8gSaasC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE72GkKO4u1PmoVsrFHINqk1oaz5n1umhEUzZ0-0H1opmZ6GO_513_dZ2WegVmY_z__bQ3npurI3acnTsPNHga2s0J7_WtS3JhwBm7rBvlAhzIeB5nI8&source=gbs_api",
+   "small": "http://bks6.books.google.co.uk/books?id=QZGMt8gSaasC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE70hwab9JG0uyivEUvaOSHNfmQ-yZPODbbV08YAjuX-0IZMKOYwHtJCr-FURUW-uQICGgQTio0Z8fB4RU6nWY6Qk9C-VGUC1pO7OvraIt6eSLLVYs78&source=gbs_api",
+   "medium": "http://bks6.books.google.co.uk/books?id=QZGMt8gSaasC&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE73SKUz_AGjLW234b8bYXHPhyV36Hwto8O7HEvkkPNHfqvep-ls7muGCqInFd6dlhAnbcdIKyI652QGV3-Xkw3l37PKcJlOLKijpgcgcjR6khzw4_Wc&source=gbs_api",
+   "large": "http://bks6.books.google.co.uk/books?id=QZGMt8gSaasC&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE70d_4Wi-KNdE2d1r1Fnh7gWV212h6eLzFrEwpVkJXE-dJdkKxIGRsDG9E-qII0iagUgjZbt0HZjAT9tHQRSgPwpt5oAVU1EJdgyWGz2uYF-MnOtAJw&source=gbs_api",
+   "extraLarge": "http://bks6.books.google.co.uk/books?id=QZGMt8gSaasC&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE711QabOJ7Dlb47FOTycg_ATTlsNTxLUkM6VlWjNUGtP5D-vCbo2AGQ7bvySQA9G_EKTeLHo5-50Y9nu0mDu8gHu7xsVUnhBYPpeGHpBW79HU67Ac7U&source=gbs_api"
+  },
+  "language": "en",
+  "previewLink": "http://books.google.co.uk/books?id=QZGMt8gSaasC&hl=&source=gbs_api",
+  "infoLink": "http://books.google.co.uk/books?id=QZGMt8gSaasC&hl=&source=gbs_api",
+  "canonicalVolumeLink": "http://books.google.co.uk/books/about/Romance.html?hl=&id=QZGMt8gSaasC"
+ },
+ "saleInfo": {
+  "country": "GB",
+  "saleability": "NOT_FOR_SALE",
+  "isEbook": false
+ },
+ "accessInfo": {
+  "country": "GB",
+  "viewability": "PARTIAL",
+  "embeddable": true,
+  "publicDomain": false,
+  "textToSpeechPermission": "ALLOWED",
+  "epub": {
+   "isAvailable": false
+  },
+  "pdf": {
+   "isAvailable": false
+  },
+  "webReaderLink": "http://books.google.co.uk/books/reader?id=QZGMt8gSaasC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+  "accessViewStatus": "SAMPLE",
+  "quoteSharingAllowed": false
+ }
+}

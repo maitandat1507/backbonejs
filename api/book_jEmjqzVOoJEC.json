@@ -1,0 +1,100 @@
+{
+ "kind": "books#volume",
+ "id": "jEmjqzVOoJEC",
+ "etag": "pfFIm3NGucM",
+ "selfLink": "https://www.googleapis.com/books/v1/volumes/jEmjqzVOoJEC",
+ "volumeInfo": {
+  "title": "Exile-A SciFi Adventure",
+  "authors": [
+   "R.L. Kiser"
+  ],
+  "publisher": "KiseSoft unInc.",
+  "publishedDate": "2012-10-30",
+  "description": "\u003cp\u003e\n\n\u003c/p\u003e\n\n\u003cp\u003eA 6'5\" starship captain flees a\nlost war and lands on Earth in 1600s feudal Japan. Imagine the possibilities!\u003c/p\u003e\n\n\u003cp\u003e \u003c/p\u003e\n\n\u003cp\u003eImagine\nbeing light years from home and landing on a large island populated by war-like\npeople almost half your size. A serious culture clash, the disparity is\nobvious. Will they look upon him as a god from the heavens or a demon from the\nskies? His survival skills may well be put to the test.\u003c/p\u003e\n\n\u003cp\u003e \u003c/p\u003e\n\n\u003cp\u003eKendrick - a starship captain and well-trained\nwarrior loyal to his people and his cause, but the war is lost. He is forced to\nflee across the galaxy.\u003c/p\u003e\n\n\u003cp\u003eGogenko - a pedantic shukido (area protector)\ntrained in the tradition of Bushido, the Way of the Warrrior.\u003c/p\u003e\n\n\u003cp\u003eKenshi - Gogenko’s cousin, fellow martial arts\nstudent, and shukido to Honashi Village.\u003c/p\u003e\n\n\u003cp\u003eDoiyoko - the beautiful if untraditional\noldest daughter of the Honashi Village leader.\u003c/p\u003e\n\n\u003cp\u003eWill they be\nfast friends or formidable foes?\u003c/p\u003e\n\n\u003cp\u003e \u003c/p\u003e\n\n\u003cp\u003eReviews:\u003c/p\u003e\n\n\u003cp\u003e***** Great fun!\nThis book is just a lot of fun! With flavors of Samurai and Steam-punk adding\nspice, it rocks along from delight to surprise, and all along it is highly\nsatisfying. Oh, on first reading, towards the end I thought maybe it bogged\ndown. But it is the sort of book you want to re-read as soon as you finish it,\nbecause it was just so much fun. And I found out I was wrong: the story\ncontinues apace, right to the last page. And the ending is a pure delight.\nDon't peek, you won't get it. But I can assure you: it will give you huge\nsatisfaction, and you will be glad you chose to read this book. ·· William Fletcher \u003cbr\u003e\u003c/p\u003e\n\n\u003cp\u003e**** ...Overall,\nthis is an entertaining book on many levels. Those who enjoy reading about\nreal-life and science fiction technology will enjoy the technical parts. Those\nwho like laser fights and battles between uneven forces where the underdog must\novercome long odds will enjoy the battles. Those who like strong women who\novercome social barriers and can hold their own will enjoy Doiyoko, Kendrick's\nlove interest. Those who enjoy a little mystical and technological awesomeness\nin their main character will love Kendrick. And, finally, those who enjoy\nhumorous situations and camaraderie will find more than a sufficient dose in\nthis book to satisfy their funny bones. ·· Patricia Hamill on Goodreads \u003cbr\u003e\u003c/p\u003e\n\n\u003cp\u003e***** Exciting -\nthis is the most appropriate word to describe Exile. Author R.L. Kiser put a\nbit of everything in the story. Apart from the prime sci-fi adventure theme,\nthere is romance between Kendrick and Doiyoko, the beautiful but unconventional\neldest daughter of the Honashi Village leader. There is also a fairly healthy\ndose of humor packed into this story. I do appreciate the way it is written in\ntwo parts: Kendrick's first arrival and his developing relationship with his\nnew friends in part one; how he copes with his new life years later in part\ntwo. I think this approach maintains the good pacing of the story. Simply put,\nExile is a stellar work from Kiser, with appealing characters and an absorbing\ntale. ·· Lit Amri for Readers'\nFavorite\u003c/p\u003e\n\n",
+  "industryIdentifiers": [
+   {
+    "type": "ISBN_10",
+    "identifier": "1300423919"
+   },
+   {
+    "type": "ISBN_13",
+    "identifier": "9781300423911"
+   }
+  ],
+  "readingModes": {
+   "text": true,
+   "image": true
+  },
+  "pageCount": 256,
+  "printedPageCount": 188,
+  "printType": "BOOK",
+  "categories": [
+   "Fiction / Science Fiction / General",
+   "Fiction / Science Fiction / Action & Adventure"
+  ],
+  "contentVersion": "1.6.6.0.preview.3",
+  "imageLinks": {
+   "smallThumbnail": "http://bks2.books.google.co.uk/books?id=jEmjqzVOoJEC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE72j1F4ccGSSQQVXqfgkp8PoQ8X31IutzlWFEA5yVidjXVQ2TiKxTglFkztaam1fkb2jUq70KonrJhDQXStzFbnMpu_kuYEdiufSblyMXXQF7aDkT_0&source=gbs_api",
+   "thumbnail": "http://bks2.books.google.co.uk/books?id=jEmjqzVOoJEC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE70nmv21Vmu8WeJQRIuAtzY6vZ8Wsmv6eTOMom_GJdxYt1CM_SpCaqFfZgR9Q5UGs0geI7TFQvatR77qbLcubvAp_kHrJdKaPqlUUZswf-TWN5_2xD0&source=gbs_api",
+   "small": "http://bks2.books.google.co.uk/books?id=jEmjqzVOoJEC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE71fplXni1QE3ReV7bVq_eM1xCgqV7DFBgCxypm_DAlvycVfRcdGX8fkk4YB5RY1zNdNfdtULzfcg-H01EpMubO5C9yMt8dRmAExIkp1xOX8h9jFlBs&source=gbs_api",
+   "medium": "http://bks2.books.google.co.uk/books?id=jEmjqzVOoJEC&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE70ztsE5CYUoIjZU0jtEbopy9Wgb-DJD_nhtUOxANn608YAYnent3JSSGzgyobrBfNtgeOanGBLjQojRp7Xk_DLcsTFyVYwIGowpctc0v0yesKU0Glo&source=gbs_api",
+   "large": "http://bks2.books.google.co.uk/books?id=jEmjqzVOoJEC&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE73eFBDndQe_eKwoVgIrmDIRwCZmgSy1Z30R1GnrNDaClxivskmuJ4lxONNPa1ieDKVHjRvQxcryVIVTuKDWi6u9V81Z5yMI60rdMCOWeGXYrlNp0E0&source=gbs_api",
+   "extraLarge": "http://bks2.books.google.co.uk/books?id=jEmjqzVOoJEC&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE73vNyL_TuzPjqTZtOxOQsjaNcXrvijqaENjHr-DcZGOH_r0A1kNZ91FTW41bWcfVTEjLZYVsVpRAQgssydNLK1u4vYZr4wlE6FGZ6phZ6BJ3GTTxaw&source=gbs_api"
+  },
+  "language": "en",
+  "previewLink": "http://books.google.co.uk/books?id=jEmjqzVOoJEC&hl=&source=gbs_api",
+  "infoLink": "http://books.google.co.uk/books?id=jEmjqzVOoJEC&hl=&source=gbs_api",
+  "canonicalVolumeLink": "http://books.google.co.uk/books/about/Exile_A_SciFi_Adventure.html?hl=&id=jEmjqzVOoJEC"
+ },
+ "layerInfo": {
+  "layers": [
+   {
+    "layerId": "geo",
+    "volumeAnnotationsVersion": "8"
+   }
+  ]
+ },
+ "saleInfo": {
+  "country": "GB",
+  "saleability": "FOR_SALE",
+  "isEbook": true,
+  "listPrice": {
+   "amount": 2.39,
+   "currencyCode": "GBP"
+  },
+  "retailPrice": {
+   "amount": 1.98,
+   "currencyCode": "GBP"
+  },
+  "buyLink": "http://books.google.co.uk/books?id=jEmjqzVOoJEC&hl=&buy=&source=gbs_api",
+  "offers": [
+   {
+    "finskyOfferType": 1,
+    "listPrice": {
+     "amountInMicros": 2390000.0,
+     "currencyCode": "GBP"
+    },
+    "retailPrice": {
+     "amountInMicros": 1980000.0,
+     "currencyCode": "GBP"
+    }
+   }
+  ]
+ },
+ "accessInfo": {
+  "country": "GB",
+  "viewability": "PARTIAL",
+  "embeddable": true,
+  "publicDomain": false,
+  "textToSpeechPermission": "ALLOWED",
+  "epub": {
+   "isAvailable": true
+  },
+  "pdf": {
+   "isAvailable": true
+  },
+  "webReaderLink": "http://books.google.co.uk/books/reader?id=jEmjqzVOoJEC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+  "accessViewStatus": "SAMPLE",
+  "quoteSharingAllowed": false
+ }
+}

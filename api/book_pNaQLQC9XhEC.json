@@ -1,0 +1,105 @@
+{
+ "kind": "books#volume",
+ "id": "pNaQLQC9XhEC",
+ "etag": "7lqyp3Wme6o",
+ "selfLink": "https://www.googleapis.com/books/v1/volumes/pNaQLQC9XhEC",
+ "volumeInfo": {
+  "title": "Horror Video Games",
+  "subtitle": "Essays on the Fusion of Fear and Play",
+  "authors": [
+   "Bernard Perron"
+  ],
+  "publisher": "McFarland",
+  "publishedDate": "2009-09-15",
+  "description": "In this in-depth critical and theoretical analysis of the horror genre in video games, 14 essays explore the cultural underpinnings of horror's allure for gamers and the evolution of \"survival\" themes. The techniques and story effects of specific games such as \u003ci\u003eResident Evil, Call of Cthulhu,\u003c/i\u003e and \u003ci\u003eSilent Hill\u003c/i\u003e are examined individually.",
+  "industryIdentifiers": [
+   {
+    "type": "ISBN_10",
+    "identifier": "0786454792"
+   },
+   {
+    "type": "ISBN_13",
+    "identifier": "9780786454792"
+   }
+  ],
+  "readingModes": {
+   "text": true,
+   "image": true
+  },
+  "pageCount": 310,
+  "printedPageCount": 311,
+  "printType": "BOOK",
+  "categories": [
+   "Games / General",
+   "Social Science / Popular Culture"
+  ],
+  "averageRating": 5.0,
+  "ratingsCount": 1,
+  "contentVersion": "1.1.4.0.preview.3",
+  "imageLinks": {
+   "smallThumbnail": "http://bks6.books.google.co.uk/books?id=pNaQLQC9XhEC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE73Uh_Ouom16SAJWLzzIJ2tAV-6ywKfer0odUSjcYsmMJY1_6GaINOS_K8pGF1tvXFjbnOlhH6GIn6c2-4Vx2wUypHSUwp6nJyoJxx-em0f7BjBaTss&source=gbs_api",
+   "thumbnail": "http://bks6.books.google.co.uk/books?id=pNaQLQC9XhEC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE71trezLn70h9ukipHRYMOTh0gP5Sul5Y0FjfKFBjb2a-g1QodQx8dWgT9NXjPsc3eE7a4-bPSuU8pIEd2MnJDsL4K3nBpHcxh8Zt-ars-BPBu9IHWk&source=gbs_api",
+   "small": "http://bks6.books.google.co.uk/books?id=pNaQLQC9XhEC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE705oqfQ6mp1qZeo03TnPquW-nLF2IiExXWgZluLLLF8LlEtIdD4dMOfi3UmiRsgwVNftGu3EcObOoPZm64Sh7nclBCMeH79_4bGO0KeNc2FchrPlcA&source=gbs_api",
+   "medium": "http://bks6.books.google.co.uk/books?id=pNaQLQC9XhEC&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE71vvLjZaubOMv2SQhzx2qShuDm66G-xhHkeZKPFZcSSIScCYQDuj8f1Ts4kMLrdU5P-6cpMcxuibmImYaWtUw5w9Nh53KWWbUvM01z4y_agCiFr_vQ&source=gbs_api",
+   "large": "http://bks6.books.google.co.uk/books?id=pNaQLQC9XhEC&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE72V-0p-FO6NDxSm5dQukHt0v9BV3PxTnVfBdd4HP_gJvhTT4CLjiPOOHg4QQ0fiFy2mojCQ2rN9UmdK4dXDnKc5bc73Y8Dm7DJS-domo3jNnCRMGlI&source=gbs_api",
+   "extraLarge": "http://bks6.books.google.co.uk/books?id=pNaQLQC9XhEC&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE734ICrVAxs39yV_ix1N414yj1QXXrf2HkVUNvQWAM95qBSzZyXRI381-LeEZfmRlTSJCBuudrFEgWh8zicH4daO5SPRLLOjh2ZhAV8EYUd8iYnlH-U&source=gbs_api"
+  },
+  "language": "en",
+  "previewLink": "http://books.google.co.uk/books?id=pNaQLQC9XhEC&hl=&source=gbs_api",
+  "infoLink": "http://books.google.co.uk/books?id=pNaQLQC9XhEC&hl=&source=gbs_api",
+  "canonicalVolumeLink": "http://books.google.co.uk/books/about/Horror_Video_Games.html?hl=&id=pNaQLQC9XhEC"
+ },
+ "layerInfo": {
+  "layers": [
+   {
+    "layerId": "geo",
+    "volumeAnnotationsVersion": "6"
+   }
+  ]
+ },
+ "saleInfo": {
+  "country": "GB",
+  "saleability": "FOR_SALE",
+  "isEbook": true,
+  "listPrice": {
+   "amount": 19.32,
+   "currencyCode": "GBP"
+  },
+  "retailPrice": {
+   "amount": 12.56,
+   "currencyCode": "GBP"
+  },
+  "buyLink": "http://books.google.co.uk/books?id=pNaQLQC9XhEC&hl=&buy=&source=gbs_api",
+  "offers": [
+   {
+    "finskyOfferType": 1,
+    "listPrice": {
+     "amountInMicros": 1.932E7,
+     "currencyCode": "GBP"
+    },
+    "retailPrice": {
+     "amountInMicros": 1.256E7,
+     "currencyCode": "GBP"
+    }
+   }
+  ]
+ },
+ "accessInfo": {
+  "country": "GB",
+  "viewability": "PARTIAL",
+  "embeddable": true,
+  "publicDomain": false,
+  "textToSpeechPermission": "ALLOWED",
+  "epub": {
+   "isAvailable": true,
+   "acsTokenLink": "http://books.google.co.uk/books/download/Horror_Video_Games-sample-epub.acsm?id=pNaQLQC9XhEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+  },
+  "pdf": {
+   "isAvailable": true,
+   "acsTokenLink": "http://books.google.co.uk/books/download/Horror_Video_Games-sample-pdf.acsm?id=pNaQLQC9XhEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+  },
+  "webReaderLink": "http://books.google.co.uk/books/reader?id=pNaQLQC9XhEC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+  "accessViewStatus": "SAMPLE",
+  "quoteSharingAllowed": false
+ }
+}

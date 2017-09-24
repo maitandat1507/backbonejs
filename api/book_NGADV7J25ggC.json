@@ -1,0 +1,78 @@
+{
+ "kind": "books#volume",
+ "id": "NGADV7J25ggC",
+ "etag": "GeNvQOOoLjo",
+ "selfLink": "https://www.googleapis.com/books/v1/volumes/NGADV7J25ggC",
+ "volumeInfo": {
+  "title": "The Amityville Horror",
+  "authors": [
+   "Jay Anson"
+  ],
+  "publisher": "Simon and Schuster",
+  "publishedDate": "2005-08-01",
+  "description": "In December 1975, the Lutz family moved into their new home on suburban Long Island. George and Kathleen Lutz knew that, one year early, Ronald DeFeo had murdered his parents, brothers, and sisters in the house, but the property - complete with boathouse and swimming pool - and the price had been too good to pass up. Twenty-eight days later, the entire Lutz family fled in terror.",
+  "industryIdentifiers": [
+   {
+    "type": "ISBN_10",
+    "identifier": "1416507698"
+   },
+   {
+    "type": "ISBN_13",
+    "identifier": "9781416507697"
+   }
+  ],
+  "readingModes": {
+   "text": false,
+   "image": false
+  },
+  "pageCount": 256,
+  "printedPageCount": 338,
+  "dimensions": {
+   "height": "18.00 cm",
+   "width": "10.60 cm",
+   "thickness": "2.30 cm"
+  },
+  "printType": "BOOK",
+  "categories": [
+   "Fiction / Media Tie-In",
+   "Body, Mind & Spirit / Parapsychology / General",
+   "Body, Mind & Spirit / Supernatural",
+   "True Crime / General"
+  ],
+  "averageRating": 3.5,
+  "ratingsCount": 541,
+  "contentVersion": "0.1.0.0.preview.0",
+  "imageLinks": {
+   "smallThumbnail": "http://bks7.books.google.co.uk/books?id=NGADV7J25ggC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE72zgVB4ErjMXKkRUxrmPZssNIvYXXWv2w___s7EfznjkrOZt7_iG_V7SUIXOmRRPQsYAackUS3y3mGVqW1Y5iGIkQRIypAFNyHMLhxYA9r_EbzRyug&source=gbs_api",
+   "thumbnail": "http://bks7.books.google.co.uk/books?id=NGADV7J25ggC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE73jBXSCx8Blz0ybWWcPWGesCaSNVHoYk7iZX2q0U5jy3wW7m0jO9SuIYLChe9Ivm7se-eGkLbb7ceaoj8BSDuRON6ZxLLIgZNYwIsIUA600rlpYPb8&source=gbs_api",
+   "small": "http://bks7.books.google.co.uk/books?id=NGADV7J25ggC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE73JABQ00H5LvKEPfo0oW5CfJojG5cx4uvnXwD0dSvDgQV9R_AGJott1lxmkfvUkzvRjRpxayN7t_K3y6mwb2_0adXTqy3jO48LggG3Q1wooIGwBZYM&source=gbs_api",
+   "medium": "http://bks7.books.google.co.uk/books?id=NGADV7J25ggC&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE720gzizCMF6jKcCsod_Bd-1r5NxaAyKQoHPKGtBmSngwFuGO-qmC57I0G6T_oqVicvFQf1ieVPpFZThoXv3UjTAi3gdLKz_ABM1qrZTE-E_HYBDzcM&source=gbs_api",
+   "large": "http://bks7.books.google.co.uk/books?id=NGADV7J25ggC&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE72yiw9idyWzE1E1CZctfczgHyC4b1lZE6QTuSyLd7-m2KFpAcSVp2qFRw0JB2Bmiqn0pQGjz_SOuxwePALSxd1K7ilawazRO0JfL0OhtwnlBAlKLPY&source=gbs_api"
+  },
+  "language": "en",
+  "previewLink": "http://books.google.co.uk/books?id=NGADV7J25ggC&hl=&source=gbs_api",
+  "infoLink": "http://books.google.co.uk/books?id=NGADV7J25ggC&hl=&source=gbs_api",
+  "canonicalVolumeLink": "http://books.google.co.uk/books/about/The_Amityville_Horror.html?hl=&id=NGADV7J25ggC"
+ },
+ "saleInfo": {
+  "country": "GB",
+  "saleability": "NOT_FOR_SALE",
+  "isEbook": false
+ },
+ "accessInfo": {
+  "country": "GB",
+  "viewability": "PARTIAL",
+  "embeddable": true,
+  "publicDomain": false,
+  "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+  "epub": {
+   "isAvailable": false
+  },
+  "pdf": {
+   "isAvailable": false
+  },
+  "webReaderLink": "http://books.google.co.uk/books/reader?id=NGADV7J25ggC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+  "accessViewStatus": "SAMPLE",
+  "quoteSharingAllowed": false
+ }
+}

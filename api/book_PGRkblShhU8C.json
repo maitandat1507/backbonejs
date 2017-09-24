@@ -1,0 +1,95 @@
+{
+ "kind": "books#volume",
+ "id": "PGRkblShhU8C",
+ "etag": "yH+I0VWjd6A",
+ "selfLink": "https://www.googleapis.com/books/v1/volumes/PGRkblShhU8C",
+ "volumeInfo": {
+  "title": "Handbook on the Economics of Sport",
+  "authors": [
+   "S. Szymanski"
+  ],
+  "publisher": "Edward Elgar Publishing",
+  "publishedDate": "2005",
+  "description": "The editors should be commended for taking on such a big task, and succeeding so well. This book should be in the library of every institution where students have to write a paper that may be related to sport, or on the shelf of any lecturer teaching economics or public finance who has even a remote interest in sport. The material is very accessible, and useful in many different settings. Ruud H. Koning, Jahrbücher f. Nationalökonomie u. Statistik Edward Elgar s brilliant market niche is identifying a topic in economics, finding editors who know the area backwards and challenging them to assemble the best cross-section of relevant articles either already published or newly commissioned. Handbook on the Economics of Sport is Edward Elgar at its very best. If you love economics you ll find many fascinating insights here; if you love sport but know little economics then this book is mostly accessible and will teach you a lot; and if you are a sports-mad economist then you will be in hog heaven. Furthermore, if, like this reviewer, you are broadly very sceptical about the reports consultants produce for governments on the supposed economic windfall from hosting a big event or subsidising a stadium then you will get a lot of good counter-arguments in this volume. Indeed there are several chapters on the above theme that I m sure I ll be copying frequently to government officials in years to come. . . The demand for sport is a fascinating subject and it is hard to pick out just one chapter from the second section. Read them all they make a wonderful 65-page treat. . . Part VI was a real feast, a smorgasbord. . . This is a magnificent piece of work and the 36-page index rounds it all off splendidly. John Blundell, Economic Affairs The book covers the most important areas of research of an emerging economic sub-discipline spanning the past half a century. It serves admirably the purpose of an introduction into the rich and growing area of reflection for all concerned. . . the editors and authors of the Handbook have done a commendable job of accumulating sophisticated material for many economists, managers, politicians and self-conscious fans, who are sure to find excellent training ground for the whole heptathlon. . . This book will be invaluable for advanced students investigating professional sport. From the point of view of lawyers, particularly those engaged with the relationship between law and sports governance, the Handbook offers invaluable analysis of the economic issues that are alluded to in those debates but rarely examined in detail. . . These insights will also prove useful for policy analysts and sports administrators for whom many sections should be considered mandatory reading. Aleksander Sulejewicz, Journal of Contemporary European Research Over 800 pages on the economics of sport. What a feast! What a treat! The editors have done a wonderful job both in terms of breadth from David Beckham to child labour in Pakistan and depth, tournaments and luxury taxes for example. . . The 86 chapters are uniformly of a very high standard and illuminating. And there are real gems in some of the contributions. British Journal on the Economics of Sport This very interesting and comprehensive book achieves its objective, namely to present an overview of research in sports economics at an introductory level. . . [The editors] have produced an excellent reference book that belongs in all academic institutions libraries. It provides extensive introduction to the growing body of literature in the rising field of economics of sport. The book s relevant monographs should be read by institutions, cities and countries prior to their committing major resources towards sports facilities or a sporting event. James Angresano, Journal of Sports Economics One could think of this book as the sports-and-economics counterpart to Joy of Cooking, because it will satisfy the needs of those with a keen interest in such subjects as the",
+  "industryIdentifiers": [
+   {
+    "type": "ISBN_10",
+    "identifier": "1847204074"
+   },
+   {
+    "type": "ISBN_13",
+    "identifier": "9781847204073"
+   }
+  ],
+  "readingModes": {
+   "text": false,
+   "image": true
+  },
+  "pageCount": 830,
+  "printedPageCount": 849,
+  "dimensions": {
+   "height": "25.00 cm"
+  },
+  "printType": "BOOK",
+  "categories": [
+   "Sports & Recreation / Business Aspects"
+  ],
+  "averageRating": 3.5,
+  "ratingsCount": 3,
+  "contentVersion": "preview-1.0.0",
+  "imageLinks": {
+   "smallThumbnail": "http://bks5.books.google.co.uk/books?id=PGRkblShhU8C&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE71fLCZW7IZus-g71QT847h0BeFQzTDQXq_MqJ2OQiUtyHhhboBEHldo-r_Ze8uyU6nnsIXZi_I5bWXYyqacJYeHplb1eQsBnMMmiD_7RhKpcJwvPRo&source=gbs_api",
+   "thumbnail": "http://bks5.books.google.co.uk/books?id=PGRkblShhU8C&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE72whMfXRuQbgABF5XkBsoXmd-28mgkGsTUNlr_7uKxO5x1_ury5RR1cy0nDxgqxpj5NRi99a5dOszIEFMiBsPTqoTDXF9WG4pwmlARzGHMhi7qBB5k&source=gbs_api",
+   "small": "http://bks5.books.google.co.uk/books?id=PGRkblShhU8C&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE725s1Mv5FBIcUlqbBGLPtLVBLo_QkWxCU8L3Bk04-4kyXA1PjBxvSIornp4oeT3a4Xt0cid9nlWUjKdaP65GJICMYDdnJ4OLIrWW3hxPqG_VXrKf-s&source=gbs_api",
+   "medium": "http://bks5.books.google.co.uk/books?id=PGRkblShhU8C&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE717ksrxlNeItMmGu3BtBXUmVoXjyTkA-xwl20p498ltW6F3mDRl9g9k6S0YyEBnBwguR74bdFzUeAHhdcLdTca1yiwoFjPZBwRhDrtFLXSyxTO5T8c&source=gbs_api"
+  },
+  "language": "en",
+  "previewLink": "http://books.google.co.uk/books?id=PGRkblShhU8C&hl=&source=gbs_api",
+  "infoLink": "http://books.google.co.uk/books?id=PGRkblShhU8C&hl=&source=gbs_api",
+  "canonicalVolumeLink": "http://books.google.co.uk/books/about/Handbook_on_the_Economics_of_Sport.html?hl=&id=PGRkblShhU8C"
+ },
+ "saleInfo": {
+  "country": "GB",
+  "saleability": "FOR_SALE",
+  "isEbook": true,
+  "listPrice": {
+   "amount": 48.0,
+   "currencyCode": "GBP"
+  },
+  "retailPrice": {
+   "amount": 36.9,
+   "currencyCode": "GBP"
+  },
+  "buyLink": "http://books.google.co.uk/books?id=PGRkblShhU8C&hl=&buy=&source=gbs_api",
+  "offers": [
+   {
+    "finskyOfferType": 1,
+    "listPrice": {
+     "amountInMicros": 4.8E7,
+     "currencyCode": "GBP"
+    },
+    "retailPrice": {
+     "amountInMicros": 3.69E7,
+     "currencyCode": "GBP"
+    }
+   }
+  ]
+ },
+ "accessInfo": {
+  "country": "GB",
+  "viewability": "PARTIAL",
+  "embeddable": true,
+  "publicDomain": false,
+  "textToSpeechPermission": "ALLOWED",
+  "epub": {
+   "isAvailable": false
+  },
+  "pdf": {
+   "isAvailable": true,
+   "acsTokenLink": "http://books.google.co.uk/books/download/Handbook_on_the_Economics_of_Sport-sample-pdf.acsm?id=PGRkblShhU8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+  },
+  "webReaderLink": "http://books.google.co.uk/books/reader?id=PGRkblShhU8C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+  "accessViewStatus": "SAMPLE",
+  "quoteSharingAllowed": false
+ }
+}

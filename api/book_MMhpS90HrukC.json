@@ -1,0 +1,74 @@
+{
+ "kind": "books#volume",
+ "id": "MMhpS90HrukC",
+ "etag": "Rq2GTgK0to4",
+ "selfLink": "https://www.googleapis.com/books/v1/volumes/MMhpS90HrukC",
+ "volumeInfo": {
+  "title": "Fifty Shades of Grey",
+  "authors": [
+   "E. L. James"
+  ],
+  "publisher": "Vintage Books",
+  "publishedDate": "2011",
+  "description": "\u003cp\u003e\u003cb\u003eSOON TO BE A MAJOR MOTION PICTURE\u003cbr\u003e \u003cbr\u003e Now in hardcover, with a silk ribbon marker and printed endpapers, the first volume of the \u003ci\u003eNew York Times\u003c/i\u003e #1 bestselling trilogy.\u003c/b\u003e\u003c/p\u003e \u003cp\u003eWhen literature student Anastasia Steele goes to interview young entrepreneur Christian Grey, she encounters a man who is beautiful, brilliant, and intimidating. The unworldly, innocent Ana is startled to realize she wants this man and, despite his enigmatic reserve, finds she is desperate to get close to him. Unable to resist Ana's quiet beauty, wit, and independent spirit, Grey admits he wants her, too--but on his own terms.\u003cbr\u003e  \u003cbr\u003e Shocked yet thrilled by Grey's singular erotic tastes, Ana hesitates. For all the trappings of success--his multinational businesses, his vast wealth, his loving family--Grey is a man tormented by demons and consumed by the need to control. When the couple embarks on a daring, passionately physical affair, Ana discovers Christian Grey's secrets and explores her own dark desires.\u003cbr\u003e \u003cbr\u003e Erotic, amusing, and deeply moving, the Fifty Shades Trilogy is a tale that will obsess you, possess you, and stay with you forever.\u003cbr\u003e \u003cbr\u003e This book is intended for mature audiences.\u003c/p\u003e",
+  "industryIdentifiers": [
+   {
+    "type": "ISBN_10",
+    "identifier": "0345803485"
+   },
+   {
+    "type": "ISBN_13",
+    "identifier": "9780345803481"
+   }
+  ],
+  "readingModes": {
+   "text": false,
+   "image": false
+  },
+  "pageCount": 514,
+  "printedPageCount": 530,
+  "dimensions": {
+   "height": "21.00 cm",
+   "width": "13.10 cm",
+   "thickness": "2.20 cm"
+  },
+  "printType": "BOOK",
+  "categories": [
+   "Fiction / Romance / Erotica",
+   "Fiction / Romance / Contemporary",
+   "Fiction / Contemporary Women"
+  ],
+  "averageRating": 3.5,
+  "ratingsCount": 272,
+  "contentVersion": "0.5.1.0.preview.0",
+  "imageLinks": {
+   "smallThumbnail": "http://bks5.books.google.co.uk/books?id=MMhpS90HrukC&printsec=frontcover&img=1&zoom=5&imgtk=AFLRE71C_26pm0pYdE5Z8WJC74bujOPmROGrNkfI_QH02JqO1R62gJF7HnbGBrDo9gNVHjUghKHP336FGBLsfj-gK6e1Rehvxaq_avwrVdN0nhIA-W3kwfw&source=gbs_api",
+   "thumbnail": "http://bks5.books.google.co.uk/books?id=MMhpS90HrukC&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72DR0zP8f4Gd3dxPlzGOBO7cMbZTB25sU7239CkOX3yUPLB2aGTV5-32U3xNbfcA5rO_h5dfRC_xMeu5ZxHvChYEkeTBuKZxsOhInsg__gS_8p8Uio&source=gbs_api"
+  },
+  "language": "en",
+  "previewLink": "http://books.google.co.uk/books?id=MMhpS90HrukC&hl=&source=gbs_api",
+  "infoLink": "http://books.google.co.uk/books?id=MMhpS90HrukC&hl=&source=gbs_api",
+  "canonicalVolumeLink": "http://books.google.co.uk/books/about/Fifty_Shades_of_Grey.html?hl=&id=MMhpS90HrukC"
+ },
+ "saleInfo": {
+  "country": "GB",
+  "saleability": "NOT_FOR_SALE",
+  "isEbook": false
+ },
+ "accessInfo": {
+  "country": "GB",
+  "viewability": "NO_PAGES",
+  "embeddable": false,
+  "publicDomain": false,
+  "textToSpeechPermission": "ALLOWED",
+  "epub": {
+   "isAvailable": false
+  },
+  "pdf": {
+   "isAvailable": false
+  },
+  "webReaderLink": "http://books.google.co.uk/books/reader?id=MMhpS90HrukC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+  "accessViewStatus": "NONE",
+  "quoteSharingAllowed": false
+ }
+}

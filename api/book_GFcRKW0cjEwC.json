@@ -1,0 +1,106 @@
+{
+ "kind": "books#volume",
+ "id": "GFcRKW0cjEwC",
+ "etag": "ZmWSnvV451A",
+ "selfLink": "https://www.googleapis.com/books/v1/volumes/GFcRKW0cjEwC",
+ "volumeInfo": {
+  "title": "A Natural History of the Romance Novel",
+  "authors": [
+   "Pamela Regis"
+  ],
+  "publisher": "University of Pennsylvania Press",
+  "publishedDate": "2011-01-01",
+  "description": "\u003cp\u003eThe romance novel has the strange distinction of being the most popular but least respected of literary genres. While it remains consistently dominant in bookstores and on best-seller lists, it is also widely dismissed by the critical community. Scholars have alleged that romance novels help create subservient readers, who are largely women, by confining heroines to stories that ignore issues other than love and marriage.\u003c/p\u003e\u003cp\u003ePamela Regis argues that such critical studies fail to take into consideration the personal choice of readers, offer any true definition of the romance novel, or discuss the nature and scope of the genre. Presenting the counterclaim that the romance novel does not enslave women but, on the contrary, is about celebrating freedom and joy, Regis offers a definition that provides critics with an expanded vocabulary for discussing a genre that is both classic and contemporary, sexy and entertaining.\u003c/p\u003e\u003cp\u003eTaking the stance that the popular romance novel is a work of literature with a brilliant pedigree, Regis asserts that it is also a very old, stable form. She traces the literary history of the romance novel from canonical works such as Richardson's \u003ci\u003ePamela\u003c/i\u003e through Austen's \u003ci\u003ePride and Prejudice\u003c/i\u003e, Brontë's \u003ci\u003eJane Eyre\u003c/i\u003e, and E. M. Hull's \u003ci\u003eThe Sheik\u003c/i\u003e, and then turns to more contemporary works such as the novels of Georgette Heyer, Mary Stewart, Janet Dailey, Jayne Ann Krentz, and Nora Roberts.\u003c/p\u003e",
+  "industryIdentifiers": [
+   {
+    "type": "ISBN_13",
+    "identifier": "9780812203103"
+   },
+   {
+    "type": "ISBN_10",
+    "identifier": "0812203100"
+   }
+  ],
+  "readingModes": {
+   "text": false,
+   "image": true
+  },
+  "pageCount": 240,
+  "printedPageCount": 241,
+  "printType": "BOOK",
+  "categories": [
+   "Literary Criticism / Gothic & Romance"
+  ],
+  "averageRating": 4.0,
+  "ratingsCount": 9,
+  "contentVersion": "1.2.1.0.preview.1",
+  "imageLinks": {
+   "smallThumbnail": "http://bks9.books.google.co.uk/books?id=GFcRKW0cjEwC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE72H7v-0JTSUtEqhWEy7h1JMgndLbrNkDzoI4pZnaCUvLNyRynW9K3cKO953F9ki7DpoCVbauTWyHh05eE0TJphoLXpSJ_q42mtO6G4gEH2jOGjGQ80&source=gbs_api",
+   "thumbnail": "http://bks9.books.google.co.uk/books?id=GFcRKW0cjEwC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE72e--lxX_ifQP6EcVNaY6FZeRrKHPIivAAPRKWXbCDEq5ZOjn3t3QvJaoxAsHMbRds_XDQSMAxVSodDUxLvw2E3nBaCduigX0Ho5gtjUVTHCMdd4Pg&source=gbs_api",
+   "small": "http://bks9.books.google.co.uk/books?id=GFcRKW0cjEwC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE71G0TeyvTb5n28yt2QOtFs4_DAcWHgJ0nAyVo-FwOpKckuU9XVbHEgFLuPZy34jtFvRkk1-FFiWarwW2h8QKNsU52H5GkO4YrRm3YpXF7JXHNhIxjg&source=gbs_api"
+  },
+  "language": "en",
+  "previewLink": "http://books.google.co.uk/books?id=GFcRKW0cjEwC&hl=&source=gbs_api",
+  "infoLink": "http://books.google.co.uk/books?id=GFcRKW0cjEwC&hl=&source=gbs_api",
+  "canonicalVolumeLink": "http://books.google.co.uk/books/about/A_Natural_History_of_the_Romance_Novel.html?hl=&id=GFcRKW0cjEwC"
+ },
+ "saleInfo": {
+  "country": "GB",
+  "saleability": "FOR_SALE_AND_RENTAL",
+  "isEbook": true,
+  "listPrice": {
+   "amount": 17.4,
+   "currencyCode": "GBP"
+  },
+  "retailPrice": {
+   "amount": 11.31,
+   "currencyCode": "GBP"
+  },
+  "buyLink": "http://books.google.co.uk/books?id=GFcRKW0cjEwC&hl=&buy=&source=gbs_api",
+  "offers": [
+   {
+    "finskyOfferType": 1,
+    "listPrice": {
+     "amountInMicros": 1.74E7,
+     "currencyCode": "GBP"
+    },
+    "retailPrice": {
+     "amountInMicros": 1.131E7,
+     "currencyCode": "GBP"
+    }
+   },
+   {
+    "finskyOfferType": 3,
+    "listPrice": {
+     "amountInMicros": 1.566E7,
+     "currencyCode": "GBP"
+    },
+    "retailPrice": {
+     "amountInMicros": 1.018E7,
+     "currencyCode": "GBP"
+    },
+    "rentalDuration": {
+     "unit": "DAY",
+     "count": 180.0
+    }
+   }
+  ]
+ },
+ "accessInfo": {
+  "country": "GB",
+  "viewability": "PARTIAL",
+  "embeddable": true,
+  "publicDomain": false,
+  "textToSpeechPermission": "ALLOWED",
+  "epub": {
+   "isAvailable": false
+  },
+  "pdf": {
+   "isAvailable": true,
+   "acsTokenLink": "http://books.google.co.uk/books/download/A_Natural_History_of_the_Romance_Novel-sample-pdf.acsm?id=GFcRKW0cjEwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+  },
+  "webReaderLink": "http://books.google.co.uk/books/reader?id=GFcRKW0cjEwC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+  "accessViewStatus": "SAMPLE",
+  "quoteSharingAllowed": false
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "kind": "books#volume",
+ "id": "Yo4cY5Rcd4MC",
+ "etag": "AJLO+A7Rcpw",
+ "selfLink": "https://www.googleapis.com/books/v1/volumes/Yo4cY5Rcd4MC",
+ "volumeInfo": {
+  "title": "Japanese Horror Cinema",
+  "authors": [
+   "Jay McRoy"
+  ],
+  "publisher": "Edinburgh University Press",
+  "publishedDate": "2005-01-01",
+  "description": "A much-needed critical introduction to some of the most important Japanese horror films produced over the last fifty years, Japanese Horror Cinema provides an insightful examination of the tradition's most significant trends and themes. The book examines the genre's dominant aesthetic, cultural, political and technological underpinnings, and individual chapters address key topics such as: the debt Japanese horror films owe to various Japanese theatrical and literary traditions; the popular 'avenging spirit' motif; the impact of atomic warfare, rapid industrialisation and apocalyptic rhetoric on Japanese visual culture; the extents to which changes in the economic and social climate inform representations of monstrosity and gender; the influence of recent shifts in audience demographics; and the developing relations (and contestations) between Japanese and 'Western' (Anglo-American and European) horror film tropes and traditions. Extensive coverage of the central thematic concerns and stylistic traits of Japanese horror cinema makes this volume an indispensable text for a myriad of film and cultural studies courses.Features:* Includes a preface by Christopher Sharrett* Each chapter covers a fundamental aspect of Japanese horror cinema and is written by an expert in the field* Case studies include internationally renowned films such as Nakata Hideo's \u003ci\u003eRingu\u003c/i\u003e, Ishii Takashi's \u003ci\u003eFreeze Me\u003c/i\u003e and Fukasaku Kinji's \u003ci\u003eBattle Royale\u003c/i\u003e* Appendices feature an interview with maverick filmmaker Miike Takashi and a filmography of Japanese horror films currently available in the UK and US.",
+  "industryIdentifiers": [
+   {
+    "type": "ISBN_10",
+    "identifier": "0748619941"
+   },
+   {
+    "type": "ISBN_13",
+    "identifier": "9780748619948"
+   }
+  ],
+  "readingModes": {
+   "text": true,
+   "image": true
+  },
+  "pageCount": 220,
+  "printedPageCount": 248,
+  "dimensions": {
+   "height": "24.00 cm",
+   "width": "15.60 cm",
+   "thickness": "2.50 cm"
+  },
+  "printType": "BOOK",
+  "averageRating": 5.0,
+  "ratingsCount": 1,
+  "contentVersion": "1.0.1.0.preview.3",
+  "imageLinks": {
+   "smallThumbnail": "http://bks4.books.google.co.uk/books?id=Yo4cY5Rcd4MC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE73UPF42hhNfvP3IbDBLx0u4Pp4yBUBQ8tAH3QZHan5QgisSQnFSwIOYJ1Xw3UW_m8ML2YLJ7dCrhcNHsOATeKpV8dyr4Qb0R95952RmengGqA0jKHo&source=gbs_api",
+   "thumbnail": "http://bks4.books.google.co.uk/books?id=Yo4cY5Rcd4MC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE70NksNbQS9v6S4PLW97sv2cVPWSWlgpcLWVh_qwpi32OTAZ_uEv68ISEk4FjSIUfD73fKAo77PhSuYoNdBf_FFt3JGf8YK6rKvdZmYkUMsBPRKQ29w&source=gbs_api",
+   "small": "http://bks4.books.google.co.uk/books?id=Yo4cY5Rcd4MC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE70fK7kkauvyD5XM2W8HpHLVGBoJJi9EaJQPo3L8teNBktehYEHmqYB3y1fzoiYVjpwNLJIs8RQ6QttjUtTYHVzesg-qaVyskQi7mYCjOkXVNe-QQHw&source=gbs_api",
+   "medium": "http://bks4.books.google.co.uk/books?id=Yo4cY5Rcd4MC&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE71pGdq5oCxnJsKlht-pSpVwJSSIdNvIsNkl8YZs3HkNXbK_NiAkBJz96FHZHSdButDhE_78f6eleOh0ya6VQHqwHTXadXtvwFFzWjvtQ1YoXKbtIGI&source=gbs_api",
+   "large": "http://bks4.books.google.co.uk/books?id=Yo4cY5Rcd4MC&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE73ZQ0aFmWY0hH4N1k6j1Cqn8ZifgnRCOnjqsEB9FxJj1yQGQhvUIlqKNUxTux9BwTJ5MreU9OrU0XFqLSMRPp-APmncj5hNQYpleQS3HVaMb61XgvE&source=gbs_api",
+   "extraLarge": "http://bks4.books.google.co.uk/books?id=Yo4cY5Rcd4MC&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE72Qf5DDEEfH8ukU2362CSIWU5icadA1vs8fyYtAmZh3zhK0yILfyNTBjfeW-bphfdlCgnTaMle1CHTzzANgOf0TBciH21TEmWOCzosBGf7ftq5cF5c&source=gbs_api"
+  },
+  "language": "en",
+  "previewLink": "http://books.google.co.uk/books?id=Yo4cY5Rcd4MC&hl=&source=gbs_api",
+  "infoLink": "http://books.google.co.uk/books?id=Yo4cY5Rcd4MC&hl=&source=gbs_api",
+  "canonicalVolumeLink": "http://books.google.co.uk/books/about/Japanese_Horror_Cinema.html?hl=&id=Yo4cY5Rcd4MC"
+ },
+ "layerInfo": {
+  "layers": [
+   {
+    "layerId": "geo",
+    "volumeAnnotationsVersion": "2"
+   }
+  ]
+ },
+ "saleInfo": {
+  "country": "GB",
+  "saleability": "NOT_FOR_SALE",
+  "isEbook": false
+ },
+ "accessInfo": {
+  "country": "GB",
+  "viewability": "PARTIAL",
+  "embeddable": true,
+  "publicDomain": false,
+  "textToSpeechPermission": "ALLOWED",
+  "epub": {
+   "isAvailable": true,
+   "acsTokenLink": "http://books.google.co.uk/books/download/Japanese_Horror_Cinema-sample-epub.acsm?id=Yo4cY5Rcd4MC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+  },
+  "pdf": {
+   "isAvailable": true,
+   "acsTokenLink": "http://books.google.co.uk/books/download/Japanese_Horror_Cinema-sample-pdf.acsm?id=Yo4cY5Rcd4MC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+  },
+  "webReaderLink": "http://books.google.co.uk/books/reader?id=Yo4cY5Rcd4MC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+  "accessViewStatus": "SAMPLE",
+  "quoteSharingAllowed": false
+ }
+}

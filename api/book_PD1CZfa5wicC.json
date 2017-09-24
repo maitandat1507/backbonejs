@@ -1,0 +1,106 @@
+{
+ "kind": "books#volume",
+ "id": "PD1CZfa5wicC",
+ "etag": "vbyAJNSlvRk",
+ "selfLink": "https://www.googleapis.com/books/v1/volumes/PD1CZfa5wicC",
+ "volumeInfo": {
+  "title": "Film, Horror, and the Body Fantastic",
+  "authors": [
+   "Linda Badley"
+  ],
+  "publisher": "Greenwood Publishing Group",
+  "publishedDate": "1995-01-01",
+  "description": "This fascinating study relates horror film to recent interpretations of the body and the self, drawing from feminist film theory, psychoanalytic theory, cultural criticism and gender studies. Applying the term \"horror\" broadly, this work includes discussions of black comedy, thrillers, science fiction, and slasher films. Central to this book is the view of horror as a modern iconography and \"discourse\" of the body. Badley's thought-provoking analysis of films by directors Tim Burton, Tobe Hooper, George Romero, Ridley Scott, Brian De Palma, David Lynch, David Cronenberg, Jonathan Demme, and Clive Barker, will be of interest to both scholars and students.",
+  "industryIdentifiers": [
+   {
+    "type": "ISBN_10",
+    "identifier": "0313275238"
+   },
+   {
+    "type": "ISBN_13",
+    "identifier": "9780313275234"
+   }
+  ],
+  "readingModes": {
+   "text": true,
+   "image": true
+  },
+  "pageCount": 199,
+  "printedPageCount": 216,
+  "dimensions": {
+   "height": "24.00 cm",
+   "width": "16.00 cm",
+   "thickness": "1.90 cm"
+  },
+  "printType": "BOOK",
+  "categories": [
+   "Literary Criticism / Science Fiction & Fantasy"
+  ],
+  "contentVersion": "1.0.0.0.preview.3",
+  "imageLinks": {
+   "smallThumbnail": "http://bks1.books.google.co.uk/books?id=PD1CZfa5wicC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE71H5NDrrhPq1zfkUC3ko3v878VufmzeQVYeCBgGUPK9YSnp5X_YMe8Yj3bBkbaaqcSJ_KUaX6-DBXwGVVVzXsjQQVoM7vJA5OBix7k1N1L7XoTe1rw&source=gbs_api",
+   "thumbnail": "http://bks1.books.google.co.uk/books?id=PD1CZfa5wicC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE71UxSdt34nRHsESaDjxKo-3IhOokC3COxfp5YfYM9Zv-hUvlpvcLAgTEp65SIrrK-sbvf9OCI7RqNbvXNkkQ7DchgD93gBYsg6WVA3Ex8j7r3v3k3U&source=gbs_api",
+   "small": "http://bks1.books.google.co.uk/books?id=PD1CZfa5wicC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE72tIyvzSGBLpP3OJ5SHrTdyWjoNub27EvUO6Ca2ZZgd0Gyfxxcmtr2-7E7MOxpANKd95rDvfghczjPTsw8TZmg8SBxU_GFGN8NBQLiq6oHxJJPQHLw&source=gbs_api",
+   "medium": "http://bks1.books.google.co.uk/books?id=PD1CZfa5wicC&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE726e6tbjUmAwoQ6PWUmFeGTzraiV2W4Z5mABRWmIPlCZ_FU5-TtkBFnLcZzkJGZ2sse2_36TC8sA3tQgI5eW3b2Phv-QWSWyFhv6f_zVDuoACx0yvQ&source=gbs_api",
+   "large": "http://bks1.books.google.co.uk/books?id=PD1CZfa5wicC&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE73Ng2_3ZNlN59dPQRLl2YYET0dqALtZFpQi5XTTdd-Ohimmk2gSByj62y7PIZxyBekt0pbKTtT1fTvl4ipltMs1ApXJqyYPGRk8RDETNnmxh-gOx7Y&source=gbs_api",
+   "extraLarge": "http://bks1.books.google.co.uk/books?id=PD1CZfa5wicC&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE71oPv277srhiOh2HymZdPg4yVI6YIG0ajkikjXZ9bEr10Fasam5EvrBSNyUvTqCAkhaj7JWzVyuLU8LnW4xcfqwtQcJzndxh7ZO5AP7G2BkvXbxKUY&source=gbs_api"
+  },
+  "language": "en",
+  "previewLink": "http://books.google.co.uk/books?id=PD1CZfa5wicC&hl=&source=gbs_api",
+  "infoLink": "http://books.google.co.uk/books?id=PD1CZfa5wicC&hl=&source=gbs_api",
+  "canonicalVolumeLink": "http://books.google.co.uk/books/about/Film_Horror_and_the_Body_Fantastic.html?hl=&id=PD1CZfa5wicC"
+ },
+ "layerInfo": {
+  "layers": [
+   {
+    "layerId": "geo",
+    "volumeAnnotationsVersion": "3"
+   }
+  ]
+ },
+ "saleInfo": {
+  "country": "GB",
+  "saleability": "FOR_SALE",
+  "isEbook": true,
+  "listPrice": {
+   "amount": 85.2,
+   "currencyCode": "GBP"
+  },
+  "retailPrice": {
+   "amount": 55.38,
+   "currencyCode": "GBP"
+  },
+  "buyLink": "http://books.google.co.uk/books?id=PD1CZfa5wicC&hl=&buy=&source=gbs_api",
+  "offers": [
+   {
+    "finskyOfferType": 1,
+    "listPrice": {
+     "amountInMicros": 8.52E7,
+     "currencyCode": "GBP"
+    },
+    "retailPrice": {
+     "amountInMicros": 5.538E7,
+     "currencyCode": "GBP"
+    }
+   }
+  ]
+ },
+ "accessInfo": {
+  "country": "GB",
+  "viewability": "PARTIAL",
+  "embeddable": true,
+  "publicDomain": false,
+  "textToSpeechPermission": "ALLOWED",
+  "epub": {
+   "isAvailable": true,
+   "acsTokenLink": "http://books.google.co.uk/books/download/Film_Horror_and_the_Body_Fantastic-sample-epub.acsm?id=PD1CZfa5wicC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+  },
+  "pdf": {
+   "isAvailable": true,
+   "acsTokenLink": "http://books.google.co.uk/books/download/Film_Horror_and_the_Body_Fantastic-sample-pdf.acsm?id=PD1CZfa5wicC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+  },
+  "webReaderLink": "http://books.google.co.uk/books/reader?id=PD1CZfa5wicC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+  "accessViewStatus": "SAMPLE",
+  "quoteSharingAllowed": false
+ }
+}

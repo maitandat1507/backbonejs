@@ -1,0 +1,75 @@
+{
+ "kind": "books#volume",
+ "id": "2ioRPCnPvLIC",
+ "etag": "4mjI679LTMg",
+ "selfLink": "https://www.googleapis.com/books/v1/volumes/2ioRPCnPvLIC",
+ "volumeInfo": {
+  "title": "Sport Management",
+  "subtitle": "Principles and Applications",
+  "authors": [
+   "Aaron C. T. Smith",
+   "Matthew Nicholson"
+  ],
+  "publisher": "Routledge",
+  "publishedDate": "2012",
+  "description": "Sport Management: Principles and applications provides a comprehensive introduction to the practical application of management principles within sport organisations. It is ideal for first and second year students studying sport management related courses, as well as those studying business focussed and human movement/physical education courses seeking an overview of sport management principles. In full colour to make key information easier to locate, the book provides a comprehensive overview of: -The nature of the sport industry and the role of the state, non-profit and professional sectors in sport. -Core management principles and their application in sport, highlighting the unique features of how sport is managed. Includes discussion and insight into strategic planning, organisational culture, organisational structures, human resource management, leadership, governance, financial management, marketing and performance management. Highly accessible, each chapter has a coherent structure featuring: -A conceptual overview of the focus for the chapter. -A presentation of accepted practice and key research findings supported by specific organisational examples at the community, state/provincial, national and professional levels drawing from countries around the globe. -A section of teaching and learning resources including a reference list, suggesons for further reading, relevant websites, and tutorial activity or study questions.. -Brand new to this edition is a new case study at the end of each chapter as well as two new chapters on marketing and financial management. * Covers the fundamental management issues unique to sport so that students understand how general management principles relate to their area of study. * Extensive online lecturer materials, including PowerPoint for every chapter, tutorial activities, test banks, and diagnostic and teaching notes help lecturers save time preparing for lectures. * Brand new case studies, examples and chapters from the UK, Europe and Asia-Pacific prepare students for employment in any country.",
+  "industryIdentifiers": [
+   {
+    "type": "ISBN_10",
+    "identifier": "1856178196"
+   },
+   {
+    "type": "ISBN_13",
+    "identifier": "9781856178198"
+   }
+  ],
+  "readingModes": {
+   "text": false,
+   "image": true
+  },
+  "pageCount": 284,
+  "printedPageCount": 306,
+  "dimensions": {
+   "height": "24.80 cm",
+   "width": "17.10 cm",
+   "thickness": "1.50 cm"
+  },
+  "printType": "BOOK",
+  "categories": [
+   "Business & Economics / General",
+   "BUSINESS & ECONOMICS / General",
+   "Sports & Recreation / General"
+  ],
+  "contentVersion": "1.1.1.0.preview.1",
+  "imageLinks": {
+   "smallThumbnail": "http://bks7.books.google.co.uk/books?id=2ioRPCnPvLIC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE72o1j7kc_bd4lfRj3OuJx92nayrZf5QpEZqrls9jwHtDqg7N8ZpLEvpdk9zI3kYhttZtdcffVfRiJjfCfx7AkUZ8xOBmdEhlldTKywZ6oNpBvOB7qM&source=gbs_api",
+   "thumbnail": "http://bks7.books.google.co.uk/books?id=2ioRPCnPvLIC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE70QO5rSzdnpIY_UBY6eQ50lShJicZVyJYTAW4wvsvVe6jXZdxB3-CyAJYnWF8k68zTiCTi0f_0t1QKjRh1LoxXR9h_ABBDfmvt94MhVdoE-uG2RHOw&source=gbs_api",
+   "small": "http://bks7.books.google.co.uk/books?id=2ioRPCnPvLIC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE72KifexoAoTYetTrJq4pNe3tP2t4bceOf5J-g1hJFYulVEp70eu2R67eoDfwY0Ze_gaiPuLyOoVW8XWXxEgckpwM1QweW_drGEp5ekSlkgQEwQ02DA&source=gbs_api"
+  },
+  "language": "en",
+  "previewLink": "http://books.google.co.uk/books?id=2ioRPCnPvLIC&hl=&source=gbs_api",
+  "infoLink": "http://books.google.co.uk/books?id=2ioRPCnPvLIC&hl=&source=gbs_api",
+  "canonicalVolumeLink": "http://books.google.co.uk/books/about/Sport_Management.html?hl=&id=2ioRPCnPvLIC"
+ },
+ "saleInfo": {
+  "country": "GB",
+  "saleability": "NOT_FOR_SALE",
+  "isEbook": false
+ },
+ "accessInfo": {
+  "country": "GB",
+  "viewability": "PARTIAL",
+  "embeddable": true,
+  "publicDomain": false,
+  "textToSpeechPermission": "ALLOWED",
+  "epub": {
+   "isAvailable": false
+  },
+  "pdf": {
+   "isAvailable": false
+  },
+  "webReaderLink": "http://books.google.co.uk/books/reader?id=2ioRPCnPvLIC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+  "accessViewStatus": "SAMPLE",
+  "quoteSharingAllowed": false
+ }
+}

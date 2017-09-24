@@ -1,0 +1,77 @@
+{
+ "kind": "books#volume",
+ "id": "294tC17NPzYC",
+ "etag": "6Ke8XKAyTfU",
+ "selfLink": "https://www.googleapis.com/books/v1/volumes/294tC17NPzYC",
+ "volumeInfo": {
+  "title": "6 Scifi Stories",
+  "authors": [
+   "Robert T. Jeschonek"
+  ],
+  "publisher": "Robert Jeschonek",
+  "publishedDate": "2010-11-16",
+  "description": "Six amazing stories: \"The Greatest Serial Killer in the Universe\": Serial killer trains aliens. \"The Love Quest of Smidgen the Snack Cake\": Hellish pastry in love. \"Playing Doctor\": Lab assistant loves mad scientist. \"Serial Killer vs. E-Merica\": Murder in a virtual reality Congress. \"My Cannibal Lover\": Bounty hunter falls for an edible man. \"Zinzizinzizinzic\": Aliens invade our shadows.",
+  "industryIdentifiers": [
+   {
+    "type": "ISBN_10",
+    "identifier": "1452384924"
+   },
+   {
+    "type": "ISBN_13",
+    "identifier": "9781452384924"
+   }
+  ],
+  "readingModes": {
+   "text": true,
+   "image": true
+  },
+  "pageCount": 269,
+  "printedPageCount": 269,
+  "printType": "BOOK",
+  "categories": [
+   "Fiction / Science Fiction / General"
+  ],
+  "contentVersion": "0.1.0.0.preview.3",
+  "imageLinks": {
+   "smallThumbnail": "http://bks5.books.google.co.uk/books?id=294tC17NPzYC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE73s2QBy8SKTLs8jkyxAokrYSdasoDdpZe7zcib6_BboaRZQEuoOTPTNg6EGog1iDwMMqo-ijiL289PftMYPABXM1x_AVQQvKRUhPj6d8MgekoB-A2k&source=gbs_api",
+   "thumbnail": "http://bks5.books.google.co.uk/books?id=294tC17NPzYC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE70P9XledGJgqBiAIIidoM1muMD-QEtoD31dccb2G6uXSx1Dskc7WeTBhBDkqV33k51MMwyo7ZyjI-lEIhWT0WZeVIYBvDjByVR_IjUHNYWaglStNpI&source=gbs_api",
+   "small": "http://bks5.books.google.co.uk/books?id=294tC17NPzYC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE73cvc3-Y6Qbl3I1NFhyYj7R8aSwijyEMSkYI-1ZsHcV8Xf7q3VncEHs32md4X2d59elIL1PCyz06AceyaVTYIqthEVdm03MRtGsnx1gpxRM6vjy5gk&source=gbs_api",
+   "medium": "http://bks5.books.google.co.uk/books?id=294tC17NPzYC&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE71njWrWKxyGqOd_4n7yu8u1Ftq1PdA9SfiQiBWagm8AFnyWa3-QcC-FcBww6O74HzWnIBX5XcdRI8Lidi0gCDDBzz_nBIatKxPVJvOnmVnEZF-tjVw&source=gbs_api",
+   "large": "http://bks5.books.google.co.uk/books?id=294tC17NPzYC&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE72oYa7qxJc_Y7k3cbPab6B949kcnMLiPMtzGbnLUqMYhYhxCOlxk6MLPaFlzvn29u4nt6y7L9zr2zXB6ODX6WDt1SyfiZjn9TyZqpyhV2dtv3ySS5Q&source=gbs_api",
+   "extraLarge": "http://bks5.books.google.co.uk/books?id=294tC17NPzYC&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE71z4HRH1lnJ2MjTb3EX--elDvNysmGgGLyNYQrp4iWd2D8AYF6i-b4Ug_-4jxyxy0eEdpMKS1KxJbSPRorHUDfnbm6KAGSBI28OYGGuXHavCixt5ak&source=gbs_api"
+  },
+  "language": "en",
+  "previewLink": "http://books.google.co.uk/books?id=294tC17NPzYC&hl=&source=gbs_api",
+  "infoLink": "http://books.google.co.uk/books?id=294tC17NPzYC&hl=&source=gbs_api",
+  "canonicalVolumeLink": "http://books.google.co.uk/books/about/6_Scifi_Stories.html?hl=&id=294tC17NPzYC"
+ },
+ "layerInfo": {
+  "layers": [
+   {
+    "layerId": "geo",
+    "volumeAnnotationsVersion": "3"
+   }
+  ]
+ },
+ "saleInfo": {
+  "country": "GB",
+  "saleability": "NOT_FOR_SALE",
+  "isEbook": false
+ },
+ "accessInfo": {
+  "country": "GB",
+  "viewability": "PARTIAL",
+  "embeddable": true,
+  "publicDomain": false,
+  "textToSpeechPermission": "ALLOWED",
+  "epub": {
+   "isAvailable": true
+  },
+  "pdf": {
+   "isAvailable": true
+  },
+  "webReaderLink": "http://books.google.co.uk/books/reader?id=294tC17NPzYC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+  "accessViewStatus": "SAMPLE",
+  "quoteSharingAllowed": false
+ }
+}

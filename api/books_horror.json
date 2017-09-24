@@ -1,0 +1,754 @@
+[
+  {
+   "kind": "books#volume",
+   "id": "NGADV7J25ggC",
+   "etag": "w+wJ2W9DNxY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/NGADV7J25ggC",
+   "volumeInfo": {
+    "title": "The Amityville Horror",
+    "authors": [
+     "Jay Anson"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2005-08-01",
+    "description": "The classic and terrifying story of one of the most famous supernatural events--the infamous possessed house on Long Island from which the Lutz family fled in 1975.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781416507697"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1416507698"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 541,
+    "contentVersion": "0.1.0.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.co.uk/books?id=NGADV7J25ggC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks7.books.google.co.uk/books?id=NGADV7J25ggC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=NGADV7J25ggC&printsec=frontcover&dq=horror&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=NGADV7J25ggC&dq=horror&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/The_Amityville_Horror.html?hl=&id=NGADV7J25ggC"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=NGADV7J25ggC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The classic and terrifying story of one of the most famous supernatural events--the infamous possessed house on Long Island from which the Lutz family fled in 1975."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9aBTSTQoEQQC",
+   "etag": "Cri7ikI53Go",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9aBTSTQoEQQC",
+   "volumeInfo": {
+    "title": "Body Horror",
+    "subtitle": "Photojournalism, Catastrophe and War",
+    "authors": [
+     "John Taylor"
+    ],
+    "publisher": "Manchester University Press",
+    "publishedDate": "1998",
+    "description": "Asks why anyone would want to look at shocking photographs. The text questions what happens when the press uses gruesome images to represent accidents and disasters, murder and execution, grief and death. It examines how the press pictures the dead and injured bodies of foreigners, with particular reference to the special conditions of photographing the horror of wars in the Gulf, Bosnia and Rwanda. It argues that hard-hitting documentary photography contributes to public knowledge and helps to define the freedom of the press.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0719037220"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780719037221"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 210,
+    "printType": "BOOK",
+    "categories": [
+     "Freedom of information"
+    ],
+    "contentVersion": "0.0.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.co.uk/books?id=9aBTSTQoEQQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks6.books.google.co.uk/books?id=9aBTSTQoEQQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=9aBTSTQoEQQC&printsec=frontcover&dq=horror&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=9aBTSTQoEQQC&dq=horror&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/Body_Horror.html?hl=&id=9aBTSTQoEQQC"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.co.uk/books/download/Body_Horror-sample-epub.acsm?id=9aBTSTQoEQQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=9aBTSTQoEQQC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Asks why anyone would want to look at shocking photographs. The text questions what happens when the press uses gruesome images to represent accidents and disasters, murder and execution, grief and death."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "yNEfpTpoNukC",
+   "etag": "59OaxZ1fsXI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/yNEfpTpoNukC",
+   "volumeInfo": {
+    "title": "Horror Fiction",
+    "subtitle": "An Introduction",
+    "authors": [
+     "Gina Wisker"
+    ],
+    "publisher": "A&C Black",
+    "publishedDate": "2005-07-13",
+    "description": "This is a series of introductory books about different types of writing. One strand of the series focuses on genres such asScience Fiction, Horror, Romance, and Crime, and the other focuses on movements or styles often associated with historicaland cultural locations\u0097Postcolonial, Native American, Scottish, Irish, American Gothic.Authors covered in this volume includeWilliam Peter Blatty, Ira Levine, BramStoker, Shirley Jackson, Angela Carter,Mary Shelley, Stephen King, Anne Rice,and Washington Irving.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "082641561X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780826415615"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 294,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "0.0.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.co.uk/books?id=yNEfpTpoNukC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks1.books.google.co.uk/books?id=yNEfpTpoNukC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=yNEfpTpoNukC&printsec=frontcover&dq=horror&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=yNEfpTpoNukC&dq=horror&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/Horror_Fiction.html?hl=&id=yNEfpTpoNukC"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.co.uk/books/download/Horror_Fiction-sample-epub.acsm?id=yNEfpTpoNukC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=yNEfpTpoNukC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This is a series of introductory books about different types of writing."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "wSL7mS6mpmkC",
+   "etag": "y5MuDPi79Nc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/wSL7mS6mpmkC",
+   "volumeInfo": {
+    "title": "The Pleasures of Horror",
+    "authors": [
+     "Matt Hills"
+    ],
+    "publisher": "A&C Black",
+    "publishedDate": "2005-06-20",
+    "description": "Pleasures of Horror is a stimulating and insightful exploration of horror fictions\u0097literary, cinematic and televisual\u0097and the emotions they engender in their audiences. The text is divided into three sections. The first examines how horror is valued and devalued in different cultural fields; the second investigates the cultural politics of the contemporary horror film; while the final part considers horror fandom in relation to its embodied practices (film festivals), its \"reading formations\" (commercial fan magazines and fanzines) and the role of special effects. Pleasures of Horror combines a wide range of media and textual examples with highly detailed and closely focused exposition of theory. It is a fascinating and engaging look at responses to a hugely popular genre and an invaluable resource for students of media, cultural and film studies and fans of horror.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0826458874"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780826458872"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 250,
+    "printType": "BOOK",
+    "categories": [
+     "Social Science"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks2.books.google.co.uk/books?id=wSL7mS6mpmkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks2.books.google.co.uk/books?id=wSL7mS6mpmkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=wSL7mS6mpmkC&printsec=frontcover&dq=horror&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=wSL7mS6mpmkC&dq=horror&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/The_Pleasures_of_Horror.html?hl=&id=wSL7mS6mpmkC"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.co.uk/books/download/The_Pleasures_of_Horror-sample-epub.acsm?id=wSL7mS6mpmkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=wSL7mS6mpmkC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Pleasures of Horror is a stimulating and insightful exploration of horror fictions_literary, cinematic and televisual_and the emotions they engender in their audiences. The text is divided into three sections."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nG3ogaDTJT0C",
+   "etag": "2I6thrkkXHk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nG3ogaDTJT0C",
+   "volumeInfo": {
+    "title": "Deleuze and Horror Film",
+    "authors": [
+     "Anna Powell"
+    ],
+    "publisher": "Edinburgh University Press",
+    "publishedDate": "2006",
+    "description": "This book argues that dominant psychoanalytic approaches to horror films neglect the aesthetics of horror. Using Deleuze's work on art and film, Anna Powell argues that film viewing is a form of \"altered consciousness\" and the experience of viewing horror film an \"embodied event.\" Themes such as insanity, sensory response to film, the subject/object, fractured time, the body, and cinematography are explored in a variety of classic and contemporary horror films.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0748617485"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780748617487"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 232,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "0.0.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.co.uk/books?id=nG3ogaDTJT0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks1.books.google.co.uk/books?id=nG3ogaDTJT0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=nG3ogaDTJT0C&printsec=frontcover&dq=horror&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=nG3ogaDTJT0C&dq=horror&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/Deleuze_and_Horror_Film.html?hl=&id=nG3ogaDTJT0C"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 21.12,
+     "currencyCode": "GBP"
+    },
+    "retailPrice": {
+     "amount": 13.73,
+     "currencyCode": "GBP"
+    },
+    "buyLink": "http://books.google.co.uk/books?id=nG3ogaDTJT0C&dq=horror&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.112E7,
+       "currencyCode": "GBP"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.373E7,
+       "currencyCode": "GBP"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.co.uk/books/download/Deleuze_and_Horror_Film-sample-epub.acsm?id=nG3ogaDTJT0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.co.uk/books/download/Deleuze_and_Horror_Film-sample-pdf.acsm?id=nG3ogaDTJT0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=nG3ogaDTJT0C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This book argues that dominant psychoanalytic approaches to horror films neglect the aesthetics of horror."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "lupBCb1lcokC",
+   "etag": "63Nol8XE4V0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/lupBCb1lcokC",
+   "volumeInfo": {
+    "title": "A Haunt of Fears: The Strange History of the British Horror Comics Campaign",
+    "authors": [
+     "Martin Barker"
+    ],
+    "publisher": "Univ. Press of Mississippi",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1617037478"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781617037474"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "contentVersion": "0.1.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.co.uk/books?id=lupBCb1lcokC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks5.books.google.co.uk/books?id=lupBCb1lcokC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=lupBCb1lcokC&printsec=frontcover&dq=horror&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=lupBCb1lcokC&dq=horror&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/A_Haunt_of_Fears_The_Strange_History_of.html?hl=&id=lupBCb1lcokC"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=lupBCb1lcokC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Yo4cY5Rcd4MC",
+   "etag": "EjwcUVsx25g",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Yo4cY5Rcd4MC",
+   "volumeInfo": {
+    "title": "Japanese Horror Cinema",
+    "authors": [
+     "Jay McRoy"
+    ],
+    "publisher": "Edinburgh University Press",
+    "publishedDate": "2005-01-01",
+    "description": "A much-needed critical introduction to some of the most important Japanese horror films produced over the last fifty years, Japanese Horror Cinema provides an insightful examination of the tradition's most significant trends and themes. The book examines the genre's dominant aesthetic, cultural, political and technological underpinnings, and individual chapters address key topics such as: the debt Japanese horror films owe to various Japanese theatrical and literary traditions; the popular 'avenging spirit' motif; the impact of atomic warfare, rapid industrialisation and apocalyptic rhetoric on Japanese visual culture; the extents to which changes in the economic and social climate inform representations of monstrosity and gender; the influence of recent shifts in audience demographics; and the developing relations (and contestations) between Japanese and 'Western' (Anglo-American and European) horror film tropes and traditions. Extensive coverage of the central thematic concerns and stylistic traits of Japanese horror cinema makes this volume an indispensable text for a myriad of film and cultural studies courses.Features:* Includes a preface by Christopher Sharrett* Each chapter covers a fundamental aspect of Japanese horror cinema and is written by an expert in the field* Case studies include internationally renowned films such as Nakata Hideo's Ringu, Ishii Takashi's Freeze Me and Fukasaku Kinji's Battle Royale* Appendices feature an interview with maverick filmmaker Miike Takashi and a filmography of Japanese horror films currently available in the UK and US.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0748619941"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780748619948"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 220,
+    "printType": "BOOK",
+    "categories": [
+     "Horror films"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "1.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://bks4.books.google.co.uk/books?id=Yo4cY5Rcd4MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks4.books.google.co.uk/books?id=Yo4cY5Rcd4MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=Yo4cY5Rcd4MC&printsec=frontcover&dq=horror&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=Yo4cY5Rcd4MC&dq=horror&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/Japanese_Horror_Cinema.html?hl=&id=Yo4cY5Rcd4MC"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.co.uk/books/download/Japanese_Horror_Cinema-sample-pdf.acsm?id=Yo4cY5Rcd4MC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=Yo4cY5Rcd4MC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Extensive coverage of the central thematic concerns and stylistic traits of Japanese horror cinema makes this volume an indispensable text for a myriad of film and cultural studies courses.Features:* Includes a preface by Christopher ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PD1CZfa5wicC",
+   "etag": "aKmLNQnDo80",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PD1CZfa5wicC",
+   "volumeInfo": {
+    "title": "Film, Horror, and the Body Fantastic",
+    "authors": [
+     "Linda Badley"
+    ],
+    "publisher": "Greenwood Publishing Group",
+    "publishedDate": "1995-01-01",
+    "description": "This fascinating study relates horror film to recent interpretations of the body and the self, drawing from feminist film theory, psychoanalytic theory, cultural criticism and gender studies. Applying the term \"horror\" broadly, this work includes discussions of black comedy, thrillers, science fiction, and slasher films. Central to this book is the view of horror as a modern iconography and \"discourse\" of the body. Badley's thought-provoking analysis of films by directors Tim Burton, Tobe Hooper, George Romero, Ridley Scott, Brian De Palma, David Lynch, David Cronenberg, Jonathan Demme, and Clive Barker, will be of interest to both scholars and students.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0313275238"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780313275234"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 199,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "1.0.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.co.uk/books?id=PD1CZfa5wicC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks1.books.google.co.uk/books?id=PD1CZfa5wicC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=PD1CZfa5wicC&printsec=frontcover&dq=horror&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=PD1CZfa5wicC&dq=horror&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/Film_Horror_and_the_Body_Fantastic.html?hl=&id=PD1CZfa5wicC"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 85.2,
+     "currencyCode": "GBP"
+    },
+    "retailPrice": {
+     "amount": 55.38,
+     "currencyCode": "GBP"
+    },
+    "buyLink": "http://books.google.co.uk/books?id=PD1CZfa5wicC&dq=horror&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 8.52E7,
+       "currencyCode": "GBP"
+      },
+      "retailPrice": {
+       "amountInMicros": 5.538E7,
+       "currencyCode": "GBP"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.co.uk/books/download/Film_Horror_and_the_Body_Fantastic-sample-epub.acsm?id=PD1CZfa5wicC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.co.uk/books/download/Film_Horror_and_the_Body_Fantastic-sample-pdf.acsm?id=PD1CZfa5wicC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=PD1CZfa5wicC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Applying the term &quot;horror&quot; broadly, this work includes discussions of black comedy, thrillers, science fiction, and slasher films. Central to this book is the view of horror as a modern iconography and &quot;discourse&quot; of the body."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vUZoxITGufkC",
+   "etag": "pLSoXbPy2F4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vUZoxITGufkC",
+   "volumeInfo": {
+    "title": "The Shining",
+    "authors": [
+     "Stephen King"
+    ],
+    "publisher": "Simon and Schuster",
+    "publishedDate": "2002-10-01",
+    "description": "Jack Torrance sees his stint as winter caretaker of a Colorado hotel as a way back from failure, his wife sees it as a chance to preserve their family, and their five-year-old son sees the evil waiting just for them, as they journey into a world in which old horrors come to life to destroy the living. Reprint.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780743437493"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0743437497"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 505,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 71,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.co.uk/books?id=vUZoxITGufkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks8.books.google.co.uk/books?id=vUZoxITGufkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=vUZoxITGufkC&printsec=frontcover&dq=horror&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=vUZoxITGufkC&dq=horror&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/The_Shining.html?hl=&id=vUZoxITGufkC"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=vUZoxITGufkC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Jack Torrance sees his stint as winter caretaker of a Colorado hotel as a way back from failure, his wife sees it as a chance to preserve their family, and their five-year-old son sees the evil waiting just for them, as they journey into a ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pNaQLQC9XhEC",
+   "etag": "zX9WsDtMHVE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pNaQLQC9XhEC",
+   "volumeInfo": {
+    "title": "Horror Video Games",
+    "subtitle": "Essays on the Fusion of Fear and Play",
+    "authors": [
+     "Bernard Perron"
+    ],
+    "publisher": "McFarland",
+    "publishedDate": "2009-09-15",
+    "description": "\"In this in-depth critical and theoretical analysis of the horror genre in video games, 14 essays explore the cultural underpinnings of horror's allure for gamers and the evolution of \"survival\" themes. The techniques and story effects of specific games such as Resident Evil, Call of Cthulhu, and Silent Hill are examined individually\"--Provided by publisher.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780786454792"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0786454792"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 310,
+    "printType": "BOOK",
+    "categories": [
+     "Games"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "1.1.4.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.co.uk/books?id=pNaQLQC9XhEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks6.books.google.co.uk/books?id=pNaQLQC9XhEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=pNaQLQC9XhEC&printsec=frontcover&dq=horror&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=pNaQLQC9XhEC&dq=horror&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/Horror_Video_Games.html?hl=&id=pNaQLQC9XhEC"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 19.32,
+     "currencyCode": "GBP"
+    },
+    "retailPrice": {
+     "amount": 12.56,
+     "currencyCode": "GBP"
+    },
+    "buyLink": "http://books.google.co.uk/books?id=pNaQLQC9XhEC&dq=horror&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.932E7,
+       "currencyCode": "GBP"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.256E7,
+       "currencyCode": "GBP"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.co.uk/books/download/Horror_Video_Games-sample-epub.acsm?id=pNaQLQC9XhEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.co.uk/books/download/Horror_Video_Games-sample-pdf.acsm?id=pNaQLQC9XhEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=pNaQLQC9XhEC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The techniques and story effects of specific games such as Resident Evil, Call of Cthulhu, and Silent Hill are examined individually&quot;--Provided by publisher."
+   }
+  }
+]

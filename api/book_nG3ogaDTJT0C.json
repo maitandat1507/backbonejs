@@ -1,0 +1,109 @@
+{
+ "kind": "books#volume",
+ "id": "nG3ogaDTJT0C",
+ "etag": "1oK4M5jHMFQ",
+ "selfLink": "https://www.googleapis.com/books/v1/volumes/nG3ogaDTJT0C",
+ "volumeInfo": {
+  "title": "Deleuze and Horror Film",
+  "authors": [
+   "Anna Powell"
+  ],
+  "publisher": "Edinburgh University Press",
+  "publishedDate": "2006",
+  "description": "\u003ci\u003eThe horror film analysed from a Deleuzian perspective\u003c/i\u003e. This book argues that dominant psychoanalytic approaches to horror films neglect the aesthetics of horror. Yet cinematic devices such as mise en scène, editing and sound, are central to the viewer’s visceral fear and arousal. Using Deleuze’s work on art and film, Anna Powell argues that film viewing is a form of ‘altered consciousness’ and the experience of viewing horror film an ‘embodied event’.The book begins with a critical introduction to the key terms in Deleuzian philosophy and aesthetics. These include: subjectivity/becoming, the body without organs, molecularity, time/duration, affect, movement/rhythm, space, anomaly and schizoanalysis. These concepts are then applied to horror films.Themes such as insanity, sensory response to film, the subject/object, fractured time, the body and cinematography are explored in horror films such as \u003ci\u003eJacob’s Ladder\u003c/i\u003e, \u003ci\u003eDr Jekyll and Mr Hyde\u003c/i\u003e, \u003ci\u003ePsycho\u003c/i\u003e, \u003ci\u003eSilence of the Lambs\u003c/i\u003e, \u003ci\u003eThe Fly\u003c/i\u003e, \u003ci\u003eA Nightmare on Elm Street\u003c/i\u003e, \u003ci\u003eAlien Resurrection\u003c/i\u003e, \u003ci\u003eThe Others\u003c/i\u003e, \u003ci\u003eThe Shining\u003c/i\u003e, \u003ci\u003eInterview with the Vampire\u003c/i\u003e, \u003ci\u003eBram Stoker’s Dracula\u003c/i\u003eand \u003ci\u003eNosferatu\u003c/i\u003e.Features*A substantial new contribution to horror film theory*A critical introduction to key terms in Deleuzian philosophy and aesthetics *New readings of the classic horror canon and recent films*Analysis of horror styles, narrative and special effects.\u003ci\u003eDeleuze and Horror Film\u003c/i\u003ewas originally published in hardback in March 2005. The paperback edition was published in November 2006.",
+  "industryIdentifiers": [
+   {
+    "type": "ISBN_10",
+    "identifier": "0748617485"
+   },
+   {
+    "type": "ISBN_13",
+    "identifier": "9780748617487"
+   }
+  ],
+  "readingModes": {
+   "text": true,
+   "image": true
+  },
+  "pageCount": 232,
+  "printedPageCount": 246,
+  "dimensions": {
+   "height": "24.00 cm",
+   "width": "23.10 cm",
+   "thickness": "1.50 cm"
+  },
+  "printType": "BOOK",
+  "categories": [
+   "Performing Arts / Film & Video / History & Criticism",
+   "Philosophy / History & Surveys / Modern"
+  ],
+  "averageRating": 5.0,
+  "ratingsCount": 1,
+  "contentVersion": "0.0.1.0.preview.3",
+  "imageLinks": {
+   "smallThumbnail": "http://bks1.books.google.co.uk/books?id=nG3ogaDTJT0C&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE70pwSeZghi25zUj82CnFpf4iPqJ9ILaRNeupOQmNpZ-fg8wB1EhP9uleeerpisnxV-HAY0krKc8tJd9Lrks6MbNG7IwxDcPp3kt3btxUW8gC8bEC9E&source=gbs_api",
+   "thumbnail": "http://bks1.books.google.co.uk/books?id=nG3ogaDTJT0C&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE72r1b4c4CnLD2l6pUPaxwoeSONnqSnL2MT4yEyWkelXoPOTd4VRwzbR86UgYMnTdPMzSZW0SGmbMispPytSOoJNnBeslxwH-svDXFh0QVXQrn5TMWw&source=gbs_api",
+   "small": "http://bks1.books.google.co.uk/books?id=nG3ogaDTJT0C&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE70ZVz__CyTzNb7Qzf1RqE0xOWomjV03icGj3kHLA7k6Hba-kZouGT0EQaBkdJgv-HaKo6Jt9som151Nh7Z0746Xwi3mxMAh4QVLbzDN8WeYp0M6TQc&source=gbs_api",
+   "medium": "http://bks1.books.google.co.uk/books?id=nG3ogaDTJT0C&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE71ZHBEBN1FZQZs75i6Fhwz2RHltcWurIJtb7xWgw4xpD40YjQZY4thJfby-tR-ZuFsbfjaqWD2sXhNki0znCalEV2DkT6k7vat5hDFq7_5BRNo2HMk&source=gbs_api",
+   "large": "http://bks1.books.google.co.uk/books?id=nG3ogaDTJT0C&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE73HcPg--19cCAsKw23anzVCgWtG1LrBxT-PlgaXXJJYOdR0vXAn7WJ75XW6_TvgLLr7VTFjsiIIjMe-RoKdZ-HnDNZLp3yEO2Wy2xzE-MX8rlav1FA&source=gbs_api",
+   "extraLarge": "http://bks1.books.google.co.uk/books?id=nG3ogaDTJT0C&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE72OyRd-BdWF7j-s2EAcLH-LKjtfeedjAckpOkNNQPL6V9xtgHBcmfxm2VaROAjj-PYdrPjJyKBv-UEa_T8WRNaItU8lx3bDJ3hOiN9qFpEy5dKPeww&source=gbs_api"
+  },
+  "language": "en",
+  "previewLink": "http://books.google.co.uk/books?id=nG3ogaDTJT0C&hl=&source=gbs_api",
+  "infoLink": "http://books.google.co.uk/books?id=nG3ogaDTJT0C&hl=&source=gbs_api",
+  "canonicalVolumeLink": "http://books.google.co.uk/books/about/Deleuze_and_Horror_Film.html?hl=&id=nG3ogaDTJT0C"
+ },
+ "layerInfo": {
+  "layers": [
+   {
+    "layerId": "geo",
+    "volumeAnnotationsVersion": "2"
+   }
+  ]
+ },
+ "saleInfo": {
+  "country": "GB",
+  "saleability": "FOR_SALE",
+  "isEbook": true,
+  "listPrice": {
+   "amount": 21.12,
+   "currencyCode": "GBP"
+  },
+  "retailPrice": {
+   "amount": 13.73,
+   "currencyCode": "GBP"
+  },
+  "buyLink": "http://books.google.co.uk/books?id=nG3ogaDTJT0C&hl=&buy=&source=gbs_api",
+  "offers": [
+   {
+    "finskyOfferType": 1,
+    "listPrice": {
+     "amountInMicros": 2.112E7,
+     "currencyCode": "GBP"
+    },
+    "retailPrice": {
+     "amountInMicros": 1.373E7,
+     "currencyCode": "GBP"
+    }
+   }
+  ]
+ },
+ "accessInfo": {
+  "country": "GB",
+  "viewability": "PARTIAL",
+  "embeddable": true,
+  "publicDomain": false,
+  "textToSpeechPermission": "ALLOWED",
+  "epub": {
+   "isAvailable": true,
+   "acsTokenLink": "http://books.google.co.uk/books/download/Deleuze_and_Horror_Film-sample-epub.acsm?id=nG3ogaDTJT0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+  },
+  "pdf": {
+   "isAvailable": true,
+   "acsTokenLink": "http://books.google.co.uk/books/download/Deleuze_and_Horror_Film-sample-pdf.acsm?id=nG3ogaDTJT0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+  },
+  "webReaderLink": "http://books.google.co.uk/books/reader?id=nG3ogaDTJT0C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+  "accessViewStatus": "SAMPLE",
+  "quoteSharingAllowed": false
+ }
+}

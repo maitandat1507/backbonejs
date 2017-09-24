@@ -1,0 +1,77 @@
+{
+ "kind": "books#volume",
+ "id": "iN6dg0D0gu0C",
+ "etag": "0a9+RYbqN1o",
+ "selfLink": "https://www.googleapis.com/books/v1/volumes/iN6dg0D0gu0C",
+ "volumeInfo": {
+  "title": "The Romance of Arthur",
+  "subtitle": "An Anthology of Medieval Texts in Translation",
+  "authors": [
+   "James J. Wilhelm"
+  ],
+  "publisher": "Psychology Press",
+  "publishedDate": "1994",
+  "description": "Since their first appearance, the three volumes of \"The Romance of Arthur\" have become the standard anthologies of Arthurian literature. Now, combined into a single convenient volume, the New, Expanded Edition of \"The Romance of Arthur\" covers nearly a thousand years of translated texts in a broad range of genres, from the early chronicles and Welsh verse through Sir Thomas Malory. A new section on lyrics has been added. The translations from Latin, French, German, Spanish, Welsh, Middle English, and Italian were freshly done for the original anthologies and have now been updated. As before, complete text are presented whenever possible.",
+  "industryIdentifiers": [
+   {
+    "type": "ISBN_10",
+    "identifier": "0815315112"
+   },
+   {
+    "type": "ISBN_13",
+    "identifier": "9780815315117"
+   }
+  ],
+  "readingModes": {
+   "text": false,
+   "image": true
+  },
+  "pageCount": 582,
+  "printedPageCount": 596,
+  "dimensions": {
+   "height": "24.00 cm",
+   "width": "1.50 cm",
+   "thickness": "3.60 cm"
+  },
+  "printType": "BOOK",
+  "categories": [
+   "Literary Criticism / General"
+  ],
+  "averageRating": 3.5,
+  "ratingsCount": 8,
+  "contentVersion": "0.0.1.0.preview.1",
+  "imageLinks": {
+   "smallThumbnail": "http://bks8.books.google.co.uk/books?id=iN6dg0D0gu0C&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE71Ysgzit1KZFj2lUcMiMgyZMF0wuHoFURRnMXmSr9RoBxY2N_nt1iAjRANF8RmTw8l14pwfOyTScU2uiuhZ6LfM4PJXEWr2SOhoPO7Vitqwc9wSoTk&source=gbs_api",
+   "thumbnail": "http://bks8.books.google.co.uk/books?id=iN6dg0D0gu0C&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE73aJfuPG668xX-kUU8m1lDyTwh0DCuSPOXW0MaUu9hIMlgJ8ez8iVVjx832RSm8RX22wlMtfg-L0Qe80UZeNDxMrERxCeRvEiORbrq0VK_egtpgq-c&source=gbs_api",
+   "small": "http://bks8.books.google.co.uk/books?id=iN6dg0D0gu0C&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE73rm8HKm1pR_iVMO69DCNepuwZF5X9WSXuYJjuFbKf9DzLpMYNqqwpo4O2kPg1v6C3T9aXffN-2gyRCTVuYeb0xazFXfmuC6e7ztb1wrWShr7H-TFI&source=gbs_api",
+   "medium": "http://bks8.books.google.co.uk/books?id=iN6dg0D0gu0C&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE73R4_YjFkvQPjMyoMj8TEVc24msOEucVTsi3cuA7Qhcfs7A5DeCgoWJMlyZDzheZYeyX14PGZy_CQsJc6dmABXQC_V0L6Sy3i-tVAGjL5V0K01je_E&source=gbs_api",
+   "large": "http://bks8.books.google.co.uk/books?id=iN6dg0D0gu0C&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE71IW0uEyi3Gnmh5TAlIO0gbbJLlxWKxdq5biN7tIZ4Ayg0U_IYQoNUHarGqWedF0CSNaGi1El35RpnilzPZKG5SDfeKWbO73UAspOslE_c19XQmmYI&source=gbs_api",
+   "extraLarge": "http://bks8.books.google.co.uk/books?id=iN6dg0D0gu0C&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE73e8Z6j6Nsrt2_TDaaNZWqbq1fpQdYU0BVc1oy9lamvq9JhSHWupJ7tPSKtDxOlPukJ953zs53Yfiug1Vgpkh2e-FwgdXnzbD9dp__mb7SELL5Aa-Y&source=gbs_api"
+  },
+  "language": "en",
+  "previewLink": "http://books.google.co.uk/books?id=iN6dg0D0gu0C&hl=&source=gbs_api",
+  "infoLink": "http://books.google.co.uk/books?id=iN6dg0D0gu0C&hl=&source=gbs_api",
+  "canonicalVolumeLink": "http://books.google.co.uk/books/about/The_Romance_of_Arthur.html?hl=&id=iN6dg0D0gu0C"
+ },
+ "saleInfo": {
+  "country": "GB",
+  "saleability": "NOT_FOR_SALE",
+  "isEbook": false
+ },
+ "accessInfo": {
+  "country": "GB",
+  "viewability": "PARTIAL",
+  "embeddable": true,
+  "publicDomain": false,
+  "textToSpeechPermission": "ALLOWED",
+  "epub": {
+   "isAvailable": false
+  },
+  "pdf": {
+   "isAvailable": false
+  },
+  "webReaderLink": "http://books.google.co.uk/books/reader?id=iN6dg0D0gu0C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+  "accessViewStatus": "SAMPLE",
+  "quoteSharingAllowed": false
+ }
+}

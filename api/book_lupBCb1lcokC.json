@@ -1,0 +1,64 @@
+{
+ "kind": "books#volume",
+ "id": "lupBCb1lcokC",
+ "etag": "UzyWS5GBnKw",
+ "selfLink": "https://www.googleapis.com/books/v1/volumes/lupBCb1lcokC",
+ "volumeInfo": {
+  "title": "A Haunt of Fears: The Strange History of the British Horror Comics Campaign",
+  "authors": [
+   "Martin Barker"
+  ],
+  "publisher": "Univ. Press of Mississippi",
+  "industryIdentifiers": [
+   {
+    "type": "ISBN_10",
+    "identifier": "1617037478"
+   },
+   {
+    "type": "ISBN_13",
+    "identifier": "9781617037474"
+   }
+  ],
+  "readingModes": {
+   "text": false,
+   "image": true
+  },
+  "pageCount": 262,
+  "printedPageCount": 262,
+  "printType": "BOOK",
+  "contentVersion": "0.1.1.0.preview.1",
+  "imageLinks": {
+   "smallThumbnail": "http://bks5.books.google.co.uk/books?id=lupBCb1lcokC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE70hhKkdp1_DbFQ7a8qwqxR4DXcRKVigg65a3sZO_2HsSICBJjEJE573EhJ-Xm6aW4pV59VzeWlvsZiwUzmYys6usGXZPjoUdSRqAmw7xI6C7L9_3yQ&source=gbs_api",
+   "thumbnail": "http://bks5.books.google.co.uk/books?id=lupBCb1lcokC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE72khnMoJLCjkslTbQHYYrfFLwtekd2CmcUv-IWecxAKXP4OOzlicqeu1FGN_hQbqw5taKj2CPEUpCfoRWoS5QGKKWagSAF34HLkJmewHHqIxSfjy-g&source=gbs_api",
+   "small": "http://bks5.books.google.co.uk/books?id=lupBCb1lcokC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE713D26Fmm4AJhDG8Kff9f63uWZ6FgQJxEY0qopwR7PbUVIxG1Lorl6WpQUh12XV74obRnJ6MmHrWJCaABCpDdeuvfetDaEXoloEvCRIysv8biZESGw&source=gbs_api",
+   "medium": "http://bks5.books.google.co.uk/books?id=lupBCb1lcokC&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE71ERyvZaOJF0kmuSjiHbs_FWb2Cxxbp_BjLEDVTmmqv0Git3H-vitRoCbWwIPl2Nh5hhhYrD5IAP7dSTUY6op6mqMKe2dWm1lJDD_6wGRCd9DvVtXM&source=gbs_api",
+   "large": "http://bks5.books.google.co.uk/books?id=lupBCb1lcokC&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE702_IQxbAsHe9Ml1lWgfW9X_37qnk3cZ3jEr6f2xfw_XEWuJ9_Jub84rXZxdCZ1qe_TbxlezL9NEw3G_WI5KeGrHhiTjh9XiBkBgvVqcfGUjw9iE5o&source=gbs_api",
+   "extraLarge": "http://bks5.books.google.co.uk/books?id=lupBCb1lcokC&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE73VGNUMVwk0YKC9sGrWv1iL_kuIWaUb9UKFyvlt6EF9G65MOYvURb-MkttbKroxvYx153oKXUp6LdyTE-smdUZ9SBV3xXV7HqH32bxsnw6G0OB-_Rs&source=gbs_api"
+  },
+  "language": "en",
+  "previewLink": "http://books.google.co.uk/books?id=lupBCb1lcokC&hl=&source=gbs_api",
+  "infoLink": "http://books.google.co.uk/books?id=lupBCb1lcokC&hl=&source=gbs_api",
+  "canonicalVolumeLink": "http://books.google.co.uk/books/about/A_Haunt_of_Fears_The_Strange_History_of.html?hl=&id=lupBCb1lcokC"
+ },
+ "saleInfo": {
+  "country": "GB",
+  "saleability": "NOT_FOR_SALE",
+  "isEbook": false
+ },
+ "accessInfo": {
+  "country": "GB",
+  "viewability": "PARTIAL",
+  "embeddable": true,
+  "publicDomain": false,
+  "textToSpeechPermission": "ALLOWED",
+  "epub": {
+   "isAvailable": false
+  },
+  "pdf": {
+   "isAvailable": true
+  },
+  "webReaderLink": "http://books.google.co.uk/books/reader?id=lupBCb1lcokC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+  "accessViewStatus": "SAMPLE",
+  "quoteSharingAllowed": false
+ }
+}

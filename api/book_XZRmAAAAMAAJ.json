@@ -1,0 +1,75 @@
+{
+ "kind": "books#volume",
+ "id": "XZRmAAAAMAAJ",
+ "etag": "Y/e2QxucFN0",
+ "selfLink": "https://www.googleapis.com/books/v1/volumes/XZRmAAAAMAAJ",
+ "volumeInfo": {
+  "title": "SciFi in the Mind's Eye",
+  "subtitle": "Reading Science Through Science Fiction",
+  "authors": [
+   "Margret Grebowicz"
+  ],
+  "publisher": "Open Court",
+  "publishedDate": "2007-01",
+  "description": "What does our favorite science fiction tell us about the culture of science? What do stories of cyborg women and genetic engineering show us about how science and values interact and hoW science and politics affect each other? In SciFi in the Mind's Eye, leading scholars look at the way science fiction informs and inspires contemporary research in science and technology, and how scientific breakthroughs spur authors on to yet more creativ science fiction narratives. Alongside investigations into the meaning of science fiction, SciFi in the Mind's Eye gives us previously unpublished 'interventions' by acclaimed science fiction authors L. Timmel Duchamp, Nicola Griffith, Nancy Kress, Terry Bisson, and Stanislaw Lem. Book jacket.",
+  "industryIdentifiers": [
+   {
+    "type": "ISBN_10",
+    "identifier": "0812696301"
+   },
+   {
+    "type": "ISBN_13",
+    "identifier": "9780812696301"
+   }
+  ],
+  "readingModes": {
+   "text": false,
+   "image": false
+  },
+  "pageCount": 323,
+  "printedPageCount": 350,
+  "dimensions": {
+   "height": "23.00 cm",
+   "width": "15.20 cm",
+   "thickness": "1.80 cm"
+  },
+  "printType": "BOOK",
+  "categories": [
+   "Literary Criticism / Science Fiction & Fantasy"
+  ],
+  "contentVersion": "preview-1.0.0",
+  "imageLinks": {
+   "smallThumbnail": "http://bks1.books.google.co.uk/books?id=XZRmAAAAMAAJ&printsec=frontcover&img=1&zoom=5&imgtk=AFLRE73pEKfeCayejkS2bHMHzs0VudHlzbVbeVt1WlHORfW3GZOHGnmNUdY6N77utuc3fb0tNFVoOjAR1-coy3dSvxwwiYLX6gqe2BAl8POwpmiX7c76SPo&source=gbs_api",
+   "thumbnail": "http://bks1.books.google.co.uk/books?id=XZRmAAAAMAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72IRdSTKGklSTXzZ8MQ4evJ4QbydArBwKBfiDGWZGpKYxTeuxVa0spyVxOnR4pc089ZOWWuBo5PEAFQ6c7B0C630o-MZV_n79M_pHwIcuIYk1mH-uo&source=gbs_api",
+   "small": "http://bks1.books.google.co.uk/books?id=XZRmAAAAMAAJ&printsec=frontcover&img=1&zoom=2&imgtk=AFLRE70Vg97krfxFbzgOjG0lTX8rmrxes_MEP7INxcKxvoh9YfnUnOqZDmbtfsXyvylxb6WH0lhOhMadG-ZsG56OqegdxMIkKtvi_PSJoUrGDmw6vMo85Qg&source=gbs_api",
+   "medium": "http://bks1.books.google.co.uk/books?id=XZRmAAAAMAAJ&printsec=frontcover&img=1&zoom=3&imgtk=AFLRE72aoAnpfk0-1_4V8WulSH5Q1bUfP5LCn7Q-Gsnv7ewSThDjQ4YQl8_3rDcx9MhK5X6SJxKhwHgSdD6y--lx9wx24HeTWkBqmiuqOhKNHDDnfVvnzGg&source=gbs_api",
+   "large": "http://bks1.books.google.co.uk/books?id=XZRmAAAAMAAJ&printsec=frontcover&img=1&zoom=4&imgtk=AFLRE73DDlamFjxzhxRISVKyk1fpp7nWV40S0FgRkuxG8RA53qxxP66h7blZ9I78p9jdljYq0d5CELMIckN8CNHQPE3RLOKqaUCOs0b2KvZP4ALdT6nWQmA&source=gbs_api",
+   "extraLarge": "http://bks1.books.google.co.uk/books?id=XZRmAAAAMAAJ&printsec=frontcover&img=1&zoom=6&imgtk=AFLRE71wZ3ZzBytwhM6BlljqhFKBDOWz2ABujOF-CZjLs8WMF4O5qi1oDOEmTgCodpX7E7sQrY_8W4DHND2ix1BONxCq9BJrmxDa_Gs6_Y6WmEzNJpDvGJ8&source=gbs_api"
+  },
+  "language": "en",
+  "previewLink": "http://books.google.co.uk/books?id=XZRmAAAAMAAJ&hl=&source=gbs_api",
+  "infoLink": "http://books.google.co.uk/books?id=XZRmAAAAMAAJ&hl=&source=gbs_api",
+  "canonicalVolumeLink": "http://books.google.co.uk/books/about/SciFi_in_the_Mind_s_Eye.html?hl=&id=XZRmAAAAMAAJ"
+ },
+ "saleInfo": {
+  "country": "GB",
+  "saleability": "NOT_FOR_SALE",
+  "isEbook": false
+ },
+ "accessInfo": {
+  "country": "GB",
+  "viewability": "NO_PAGES",
+  "embeddable": false,
+  "publicDomain": false,
+  "textToSpeechPermission": "ALLOWED",
+  "epub": {
+   "isAvailable": false
+  },
+  "pdf": {
+   "isAvailable": false
+  },
+  "webReaderLink": "http://books.google.co.uk/books/reader?id=XZRmAAAAMAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+  "accessViewStatus": "NONE",
+  "quoteSharingAllowed": false
+ }
+}

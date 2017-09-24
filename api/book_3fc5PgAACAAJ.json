@@ -1,0 +1,72 @@
+{
+ "kind": "books#volume",
+ "id": "3fc5PgAACAAJ",
+ "etag": "XVqNO0QfRZA",
+ "selfLink": "https://www.googleapis.com/books/v1/volumes/3fc5PgAACAAJ",
+ "volumeInfo": {
+  "title": "The Greatest Sci-Fi Movies Never Made",
+  "authors": [
+   "David Hughes"
+  ],
+  "publisher": "Titan Books Limited",
+  "publishedDate": "2008",
+  "description": "What if \u003ci\u003eI Am Legend \u003c/i\u003ehad been directed by Ridley Scott, and had starred Arnold Schwarzenegger? What if James Cameron had directed \u003ci\u003eSpider-Man\u003c/i\u003e?\u003cbr\u003e\u003cbr\u003eThis groundbreaking book, now fully updated and revised, tells the story of legendary \u003ci\u003eunmade \u003c/i\u003efilms. What would Terry Gilliam’s \u003ci\u003eWatchmen\u003c/i\u003e have been like, and how did Darren Aronofsky almost end up directing the movie? Why was Nicolas Cage paid $20 million for \u003ci\u003enot \u003c/i\u003eplaying Superman?\u003cbr\u003e\u003cbr\u003eAlso covered are Steven Spielberg’s \u003ci\u003eNight Skies\u003c/i\u003e, Stanley Kubrick’s \u003ci\u003eChildhood’s End, \u003c/i\u003ePhilip Kaufman’s \u003ci\u003eStar Trek: Planet of the Titans, \u003c/i\u003eKevin Smith’s \u003ci\u003eSix Million Dollar Man, \u003c/i\u003eTim Burton’s \u003ci\u003eSuperman Lives \u003c/i\u003eand\u003ci\u003e \u003c/i\u003eJames Cameron’s \u003ci\u003eAlien 5\u003c/i\u003e!",
+  "industryIdentifiers": [
+   {
+    "type": "ISBN_10",
+    "identifier": "1845767551"
+   },
+   {
+    "type": "ISBN_13",
+    "identifier": "9781845767556"
+   }
+  ],
+  "readingModes": {
+   "text": false,
+   "image": false
+  },
+  "pageCount": 350,
+  "printedPageCount": 350,
+  "dimensions": {
+   "height": "20.80 cm",
+   "width": "14.00 cm",
+   "thickness": "2.60 cm"
+  },
+  "printType": "BOOK",
+  "categories": [
+   "Performing Arts / Film & Video / Reference"
+  ],
+  "averageRating": 3.5,
+  "ratingsCount": 27,
+  "contentVersion": "preview-1.0.0",
+  "imageLinks": {
+   "smallThumbnail": "http://bks2.books.google.co.uk/books?id=3fc5PgAACAAJ&printsec=frontcover&img=1&zoom=5&imgtk=AFLRE70ZSrF-DrOMdIpG8TcrL6F8m0jTDSxG8fXDY0IzMLhM-biIImPcJrXpC5Vp7fsUEHnmg_iSDc-dGPKy_6-vPovezPMa6RO-s-nslYfkrmk3UgM3hR8&source=gbs_api",
+   "thumbnail": "http://bks2.books.google.co.uk/books?id=3fc5PgAACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE71C2LgzgcWkkQ2Nb1fpEa17LR4t3N33IyAGSUeurcHi-iNepBWZaLHYMMDly2wBWsTZWEe74GyYTVwYw8CPYJYnPqkdk_dttdi2RhL4ThpgF2t1IzM&source=gbs_api"
+  },
+  "language": "en",
+  "previewLink": "http://books.google.co.uk/books?id=3fc5PgAACAAJ&hl=&source=gbs_api",
+  "infoLink": "http://books.google.co.uk/books?id=3fc5PgAACAAJ&hl=&source=gbs_api",
+  "canonicalVolumeLink": "http://books.google.co.uk/books/about/The_Greatest_Sci_Fi_Movies_Never_Made.html?hl=&id=3fc5PgAACAAJ"
+ },
+ "saleInfo": {
+  "country": "GB",
+  "saleability": "NOT_FOR_SALE",
+  "isEbook": false
+ },
+ "accessInfo": {
+  "country": "GB",
+  "viewability": "NO_PAGES",
+  "embeddable": false,
+  "publicDomain": false,
+  "textToSpeechPermission": "ALLOWED",
+  "epub": {
+   "isAvailable": false
+  },
+  "pdf": {
+   "isAvailable": false
+  },
+  "webReaderLink": "http://books.google.co.uk/books/reader?id=3fc5PgAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+  "accessViewStatus": "NONE",
+  "quoteSharingAllowed": false
+ }
+}

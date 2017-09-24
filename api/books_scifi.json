@@ -1,0 +1,745 @@
+[
+  {
+   "kind": "books#volume",
+   "id": "FYtvHQAACAAJ",
+   "etag": "wqmMfIcNHhM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/FYtvHQAACAAJ",
+   "volumeInfo": {
+    "title": "Science Fiction",
+    "subtitle": "The 100 Best Novels : an English-language Selection, 1949-1984",
+    "authors": [
+     "David Pringle"
+    ],
+    "publisher": "Carroll & Graf Pub",
+    "publishedDate": "1997",
+    "description": "Recommends one hundred science fiction novels and offers a brief summary of each work",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0786704810"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780786704811"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 9,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=FYtvHQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=FYtvHQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=FYtvHQAACAAJ&dq=scifi&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=FYtvHQAACAAJ&dq=scifi&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/Science_Fiction.html?hl=&id=FYtvHQAACAAJ"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=FYtvHQAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Recommends one hundred science fiction novels and offers a brief summary of each work"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "ReRoaEEg048C",
+   "etag": "Y/NqXgpLrgI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ReRoaEEg048C",
+   "volumeInfo": {
+    "title": "1001 Books",
+    "subtitle": "You Must Read Before You Die",
+    "publisher": "Hachette UK",
+    "publishedDate": "2012-01-10",
+    "description": "Completely revised and updated to include the most up-to-date selections, this is a bold and bright reference book to the novels and the writers that have excited the world's imagination. This authoritative selection of novels, reviewed by an international team of writers, critics, academics, and journalists, provides a new take on world classics and a reliable guide to what's hot in contemporary fiction. Featuring more than 700 illustrations and photographs, presenting quotes from individual novels and authors, and completely revised for 2012, this is the ideal book for everybody who loves reading.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781844037193"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1844037193"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 960,
+    "printType": "BOOK",
+    "categories": [
+     "Reference"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 2,
+    "contentVersion": "1.3.3.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=ReRoaEEg048C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=ReRoaEEg048C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=ReRoaEEg048C&printsec=frontcover&dq=scifi&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=ReRoaEEg048C&dq=scifi&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/1001_Books.html?hl=&id=ReRoaEEg048C"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.99,
+     "currencyCode": "GBP"
+    },
+    "retailPrice": {
+     "amount": 6.99,
+     "currencyCode": "GBP"
+    },
+    "buyLink": "http://books.google.co.uk/books?id=ReRoaEEg048C&dq=scifi&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9990000.0,
+       "currencyCode": "GBP"
+      },
+      "retailPrice": {
+       "amountInMicros": 6990000.0,
+       "currencyCode": "GBP"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.co.uk/books/download/1001_Books-sample-epub.acsm?id=ReRoaEEg048C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=ReRoaEEg048C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Completely revised and updated to include the most up-to-date selections, this is a bold and bright reference book to the novels and the writers that have excited the world&#39;s imagination."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "XZRmAAAAMAAJ",
+   "etag": "1YaDOsCMJhU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/XZRmAAAAMAAJ",
+   "volumeInfo": {
+    "title": "SciFi in the Mind's Eye",
+    "subtitle": "Reading Science Through Science Fiction",
+    "authors": [
+     "Margret Grebowicz"
+    ],
+    "publisher": "Open Court Publishing Company",
+    "publishedDate": "2007-01",
+    "description": "What do early Star Trek episodes have to say about race? Is post-apocalyptic literature about the dangers of technology mere entertainment, or a harbinger of things to come? This entertaining, enlightening collection brings together scholars and science fiction writers to discuss these questions and more. The essays examine how science fiction informs and inspires scientific research while breakthroughs in modern science spur authors on to more cutting-edge and exhilarating narratives. The invigorating technological discussions are highly informative, yet accessible to all readers.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0812696301"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780812696301"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 323,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=XZRmAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=XZRmAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=XZRmAAAAMAAJ&q=scifi&dq=scifi&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=XZRmAAAAMAAJ&dq=scifi&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/SciFi_in_the_Mind_s_Eye.html?hl=&id=XZRmAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=XZRmAAAAMAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This entertaining, enlightening collection brings together scholars and science fiction writers to discuss these questions and more."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iX9mAwAAQBAJ",
+   "etag": "WeY+pRFtGNI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iX9mAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Six Scifi Stories Volume Four",
+    "subtitle": "",
+    "authors": [
+     "Robert Jeschonek"
+    ],
+    "publisher": "Pie Press",
+    "publishedDate": "2014-04-23",
+    "description": "In these pages, Robert T. Jeschonek will take you on a tour of the wildest places and people you've never imagined. You've never met anyone quite like 12:30 P.M., the fugitive time fragment...Frieda, the killer-haunting e-ghost...or Patty, the lunatic vagrant who keeps seeing Tijuana, Mexico where Cape Cod, Massachusetts should be. Don't miss these edgy, exciting, and surprising science fiction tales by a STAR TREK and DOCTOR WHO author. It’s the latest collection from award-winning storyteller Robert T. Jeschonek, a master of unique and unexpected science fiction that really packs a punch. This volume includes six scifi stories for one low price: \"Warning! Do Not Read This Story!\": An entire town wiped out...by a rogue story? Anyone who hears or reads it launches into a murder-suicide spree, and its power is about to spread to the rest of the world. Only Carrol and Sascha LaVerge, mystic problem-solving sisters extraordinaire, stand in its way. Tracking the story's power to an ancient evil, Carrol and Sascha race against time to stop it from escaping town and triggering an apocalypse. But can they outsmart the story with a mind of its own before it comes up with a plot twist that traps them in the ultimate unhappy ending? \"Tempus Fugitive\": What form will the Second Coming of Christ take? In the world of the far future, Father Clement the warrior priest and Imago the stained glass robot will stop at nothing to find Him...so they can KILL Him. It's the only way to save the King of the World and his Kingdom from the great threat predicted in the Book of Revelations. Will a mysterious prisoner lead the way to their target Messiah, or will she help them realize they're serving an evil cause? \"Luminaria\": On a day known forever as The Silencing, millions of human colonists went missing in space without a trace. Fifty years later, a team of explorers mounts a search, riding a space elevator into the heart of the unknown. One scientist, Gabriel Shard, holds the key to the truth, the last chance to recover the missing...but he might just die before he can use it. \"The Secret of the Ultimate Male Enhancement\": The male enhancement of tomorrow has everything from shape-changing powers to a mind of its own. But what happens when this miraculous endowment refuses to cooperate with its new owner? War breaks out between man and enhancement, the ultimate struggle between two minds in one body. Only by guessing the enhancement's dark secret does the man stand a chance of breaking the stranglehold this high tech smart-part has on his life. \"The Memory of You Lingers\": Baird the convicted rapist knows no peace. Ten years of haunting by the digital ghost of his victim, Frieda, have left him a basket case…but freedom awaits. If he can just make it till tomorrow, his sentence will end, and the digital ghost will become vaporware. But Frieda has no intention of leaving quietly, and the going-away present she has in store for Baird could be far worse than the digital nightmare he has already endured. \"Tijuana, Massachusetts\": Why does Cape Cod, Massachusetts keep changing into Tijuana, Mexico? Don't ask Patty, the foul-mouthed everything-hater with a memory full of holes. Every time the lump on her head buzzes, Cape Cod becomes Tijuana or vice versa. One minute, Patty sees lighthouses and well-dressed children; the next, she fends off pushy street kids and donkeys done up like zebras. Has she lost her mind, or is someone--or something--driving her crazy? Little by little, the truth seeps through...but the dark secrets it forces to the surface might be far more terrible than any illusion. Contents Collection of 6 stories plus a novel preview Reviews \"Robert Jeschonek is a towering talent.\" – Mike Resnick, Hugo and Nebula Award-winning author of the Starship series \"Robert Jeschonek is the literary love child of Tim Burton and Neil Gaiman.\" – Adrian Phoenix, critically acclaimed author of The Maker's Song and Hoodoo series. \"Jeschonek´s stories are delightfully insane, a pleasure to read…\" – Fabio Fernandes, Fantasy Book Critic",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781311187642"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1311187642"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 108,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "1.1.1.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=iX9mAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=iX9mAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=iX9mAwAAQBAJ&pg=PP4&dq=scifi&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=iX9mAwAAQBAJ&dq=scifi&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/Six_Scifi_Stories_Volume_Four.html?hl=&id=iX9mAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=iX9mAwAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Also by Robert Jeschonek Battlenaut Crucible Beware the Black Battlenaut Day 9 \u003cbr\u003e\n\u003cb\u003eScifi\u003c/b\u003e Motherlode Six \u003cb\u003eScifi\u003c/b\u003e Stories Volume 1 Six \u003cb\u003eScifi\u003c/b\u003e Stories Volume 2 Six \u003cb\u003eScifi\u003c/b\u003e \u003cbr\u003e\nStories Volume 3 Universal Language Six \u003cb\u003eScifi\u003c/b\u003e Stories Volume Four Warning!"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "f48nl_3Up8gC",
+   "etag": "s7hHs8iGCB4",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/f48nl_3Up8gC",
+   "volumeInfo": {
+    "title": "Building Sci-fi Moviescapes",
+    "subtitle": "The Science Behind the Fiction",
+    "authors": [
+     "Matt Hanson"
+    ],
+    "publisher": "Gulf Professional Publishing",
+    "publishedDate": "2005",
+    "description": "Building Sci-fi Moviescapes provides a rare, behind-the-scenes examination of how the digital city and space-scapes in science fiction movies are created-through the eyes of directors, producers, production designers, and visualization artists. This is a stunning showcase of some of the most impressive digital city and space-scapes to come out of the movies, from Hollywood, as well as the Japanese and European film industries. From seminal movies of the 1980s such as Tron and Bladerunner, to classic series such as The Matrix and Star Wars, to recent films such as Sky Captain and the World of Tomorrow, this book is the definitive guide to the imagined aesthetics of the future. Through authoritative commentary and interviews with key directors, producers, production designers, and 3D visual artists, Building Sci-fi Moviescapes explores trends and digital visualization methods in science fiction films from the last three decades. * A celebration in design and creativity in Sci-Fi filmmaking for the CG artist * Access to reavealing interviews with key 3D industry professionals * Rich creative inspiration for Sci-Fi filmmakers",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0240807723"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780240807720"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 176,
+    "printType": "BOOK",
+    "categories": [
+     "Design"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=f48nl_3Up8gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=f48nl_3Up8gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=f48nl_3Up8gC&pg=PA170&dq=scifi&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=f48nl_3Up8gC&dq=scifi&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/Building_Sci_fi_Moviescapes.html?hl=&id=f48nl_3Up8gC"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=f48nl_3Up8gC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... The, H. Ferriss (Architectural Press, 1986) Science Fiction Film, J. P. Telotte (\u003cbr\u003e\nCambridge University Press, 2001) \u003cb\u003eSci-fi\u003c/b\u003e Architecture, Ed. Maggie Toy, \u003cbr\u003e\nArchitectural Design Series (1999) MAGAZINES Cinefex Cinescape SFX Wired \u003cbr\u003e\nWEBSITES&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YDBaAAAAMAAJ",
+   "etag": "oH0MajvinKU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YDBaAAAAMAAJ",
+   "volumeInfo": {
+    "title": "From my guy to sci-fi",
+    "subtitle": "genre and women's writing in the postmodern world",
+    "authors": [
+     "Helen Carr"
+    ],
+    "publisher": "Pandora Pr",
+    "publishedDate": "1989",
+    "description": "Debates literary genres and the ways in which women writers use them, and explores the cultural implications from a feminist criticism standpoint",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015015151411"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 224,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=YDBaAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=YDBaAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=YDBaAAAAMAAJ&q=scifi&dq=scifi&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=YDBaAAAAMAAJ&dq=scifi&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/From_my_guy_to_sci_fi.html?hl=&id=YDBaAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=YDBaAAAAMAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Debates literary genres and the ways in which women writers use them, and explores the cultural implications from a feminist criticism standpoint"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "W6jLAwAAQBAJ",
+   "etag": "SAMwdZBxbMA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/W6jLAwAAQBAJ",
+   "volumeInfo": {
+    "title": "Best Tv Scifi Shows Ever Made: Top 100",
+    "authors": [
+     "Alex Trost",
+     "Vadim Kravetsky"
+    ],
+    "publisher": "A&V",
+    "publishedDate": "2014-06-13",
+    "description": "Are you looking for a journey that will take you through this amazing obok, along with funny comments and a word puzzle? Then this book is for you. Whether you are looking at this book for curiosity, choices, options, or just for fun; this book fits any criteria. Writing this book did not happen quickly. It is thorough look at accuracy and foundation before the book was even started. This book was created to inform, entertain and maybe even test your knowledge. By the time you finish reading this book you will want to share it with others.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781490587462"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1490587462"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 28,
+    "printType": "BOOK",
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=W6jLAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=W6jLAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=W6jLAwAAQBAJ&pg=PT1&dq=scifi&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=W6jLAwAAQBAJ&dq=scifi&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/Best_Tv_Scifi_Shows_Ever_Made_Top_100.html?hl=&id=W6jLAwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 3.84,
+     "currencyCode": "GBP"
+    },
+    "retailPrice": {
+     "amount": 2.88,
+     "currencyCode": "GBP"
+    },
+    "buyLink": "http://books.google.co.uk/books?id=W6jLAwAAQBAJ&dq=scifi&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3840000.0,
+       "currencyCode": "GBP"
+      },
+      "retailPrice": {
+       "amountInMicros": 2880000.0,
+       "currencyCode": "GBP"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.co.uk/books/download/Best_Tv_Scifi_Shows_Ever_Made_Top_100-sample-pdf.acsm?id=W6jLAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=W6jLAwAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Alex Trost, Vadim Kravetsky. Best Tv \u003cb\u003eScifi\u003c/b\u003e Shows Ever Made: Top 100 Copyright \u003cbr\u003e\n©2013 A&amp;V All rights reserved. This book or any Best Tv \u003cb\u003eScifi\u003c/b\u003e Shows Ever Made \u003cbr\u003e\nKindle Best Tv \u003cb\u003eScifi\u003c/b\u003e Shows Ever Made: Top 100."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3fc5PgAACAAJ",
+   "etag": "w09t7KmsOiA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3fc5PgAACAAJ",
+   "volumeInfo": {
+    "title": "The Greatest Sci-Fi Movies Never Made",
+    "authors": [
+     "David Hughes"
+    ],
+    "publisher": "Titan Books",
+    "publishedDate": "2008",
+    "description": "What if I Am Legend had been directed by Ridley Scott, and had starred Arnold Schwarzenegger? What if James Cameron had directed Spider-Man? This groundbreaking book, now fully updated and revised, tells the story of legendary unmade films. What would Terry Gilliam’s Watchmen have been like, and how did Darren Aronofsky almost end up directing the movie? Why was Nicolas Cage paid $20 million for not playing Superman? Also covered are Steven Spielberg’s Night Skies, Stanley Kubrick’s Childhood’s End, Philip Kaufman’s Star Trek: Planet of the Titans, Kevin Smith’s Six Million Dollar Man, Tim Burton’s Superman Lives and James Cameron’s Alien 5!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1845767551"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781845767556"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 350,
+    "printType": "BOOK",
+    "categories": [
+     "Performing Arts"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 27,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=3fc5PgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=3fc5PgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=3fc5PgAACAAJ&dq=scifi&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=3fc5PgAACAAJ&dq=scifi&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/The_Greatest_Sci_Fi_Movies_Never_Made.html?hl=&id=3fc5PgAACAAJ"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=3fc5PgAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "What ifI Am Legendhad been directed by Ridley Scott, and had starred Arnold Schwarzenegger? What if James Cameron had directedSpider-Man? This groundbreaking book, now fully updated and revised, tells the story of legendaryunmadefilms."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "294tC17NPzYC",
+   "etag": "aVIacfh+hNs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/294tC17NPzYC",
+   "volumeInfo": {
+    "title": "6 Scifi Stories",
+    "authors": [
+     "Robert T. Jeschonek"
+    ],
+    "publisher": "Robert Jeschonek",
+    "publishedDate": "2010-11-16",
+    "description": "Six amazing stories: \"The Greatest Serial Killer in the Universe\": Serial killer trains aliens. \"The Love Quest of Smidgen the Snack Cake\": Hellish pastry in love. \"Playing Doctor\": Lab assistant loves mad scientist. \"Serial Killer vs. E-Merica\": Murder in a virtual reality Congress. \"My Cannibal Lover\": Bounty hunter falls for an edible man. \"Zinzizinzizinzic\": Aliens invade our shadows.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1452384924"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781452384924"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "0.1.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=294tC17NPzYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=294tC17NPzYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=294tC17NPzYC&pg=PT266&dq=scifi&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=294tC17NPzYC&dq=scifi&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/6_Scifi_Stories.html?hl=&id=294tC17NPzYC"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=294tC17NPzYC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "6 \u003cb\u003eSCIFI\u003c/b\u003e STORIES Copyright © 2010 by Robert T. Jeschonek www.thefictioneer.\u003cbr\u003e\ncom Cover Art Copyright © 2010 by Ben Baldwin www.benbaldwin.co.uk and © \u003cbr\u003e\n2010 by Alan F. Beck Published in November 2010 by Tsetse Press by&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "jEmjqzVOoJEC",
+   "etag": "Wsd/Fk/ZHZw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/jEmjqzVOoJEC",
+   "volumeInfo": {
+    "title": "Exile-A SciFi Adventure",
+    "subtitle": "",
+    "authors": [
+     "R.L. Kiser"
+    ],
+    "publisher": "KiseSoft unInc.",
+    "publishedDate": "2012-10-30",
+    "description": "A 6'5\" starship captain flees a lost war and lands on Earth in 1600s feudal Japan. Imagine the possibilities! Imagine being light years from home and landing on a large island populated by war-like people almost half your size. A serious culture clash, the disparity is obvious. Will they look upon him as a god from the heavens or a demon from the skies? His survival skills may well be put to the test. Kendrick - a starship captain and well-trained warrior loyal to his people and his cause, but the war is lost. He is forced to flee across the galaxy. Gogenko - a pedantic shukido (area protector) trained in the tradition of Bushido, the Way of the Warrrior. Kenshi - Gogenko’s cousin, fellow martial arts student, and shukido to Honashi Village. Doiyoko - the beautiful if untraditional oldest daughter of the Honashi Village leader. Will they be fast friends or formidable foes? Reviews: ***** Great fun! This book is just a lot of fun! With flavors of Samurai and Steam-punk adding spice, it rocks along from delight to surprise, and all along it is highly satisfying. Oh, on first reading, towards the end I thought maybe it bogged down. But it is the sort of book you want to re-read as soon as you finish it, because it was just so much fun. And I found out I was wrong: the story continues apace, right to the last page. And the ending is a pure delight. Don't peek, you won't get it. But I can assure you: it will give you huge satisfaction, and you will be glad you chose to read this book. ·· William Fletcher **** ...Overall, this is an entertaining book on many levels. Those who enjoy reading about real-life and science fiction technology will enjoy the technical parts. Those who like laser fights and battles between uneven forces where the underdog must overcome long odds will enjoy the battles. Those who like strong women who overcome social barriers and can hold their own will enjoy Doiyoko, Kendrick's love interest. Those who enjoy a little mystical and technological awesomeness in their main character will love Kendrick. And, finally, those who enjoy humorous situations and camaraderie will find more than a sufficient dose in this book to satisfy their funny bones. ·· Patricia Hamill on Goodreads ***** Exciting - this is the most appropriate word to describe Exile. Author R.L. Kiser put a bit of everything in the story. Apart from the prime sci-fi adventure theme, there is romance between Kendrick and Doiyoko, the beautiful but unconventional eldest daughter of the Honashi Village leader. There is also a fairly healthy dose of humor packed into this story. I do appreciate the way it is written in two parts: Kendrick's first arrival and his developing relationship with his new friends in part one; how he copes with his new life years later in part two. I think this approach maintains the good pacing of the story. Simply put, Exile is a stellar work from Kiser, with appealing characters and an absorbing tale. ·· Lit Amri for Readers' Favorite",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781300423911"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1300423919"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "contentVersion": "1.6.6.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=jEmjqzVOoJEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=jEmjqzVOoJEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=jEmjqzVOoJEC&pg=PP1&dq=scifi&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=jEmjqzVOoJEC&dq=scifi&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/Exile_A_SciFi_Adventure.html?hl=&id=jEmjqzVOoJEC"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 2.39,
+     "currencyCode": "GBP"
+    },
+    "retailPrice": {
+     "amount": 1.98,
+     "currencyCode": "GBP"
+    },
+    "buyLink": "http://books.google.co.uk/books?id=jEmjqzVOoJEC&dq=scifi&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2390000.0,
+       "currencyCode": "GBP"
+      },
+      "retailPrice": {
+       "amountInMicros": 1980000.0,
+       "currencyCode": "GBP"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=jEmjqzVOoJEC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "R.L. Kiser .;;~ 1&#39;4 A SciFhAdvenIure &gt; . 0i .&#39;Q H t."
+   }
+  }
+]

@@ -1,0 +1,86 @@
+{
+ "kind": "books#volume",
+ "id": "-fGmwe2AVWIC",
+ "etag": "H6bt8TP6g+4",
+ "selfLink": "https://www.googleapis.com/books/v1/volumes/-fGmwe2AVWIC",
+ "volumeInfo": {
+  "title": "Sport",
+  "subtitle": "A Critical Sociology",
+  "authors": [
+   "Richard Giulianotti"
+  ],
+  "publisher": "Polity",
+  "publishedDate": "2005",
+  "description": "In this lively new book, Richard Giulianotti provides a critical sociological interpretation of modern sport. As global festivals such as the Olympic games and football's World Cup demonstrate, sport's social, political, economic and cultural significance is becoming increasingly apparent across the world. Its popularity alone means that sociologists cannot ignore sport. \u003cbr\u003e\u003cbr\u003e\u003cbr\u003e \u003cbr\u003e\u003cbr\u003e\u003cbr\u003eChapter-by-chapter, Giulianotti offers a cogent examination of a range of widely taught sociological theories and issues that relate to sport. These include functionalism, Weberian sociology, Marxism, postmodern sociology, and globalisation. The author's use of an international range of case studies and research, about a wide variety of sports, helps to make his account especially accessible to undergraduate readers. 'Sport: a critical sociology' will therefore have strong appeal to upper-level undergraduates on courses such as sport and leisure studies, cultural studies, and modern social theory.",
+  "industryIdentifiers": [
+   {
+    "type": "ISBN_10",
+    "identifier": "0745625452"
+   },
+   {
+    "type": "ISBN_13",
+    "identifier": "9780745625454"
+   }
+  ],
+  "readingModes": {
+   "text": true,
+   "image": true
+  },
+  "pageCount": 267,
+  "printedPageCount": 287,
+  "dimensions": {
+   "height": "24.00 cm",
+   "width": "15.70 cm",
+   "thickness": "2.30 cm"
+  },
+  "printType": "BOOK",
+  "categories": [
+   "Social Science / Popular Culture",
+   "Social Science / Social Work",
+   "Social Science / Sociology / General",
+   "Sports & Recreation / Sociology of Sports"
+  ],
+  "averageRating": 4.5,
+  "ratingsCount": 2,
+  "contentVersion": "0.2.1.0.preview.3",
+  "imageLinks": {
+   "smallThumbnail": "http://bks5.books.google.co.uk/books?id=-fGmwe2AVWIC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE70vZEnGOiIL0VVkl6vQCNhpoOXvNE9O00SYSO1bDKhqmoL0IuvH-JbGrtR8neBXF6lX5fn3Rgw0V5WkOKb-y7yX0UmOouniZcTGrf_VRkgNHBQfyFY&source=gbs_api",
+   "thumbnail": "http://bks5.books.google.co.uk/books?id=-fGmwe2AVWIC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE73AE09Yy-8kht26JEYWk3wSTwh68lxELYfC-3NBbWQI8q2f2XmK5K5oQ38EQ0-7b90aiy_QaY5uZo1Ka1Oy7HlSi583OHfP2IhLlanw9Z8BF6UElFA&source=gbs_api",
+   "small": "http://bks5.books.google.co.uk/books?id=-fGmwe2AVWIC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE71kS08aeJjizIerVYobNjI3X9tHKP-oqsYNOIs6KztEknC7zz5QlhlwKxYAKZ7iKTBuJz2SA7d3jjHNC3EqSKSTc_sVAyCUylWM5KWBu6nqnQ_tvGg&source=gbs_api"
+  },
+  "language": "en",
+  "previewLink": "http://books.google.co.uk/books?id=-fGmwe2AVWIC&hl=&source=gbs_api",
+  "infoLink": "http://books.google.co.uk/books?id=-fGmwe2AVWIC&hl=&source=gbs_api",
+  "canonicalVolumeLink": "http://books.google.co.uk/books/about/Sport.html?hl=&id=-fGmwe2AVWIC"
+ },
+ "layerInfo": {
+  "layers": [
+   {
+    "layerId": "geo",
+    "volumeAnnotationsVersion": "4"
+   }
+  ]
+ },
+ "saleInfo": {
+  "country": "GB",
+  "saleability": "NOT_FOR_SALE",
+  "isEbook": false
+ },
+ "accessInfo": {
+  "country": "GB",
+  "viewability": "PARTIAL",
+  "embeddable": true,
+  "publicDomain": false,
+  "textToSpeechPermission": "ALLOWED",
+  "epub": {
+   "isAvailable": true,
+   "acsTokenLink": "http://books.google.co.uk/books/download/Sport-sample-epub.acsm?id=-fGmwe2AVWIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+  },
+  "pdf": {
+   "isAvailable": false
+  },
+  "webReaderLink": "http://books.google.co.uk/books/reader?id=-fGmwe2AVWIC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+  "accessViewStatus": "SAMPLE",
+  "quoteSharingAllowed": false
+ }
+}

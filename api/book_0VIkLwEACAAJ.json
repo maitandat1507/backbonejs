@@ -1,0 +1,72 @@
+{
+ "kind": "books#volume",
+ "id": "0VIkLwEACAAJ",
+ "etag": "sOnCUD2k5ag",
+ "selfLink": "https://www.googleapis.com/books/v1/volumes/0VIkLwEACAAJ",
+ "volumeInfo": {
+  "title": "Fifty Shades of Grey",
+  "authors": [
+   "E. L. James"
+  ],
+  "publisher": "Writer's Coffee Shop",
+  "publishedDate": "2011",
+  "description": "When literature student Anastasia Steele is drafted to interview the successful young entrepreneur Christian Grey for her campus magazine, she finds him attractive, enigmatic and intimidating. Convinced their meeting went badly, she tries to put Grey out of her mind - until he happens to turn up at the out-of-town hardware store where she works part-time. Erotic, amusing, and deeply moving, the Fifty Shades Trilogy is a tale that will obsess you, possess you, and stay with you forever.",
+  "industryIdentifiers": [
+   {
+    "type": "ISBN_10",
+    "identifier": "1612130283"
+   },
+   {
+    "type": "ISBN_13",
+    "identifier": "9781612130286"
+   }
+  ],
+  "readingModes": {
+   "text": false,
+   "image": false
+  },
+  "pageCount": 380,
+  "printedPageCount": 380,
+  "dimensions": {
+   "height": "23.00 cm",
+   "width": "15.20 cm",
+   "thickness": "2.30 cm"
+  },
+  "printType": "BOOK",
+  "categories": [
+   "Fiction / Erotica"
+  ],
+  "averageRating": 3.5,
+  "ratingsCount": 239,
+  "contentVersion": "preview-1.0.0",
+  "imageLinks": {
+   "smallThumbnail": "http://bks1.books.google.co.uk/books?id=0VIkLwEACAAJ&printsec=frontcover&img=1&zoom=5&imgtk=AFLRE71qF5DP0w1zmgzkptuAd5eqXb-6dXcwTlnhfybSqqutncCqatx78Va0O3K_gzzvpdQP0Km7ANjXUYKQ1WoJCQ1Yz8gnjB7F1spLJQPylA7stL_8c0M&source=gbs_api",
+   "thumbnail": "http://bks1.books.google.co.uk/books?id=0VIkLwEACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70L9_06LbJHJW9CoCSUioxEMrahz8PPhe1Fg4HLw0x6PZRGkeyVQcF9cfoSiSwFxuyBmrNowuGu-Apf_jlrrZ3uojXZibT0_Adf19fJaHxLoJZnd5A&source=gbs_api"
+  },
+  "language": "en",
+  "previewLink": "http://books.google.co.uk/books?id=0VIkLwEACAAJ&hl=&source=gbs_api",
+  "infoLink": "http://books.google.co.uk/books?id=0VIkLwEACAAJ&hl=&source=gbs_api",
+  "canonicalVolumeLink": "http://books.google.co.uk/books/about/Fifty_Shades_of_Grey.html?hl=&id=0VIkLwEACAAJ"
+ },
+ "saleInfo": {
+  "country": "GB",
+  "saleability": "NOT_FOR_SALE",
+  "isEbook": false
+ },
+ "accessInfo": {
+  "country": "GB",
+  "viewability": "NO_PAGES",
+  "embeddable": false,
+  "publicDomain": false,
+  "textToSpeechPermission": "ALLOWED",
+  "epub": {
+   "isAvailable": false
+  },
+  "pdf": {
+   "isAvailable": false
+  },
+  "webReaderLink": "http://books.google.co.uk/books/reader?id=0VIkLwEACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+  "accessViewStatus": "NONE",
+  "quoteSharingAllowed": false
+ }
+}

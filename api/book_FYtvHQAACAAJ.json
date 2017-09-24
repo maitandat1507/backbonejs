@@ -1,0 +1,73 @@
+{
+ "kind": "books#volume",
+ "id": "FYtvHQAACAAJ",
+ "etag": "hjyR25QfruA",
+ "selfLink": "https://www.googleapis.com/books/v1/volumes/FYtvHQAACAAJ",
+ "volumeInfo": {
+  "title": "Science Fiction",
+  "subtitle": "The 100 Best Novels : an English-language Selection, 1949-1984",
+  "authors": [
+   "David Pringle"
+  ],
+  "publisher": "Carroll & Graff Publishers",
+  "publishedDate": "1997",
+  "description": "This guide will appeal to both newcomers and connoisseurs of the genre. Informative and readable, Pringle's choices focus on landmarks by Ray Bradbury, Alfred Bester and J. G. Ballard, unearth such lesser known talents as Ian Watson, Octavia Butler and Joanna Russ, and highlights breakthrough novels by William Gibson and Philip K. Dick.",
+  "industryIdentifiers": [
+   {
+    "type": "ISBN_10",
+    "identifier": "0786704810"
+   },
+   {
+    "type": "ISBN_13",
+    "identifier": "9780786704811"
+   }
+  ],
+  "readingModes": {
+   "text": false,
+   "image": false
+  },
+  "pageCount": 224,
+  "printedPageCount": 224,
+  "dimensions": {
+   "height": "21.00 cm",
+   "width": "14.00 cm",
+   "thickness": "1.70 cm"
+  },
+  "printType": "BOOK",
+  "categories": [
+   "Fiction / General"
+  ],
+  "averageRating": 3.5,
+  "ratingsCount": 9,
+  "contentVersion": "preview-1.0.0",
+  "imageLinks": {
+   "smallThumbnail": "http://bks1.books.google.co.uk/books?id=FYtvHQAACAAJ&printsec=frontcover&img=1&zoom=5&imgtk=AFLRE728FHU8gi_QzmBC9IbfblRzITjzGxXGVYyeJ-38CbuSCpkcYTRzpj1UfP9CzMaLE1xkrplBI0CsTOk1R8L69WqmGgCHggji_59PKCevSdccevjMzhA&source=gbs_api",
+   "thumbnail": "http://bks1.books.google.co.uk/books?id=FYtvHQAACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE73hha9HUrm_RIVHvPmdjo2dO_94TFkbbLx5-hRYDxuISeKSLQfHjV2DY2exmUao-rY7E62sfbPTRXDW8-VX5V-fDtDMq-FqE-_GLpWcODogWztyJcM&source=gbs_api"
+  },
+  "language": "en",
+  "previewLink": "http://books.google.co.uk/books?id=FYtvHQAACAAJ&hl=&source=gbs_api",
+  "infoLink": "http://books.google.co.uk/books?id=FYtvHQAACAAJ&hl=&source=gbs_api",
+  "canonicalVolumeLink": "http://books.google.co.uk/books/about/Science_Fiction.html?hl=&id=FYtvHQAACAAJ"
+ },
+ "saleInfo": {
+  "country": "GB",
+  "saleability": "NOT_FOR_SALE",
+  "isEbook": false
+ },
+ "accessInfo": {
+  "country": "GB",
+  "viewability": "NO_PAGES",
+  "embeddable": false,
+  "publicDomain": false,
+  "textToSpeechPermission": "ALLOWED",
+  "epub": {
+   "isAvailable": false
+  },
+  "pdf": {
+   "isAvailable": false
+  },
+  "webReaderLink": "http://books.google.co.uk/books/reader?id=FYtvHQAACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+  "accessViewStatus": "NONE",
+  "quoteSharingAllowed": false
+ }
+}

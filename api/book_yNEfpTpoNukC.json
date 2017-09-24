@@ -1,0 +1,85 @@
+{
+ "kind": "books#volume",
+ "id": "yNEfpTpoNukC",
+ "etag": "cS6wre5C02c",
+ "selfLink": "https://www.googleapis.com/books/v1/volumes/yNEfpTpoNukC",
+ "volumeInfo": {
+  "title": "Horror Fiction",
+  "subtitle": "An Introduction",
+  "authors": [
+   "Gina Wisker"
+  ],
+  "publisher": "A&C Black",
+  "publishedDate": "2005-07-13",
+  "description": "This is a series of introductory books about different types of writing. One strand of the series focuses on genres such as\u003cb\u003eScience Fiction, Horror, Romance, and Crime, and the other focuses on movements or styles often associated with historical\u003cb\u003eand cultural locations\u0097Postcolonial, Native American, Scottish, Irish, American Gothic.\u003cb\u003eAuthors covered in this volume include\u003cb\u003eWilliam Peter Blatty, Ira Levine, Bram\u003cb\u003eStoker, Shirley Jackson, Angela Carter,\u003cb\u003eMary Shelley, Stephen King, Anne Rice,\u003cb\u003eand Washington Irving.\u003c/b\u003e\u003c/b\u003e\u003c/b\u003e\u003c/b\u003e\u003c/b\u003e\u003c/b\u003e\u003c/b\u003e",
+  "industryIdentifiers": [
+   {
+    "type": "ISBN_10",
+    "identifier": "082641561X"
+   },
+   {
+    "type": "ISBN_13",
+    "identifier": "9780826415615"
+   }
+  ],
+  "readingModes": {
+   "text": true,
+   "image": true
+  },
+  "pageCount": 294,
+  "printedPageCount": 308,
+  "dimensions": {
+   "height": "21.00 cm",
+   "width": "12.70 cm",
+   "thickness": "1.50 cm"
+  },
+  "printType": "BOOK",
+  "categories": [
+   "Literary Criticism / Gothic & Romance",
+   "Literary Criticism / General"
+  ],
+  "contentVersion": "0.0.2.0.preview.3",
+  "imageLinks": {
+   "smallThumbnail": "http://books.google.com/books/content?id=yNEfpTpoNukC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE70EKYulyfSNQT0XIBzg96BuDMywLUSMkzhIvE3AGYZjiz-djLVrF_i_Ba9pmrWU9WERGDXarUDYe5ogLqwexanhYQTum1dklR6nQ4uKpo0ak1WTKlg&source=gbs_api",
+   "thumbnail": "http://books.google.com/books/content?id=yNEfpTpoNukC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE73NCK1-drrbY5N21SECe5mWOkyWltUwhFq9BuYc6OxrGaf-uK75tRdHKAas1y-ct0loAZvJ6bfA6rB20LvuJW3XFKIxwxZprY0n9_Vq9DgaEZpUKH0&source=gbs_api",
+   "small": "http://books.google.com/books/content?id=yNEfpTpoNukC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE73oUXvUrzhB35m8KcU1mO9KCwnps-f_TXoRG4Cd6YG6CiMS8vNlXn3O-pC7_p97mGI_455_LY3iZYJm88HaznPw_S7BSet9AR7xxKXpgS_Q3LPI6JQ&source=gbs_api",
+   "medium": "http://books.google.com/books/content?id=yNEfpTpoNukC&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE73WcAHJeMoS9BMzWQFFQiVgXjnla0rA5vQnIuNZhNmgpRZkDXOz8riXnjEb2UPPp7v1x_qddk3t0c9_eZXO5_CIqMp2eJjKXLxqb_gdLXwKC2qiG4c&source=gbs_api",
+   "large": "http://books.google.com/books/content?id=yNEfpTpoNukC&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE73uXA0lIm97P92sqDeN0IjiXdnJPv165tAMXuybJB9SU9cP18WCMTDA-08QIHEl9eKB1-gzDoFxXeap_Ayf3nsNtfdrFj5o95-6YT9JQa6gSe_J_G8&source=gbs_api",
+   "extraLarge": "http://books.google.com/books/content?id=yNEfpTpoNukC&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE717EJsZLPtwGTRTYZXQtgtNjBQjZCMkKyVXGIkC6JpSqOK5MLH7W5RHxZd06FlUk8plvUU1hePvaYUWYTp2e_wq8XNNxXtHTngz4DHuu5j3ttq-ydA&source=gbs_api"
+  },
+  "language": "en",
+  "previewLink": "http://books.google.co.uk/books?id=yNEfpTpoNukC&hl=&source=gbs_api",
+  "infoLink": "http://books.google.co.uk/books?id=yNEfpTpoNukC&hl=&source=gbs_api",
+  "canonicalVolumeLink": "http://books.google.co.uk/books/about/Horror_Fiction.html?hl=&id=yNEfpTpoNukC"
+ },
+ "layerInfo": {
+  "layers": [
+   {
+    "layerId": "geo",
+    "volumeAnnotationsVersion": "8"
+   }
+  ]
+ },
+ "saleInfo": {
+  "country": "GB",
+  "saleability": "NOT_FOR_SALE",
+  "isEbook": false
+ },
+ "accessInfo": {
+  "country": "GB",
+  "viewability": "PARTIAL",
+  "embeddable": true,
+  "publicDomain": false,
+  "textToSpeechPermission": "ALLOWED",
+  "epub": {
+   "isAvailable": true,
+   "acsTokenLink": "http://books.google.co.uk/books/download/Horror_Fiction-sample-epub.acsm?id=yNEfpTpoNukC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+  },
+  "pdf": {
+   "isAvailable": false
+  },
+  "webReaderLink": "http://books.google.co.uk/books/reader?id=yNEfpTpoNukC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+  "accessViewStatus": "SAMPLE",
+  "quoteSharingAllowed": false
+ }
+}

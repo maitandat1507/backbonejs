@@ -1,0 +1,100 @@
+{
+ "kind": "books#volume",
+ "id": "ReRoaEEg048C",
+ "etag": "qDt0dafK+tY",
+ "selfLink": "https://www.googleapis.com/books/v1/volumes/ReRoaEEg048C",
+ "volumeInfo": {
+  "title": "1001 Books",
+  "subtitle": "You Must Read Before You Die",
+  "publisher": "Hachette UK",
+  "publishedDate": "2012-01-10",
+  "description": "Completely revised and updated to include the most up-to-date selections, this is a bold and bright reference book to the novels and the writers that have excited the world's imagination. This authoritative selection of novels, reviewed by an international team of writers, critics, academics, and journalists, provides a new take on world classics and a reliable guide to what's hot in contemporary fiction. Featuring more than 700 illustrations and photographs, presenting quotes from individual novels and authors, and completely revised for 2012, this is the ideal book for everybody who loves reading.",
+  "industryIdentifiers": [
+   {
+    "type": "ISBN_10",
+    "identifier": "1844037193"
+   },
+   {
+    "type": "ISBN_13",
+    "identifier": "9781844037193"
+   }
+  ],
+  "readingModes": {
+   "text": true,
+   "image": false
+  },
+  "pageCount": 960,
+  "printedPageCount": 2142,
+  "printType": "BOOK",
+  "categories": [
+   "Reference / General"
+  ],
+  "averageRating": 5.0,
+  "ratingsCount": 2,
+  "contentVersion": "1.3.3.0.preview.2",
+  "imageLinks": {
+   "smallThumbnail": "http://bks2.books.google.co.uk/books?id=ReRoaEEg048C&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE70kf7qIgEq80eqdh6nO18ox4o4coYTw-H0ZXQ68AxX5VHDG_kXI6bWhg7U7i8oXwWD6lDUEvzSCG5v8Egz3qTf9eze1lxa876pj2Pkbea6fZe4DkB0&source=gbs_api",
+   "thumbnail": "http://bks2.books.google.co.uk/books?id=ReRoaEEg048C&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE73iQDvSXC2to3RnqXXVpQa_JaKFAT14s2TsTlw2uCuEulrBlSCmNKIPDoQ4tWVLrBpliD9nu9Wt7sg8JxAt9QkO_3VP3y10T9r5dagjzbi-ltAlu5w&source=gbs_api",
+   "small": "http://bks2.books.google.co.uk/books?id=ReRoaEEg048C&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE71bqBK0HYjuznw_NHWr15PJtK6IfoioWwgv6eg-PPL8mMq3emDN966936S8TG6cQdrvUUets4Y8OCXSlu7Hi7U_JwtyKyZbqvSLhqDT8v6jXe6qrIs&source=gbs_api",
+   "medium": "http://bks2.books.google.co.uk/books?id=ReRoaEEg048C&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE73HdEDPkUv6BNXdQTgchHE32CPsgfK6g-GCmvz4ROIyOnUx05Mhhx5CnztWzEnI2vHMP71h6FuYzgi2-ziWu4Uwmf0OtVkWqSCl-BRHsSiB0dkTtfw&source=gbs_api",
+   "large": "http://bks2.books.google.co.uk/books?id=ReRoaEEg048C&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE73Y2F6XVTaVHrpjj9jf1-0_YByF-OSY2wxVKM32ujpuWuDNfSzvuk_nWIqGrI6jBzNHjtprKX6iHohlcxTzTpOM0Fh65SSNYXjcIpJ3Muskp3GaQlQ&source=gbs_api",
+   "extraLarge": "http://bks2.books.google.co.uk/books?id=ReRoaEEg048C&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE70UAJ7AD6emtYARi5u2Q6dyEcd5DmHFLk4VM5UTcbEu95QHR3sUZMklS5mjeu0k_hh-Z5_69TfjGzLldjUrpnOthHDFvxnsEaiFl7pNe_WvdtkYZzM&source=gbs_api"
+  },
+  "language": "en",
+  "previewLink": "http://books.google.co.uk/books?id=ReRoaEEg048C&hl=&source=gbs_api",
+  "infoLink": "http://books.google.co.uk/books?id=ReRoaEEg048C&hl=&source=gbs_api",
+  "canonicalVolumeLink": "http://books.google.co.uk/books/about/1001_Books.html?hl=&id=ReRoaEEg048C"
+ },
+ "layerInfo": {
+  "layers": [
+   {
+    "layerId": "geo",
+    "volumeAnnotationsVersion": "4"
+   }
+  ]
+ },
+ "saleInfo": {
+  "country": "GB",
+  "saleability": "FOR_SALE",
+  "isEbook": true,
+  "listPrice": {
+   "amount": 9.99,
+   "currencyCode": "GBP"
+  },
+  "retailPrice": {
+   "amount": 6.99,
+   "currencyCode": "GBP"
+  },
+  "buyLink": "http://books.google.co.uk/books?id=ReRoaEEg048C&hl=&buy=&source=gbs_api",
+  "offers": [
+   {
+    "finskyOfferType": 1,
+    "listPrice": {
+     "amountInMicros": 9990000.0,
+     "currencyCode": "GBP"
+    },
+    "retailPrice": {
+     "amountInMicros": 6990000.0,
+     "currencyCode": "GBP"
+    }
+   }
+  ]
+ },
+ "accessInfo": {
+  "country": "GB",
+  "viewability": "PARTIAL",
+  "embeddable": true,
+  "publicDomain": false,
+  "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+  "epub": {
+   "isAvailable": true,
+   "acsTokenLink": "http://books.google.co.uk/books/download/1001_Books-sample-epub.acsm?id=ReRoaEEg048C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+  },
+  "pdf": {
+   "isAvailable": false
+  },
+  "webReaderLink": "http://books.google.co.uk/books/reader?id=ReRoaEEg048C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+  "accessViewStatus": "SAMPLE",
+  "quoteSharingAllowed": false
+ }
+}

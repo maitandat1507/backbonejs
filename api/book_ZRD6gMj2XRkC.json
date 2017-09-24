@@ -1,0 +1,71 @@
+{
+ "kind": "books#volume",
+ "id": "ZRD6gMj2XRkC",
+ "etag": "KFMELi426E4",
+ "selfLink": "https://www.googleapis.com/books/v1/volumes/ZRD6gMj2XRkC",
+ "volumeInfo": {
+  "title": "Sport Business Management in Aotearoa/New Zealand",
+  "authors": [
+   "Sarah Leberman",
+   "Christopher William Collins",
+   "Linda Trenberth"
+  ],
+  "publisher": "Cengage Learning Australia",
+  "publishedDate": "2006",
+  "description": "Sport Business Management in Aotearoa/New Zealand provides comprehensive and up-to-date coverage of the basic principles and practice of management and their application to the business of sport. By combining key management concepts with practical applications, this book provides students of sport management with a clear understanding of sport within the New Zealand context. This second edition includes new chapters focussing on Ma-ori sport and its management; sport in the global market place; strategic alliances; sport and the law; and facility management. Other chapters have been either updated or rewritten to reflect the current sporting environment in Aotearoa/New Zealand. The chapters in Sport Business Management in Aotearoa/New Zealand have been written in such a way that they can be read independently from each other, and as such the book does not need to be read in order. However, the book has been organised to follow a logical flow: Section One - provides an understanding of the context within which sport management operates in Aotearoa/New Zealand; Section Two - focuses on key management themes as applied to sport; Section Three - considers the business of managing sport and, as such, contains chapters with more practical applications. Sport Business Management in Aotearoa/New Zealand is a useful resource for students, practitioners, volunteers and those who have an interest in the administration and management of sport. Sarah Leberman is a Senior Lecturer in the Department of Management at Massey University in Palmerston North. Chris Collins is the CEO of the Eastern Institute of Technology in Napier. Linda Trenberth is a Senior Lecturer in the Department of Management at Birkbeck College in London.",
+  "industryIdentifiers": [
+   {
+    "type": "ISBN_13",
+    "identifier": "9780170128964"
+   },
+   {
+    "type": "ISBN_10",
+    "identifier": "0170128962"
+   }
+  ],
+  "readingModes": {
+   "text": false,
+   "image": true
+  },
+  "pageCount": 447,
+  "printedPageCount": 468,
+  "dimensions": {
+   "height": "25.00 cm"
+  },
+  "printType": "BOOK",
+  "contentVersion": "0.0.1.0.preview.1",
+  "imageLinks": {
+   "smallThumbnail": "http://bks1.books.google.co.uk/books?id=ZRD6gMj2XRkC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE71dVA7q5G16nhApkFz97-5ndxVMCXin57SIUTeQYjpu8S_6l3clWhptcWDwFg0OMwSsYot6LsNdPcDYwkA87yLuHl4D1mW0NFnwnc42bGcDTST87P0&source=gbs_api",
+   "thumbnail": "http://bks1.books.google.co.uk/books?id=ZRD6gMj2XRkC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE73YazEwhjg2rxFauT_1gjeqjqndCKsUaT3YocvTtGkcFMu19soEQlPiGKF1RtlvqUlnkT25s8X3PJoW2aQmXQcQPAiXs2FmBFoEBfZsrZoNFKUEZdw&source=gbs_api",
+   "small": "http://bks1.books.google.co.uk/books?id=ZRD6gMj2XRkC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE72LoJGfvbJBxU4QbGsdOeWlx__Z4bbgPbMlAlwhhRmchnrmgu-2jAI9bYA0_wF58IlVeBdUcKHWqlE5SacmDZSgr5BCSxwSafF9Sbz5uA20RBXvW3U&source=gbs_api",
+   "medium": "http://bks1.books.google.co.uk/books?id=ZRD6gMj2XRkC&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE71f2eHLDL2uqJfX1HE1Wb00SvGQWlbSXxKF70TzogooGzxh94mtccacVEh6FVVUoD45O4cokIYwm20VjE_qPYPltcqh6p8XDml0-SiW6iqwx1XuhrY&source=gbs_api",
+   "large": "http://bks1.books.google.co.uk/books?id=ZRD6gMj2XRkC&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE73SsFrhjXGB1ydP7_LQkgJnxTVs3fYIup9HkHHQhDTN9AOjG_01thU98RPfna2LXEMeE-5ZX4tVR3NOCFvxZJQOubWJ6cHGE1Y11xeGL_gVG9jtEnw&source=gbs_api",
+   "extraLarge": "http://bks1.books.google.co.uk/books?id=ZRD6gMj2XRkC&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE71h7HKNrYmM_hgWvS-92sLMpcXJYgS0REbjIzvCd1y7OrljcWa8E3N0ceaSv2gV-_InQKepKY-BrElmCWXI_m-lCnGiIvY6MUh1wvnJ_ulO0qHgXis&source=gbs_api"
+  },
+  "language": "en",
+  "previewLink": "http://books.google.co.uk/books?id=ZRD6gMj2XRkC&hl=&source=gbs_api",
+  "infoLink": "http://books.google.co.uk/books?id=ZRD6gMj2XRkC&hl=&source=gbs_api",
+  "canonicalVolumeLink": "http://books.google.co.uk/books/about/Sport_Business_Management_in_Aotearoa_Ne.html?hl=&id=ZRD6gMj2XRkC"
+ },
+ "saleInfo": {
+  "country": "GB",
+  "saleability": "NOT_FOR_SALE",
+  "isEbook": false
+ },
+ "accessInfo": {
+  "country": "GB",
+  "viewability": "PARTIAL",
+  "embeddable": true,
+  "publicDomain": false,
+  "textToSpeechPermission": "ALLOWED",
+  "epub": {
+   "isAvailable": false
+  },
+  "pdf": {
+   "isAvailable": false
+  },
+  "webReaderLink": "http://books.google.co.uk/books/reader?id=ZRD6gMj2XRkC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+  "accessViewStatus": "SAMPLE",
+  "quoteSharingAllowed": false
+ }
+}

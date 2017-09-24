@@ -1,0 +1,86 @@
+{
+ "kind": "books#volume",
+ "id": "wSL7mS6mpmkC",
+ "etag": "GfhhbjM2sCA",
+ "selfLink": "https://www.googleapis.com/books/v1/volumes/wSL7mS6mpmkC",
+ "volumeInfo": {
+  "title": "The Pleasures of Horror",
+  "authors": [
+   "Matt Hills"
+  ],
+  "publisher": "A&C Black",
+  "publishedDate": "2005-06-20",
+  "description": "Pleasures of Horror is a stimulating and insightful exploration of horror fictions\u0097literary, cinematic and televisual\u0097and the emotions they engender in their audiences. The text is divided into three sections. The first examines how horror is valued and devalued in different cultural fields; the second investigates the cultural politics of the contemporary horror film; while the final part considers horror fandom in relation to its embodied practices (film festivals), its \"reading formations\" (commercial fan magazines and fanzines) and the role of special effects.\u003cbr\u003e\u003cbr\u003ePleasures of Horror combines a wide range of media and textual examples with highly detailed and closely focused exposition of theory. It is a fascinating and engaging look at responses to a hugely popular genre and an invaluable resource for students of media, cultural and film studies and fans of horror.",
+  "industryIdentifiers": [
+   {
+    "type": "ISBN_10",
+    "identifier": "0826458874"
+   },
+   {
+    "type": "ISBN_13",
+    "identifier": "9780826458872"
+   }
+  ],
+  "readingModes": {
+   "text": true,
+   "image": true
+  },
+  "pageCount": 250,
+  "printedPageCount": 268,
+  "dimensions": {
+   "height": "24.00 cm",
+   "width": "17.40 cm",
+   "thickness": "2.40 cm"
+  },
+  "printType": "BOOK",
+  "categories": [
+   "Social Science / Media Studies",
+   "Social Science / Popular Culture"
+  ],
+  "averageRating": 3.0,
+  "ratingsCount": 1,
+  "contentVersion": "preview-1.0.0",
+  "imageLinks": {
+   "smallThumbnail": "http://bks2.books.google.co.uk/books?id=wSL7mS6mpmkC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE70Wp9l_Jjs2_2mx-WV6qzKtOH4Hh0mbcys5Pa73amBert34jaWYuVFDKRD5RYH8knPWjCPLgB_TMi3zSVMZbPCBNMs20tKd0DE3ZXBwe0AojsqKAeI&source=gbs_api",
+   "thumbnail": "http://bks2.books.google.co.uk/books?id=wSL7mS6mpmkC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE712S-b0v6WdNM7iH3cZgTuHsfwogQAY49vxnWVjnKeG_9kOp1ccOjmhP5gmuOKcrk_jTmwIe2yPjjiGnBS9y7Qi-ALsbePJ8UsxSSxWY-SKOG3YiXw&source=gbs_api",
+   "small": "http://bks2.books.google.co.uk/books?id=wSL7mS6mpmkC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE71Ip0x562PjZICzQaJY5_-tcPZjCHJllMbkV8IWdXdzmHSPxarFrnoyZlsuM35g2pOqNzkTPsduY2ctCgnehYjxPc8Uk2QonTrBPSXZjLQhW9gvi4A&source=gbs_api",
+   "medium": "http://bks2.books.google.co.uk/books?id=wSL7mS6mpmkC&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE72sVFLPdFPhkEDiPsA3Z9jKawcoRMk7ViR5et6w_-6QCDbNE8dY2zNV6W6N9RQhSBcsDxmEF86NNwrVL1Pwd80uy30Kd6EJ9eUgFZuSpiTghWBxXnw&source=gbs_api",
+   "large": "http://bks2.books.google.co.uk/books?id=wSL7mS6mpmkC&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE73FKl4X6cQEk04QJB6DkH1cKJYVvYU-H0HqRj9_kcaglFpUPTLDnd6Bvxoeqkus-XZYkQgB0L63X7qadOOjeFm4cUNtVyNP0L85gLPtXibiOoh-Ry4&source=gbs_api",
+   "extraLarge": "http://bks2.books.google.co.uk/books?id=wSL7mS6mpmkC&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE71WDIn9s0AfeXdTqqLZJEtk2A1gtMq1AEDVUe-dQQWIBdWdoDnRNS5o7ndkMBtdr-v6j1xMePZw5f9pKu_nx0W3kH1c0cRiASHNY9YIOMdnCP7xDus&source=gbs_api"
+  },
+  "language": "en",
+  "previewLink": "http://books.google.co.uk/books?id=wSL7mS6mpmkC&hl=&source=gbs_api",
+  "infoLink": "http://books.google.co.uk/books?id=wSL7mS6mpmkC&hl=&source=gbs_api",
+  "canonicalVolumeLink": "http://books.google.co.uk/books/about/The_Pleasures_of_Horror.html?hl=&id=wSL7mS6mpmkC"
+ },
+ "layerInfo": {
+  "layers": [
+   {
+    "layerId": "geo",
+    "volumeAnnotationsVersion": "2"
+   }
+  ]
+ },
+ "saleInfo": {
+  "country": "GB",
+  "saleability": "NOT_FOR_SALE",
+  "isEbook": false
+ },
+ "accessInfo": {
+  "country": "GB",
+  "viewability": "PARTIAL",
+  "embeddable": true,
+  "publicDomain": false,
+  "textToSpeechPermission": "ALLOWED",
+  "epub": {
+   "isAvailable": true,
+   "acsTokenLink": "http://books.google.co.uk/books/download/The_Pleasures_of_Horror-sample-epub.acsm?id=wSL7mS6mpmkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+  },
+  "pdf": {
+   "isAvailable": false
+  },
+  "webReaderLink": "http://books.google.co.uk/books/reader?id=wSL7mS6mpmkC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+  "accessViewStatus": "SAMPLE",
+  "quoteSharingAllowed": false
+ }
+}

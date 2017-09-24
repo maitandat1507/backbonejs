@@ -1,0 +1,78 @@
+{
+ "kind": "books#volume",
+ "id": "gkOEL47-eAsC",
+ "etag": "RFukePVZmQc",
+ "selfLink": "https://www.googleapis.com/books/v1/volumes/gkOEL47-eAsC",
+ "volumeInfo": {
+  "title": "Reading the Romance",
+  "subtitle": "Women, Patriarchy, and Popular Literature",
+  "authors": [
+   "Janice A. Radway"
+  ],
+  "publisher": "University of North Carolina Press",
+  "publishedDate": "1991",
+  "description": "Originally published in 1984, \u003ci\u003eReading the Romance\u003c/i\u003e challenges popular (and often demeaning) myths about why romantic fiction, one of publishing's most lucrative categories, captivates millions of women readers. Among those who have disparaged romance reading are feminists, literary critics, and theorists of mass culture. They claim that romances enforce the woman reader's dependence on men and acceptance of the repressive ideology purveyed by popular culture. Radway questions such claims, arguing that critical attention \"must shift from the text itself, taken in isolation, to the complex social event of reading.\" She examines that event, from the complicated business of publishing and distribution to the individual reader's engagement with the text.\u003cbr\u003e\u003cbr\u003eRadway's provocative approach combines reader-response criticism with anthropology and feminist psychology. Asking readers themselves to explore their reading motives, habits, and rewards, she conducted interviews in a midwestern town with forty-two romance readers whom she met through Dorothy Evans, a chain bookstore employee who has earned a reputation as an expert on romantic fiction. Evans defends her customers' choice of entertainment; reading romances, she tells Radway, is no more harmful than watching sports on television.\u003cbr\u003e\u003cbr\u003e\"We read books so we won't cry\" is the poignant explanation one woman offers for her reading habit. Indeed, Radway found that while the women she studied devote themselves to nurturing their families, these wives and mothers receive insufficient devotion or nurturance in return. In romances the women find not only escape from the demanding and often tiresome routines of their lives but also a hero who supplies the tenderness and admiring attention that they have learned not to expect.\u003cbr\u003e\u003cbr\u003eThe heroines admired by Radway's group defy the expected stereotypes; they are strong, independent, and intelligent. That such characters often find themselves to be victims of male aggression and almost always resign themselves to accepting conventional roles in life has less to do, Radway argues, with the women readers' fantasies and choices than with their need to deal with a fear of masculine dominance.\u003cbr\u003e\u003cbr\u003eThese romance readers resent not only the limited choices in their own lives but the patronizing atitude that men especially express toward their reading tastes. In fact, women read romances both to protest and to escape temporarily the narrowly defined role prescribed for them by a patriarchal culture. Paradoxically, the books that they read make conventional roles for women seem desirable. It is this complex relationship between culture, text, and woman reader that Radway urges feminists to address. Romance readers, she argues, should be encouraged to deliver their protests in the arena of actual social relations rather than to act them out in the solitude of the imagination.\u003cbr\u003e\u003cbr\u003eIn a new introduction, Janice Radway places the book within the context of current scholarship and offers both an explanation and critique of the study's limitations.\u003cbr\u003e",
+  "industryIdentifiers": [
+   {
+    "type": "ISBN_10",
+    "identifier": "0807843490"
+   },
+   {
+    "type": "ISBN_13",
+    "identifier": "9780807843499"
+   }
+  ],
+  "readingModes": {
+   "text": false,
+   "image": false
+  },
+  "pageCount": 276,
+  "printedPageCount": 292,
+  "dimensions": {
+   "height": "23.00 cm",
+   "width": "15.60 cm",
+   "thickness": "2.00 cm"
+  },
+  "printType": "BOOK",
+  "categories": [
+   "Literary Criticism / Books & Reading",
+   "Social Science / Women's Studies"
+  ],
+  "averageRating": 3.0,
+  "ratingsCount": 23,
+  "contentVersion": "preview-1.0.0",
+  "imageLinks": {
+   "smallThumbnail": "http://bks7.books.google.co.uk/books?id=gkOEL47-eAsC&printsec=frontcover&img=1&zoom=5&imgtk=AFLRE71TkF01h5ZWuzbQ7BF9AIWlM-IDQCk4VtHj0yUzi5zhziav9KVoprSRK-m3RP4TovEz_IypmHv9qt3zeCnZZslwdaGfh-KBIHsX8_yF5umC5KkHhtU&source=gbs_api",
+   "thumbnail": "http://bks7.books.google.co.uk/books?id=gkOEL47-eAsC&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE72paSD0Wu_BavsVbevaIUq_3DpmQndtjesDyTft1E8mIxGa-Hi1CkJzNxQvJBhl0omrj-3MYW1JK7w4Vllfz1K6wQTvXDCSqeEjLW4mVnd9PdyNT8w&source=gbs_api",
+   "small": "http://bks7.books.google.co.uk/books?id=gkOEL47-eAsC&printsec=frontcover&img=1&zoom=2&imgtk=AFLRE72n-uNqR185XcnkWxex1JbHIuUkVZ1I06hKPmt5zpofa0b6iXbUPUln2erfKVqvD62bmSvuVlpHy3MPnKErI9KuG0AneFbtxHy-XghpaQvtIrT9shU&source=gbs_api",
+   "medium": "http://bks7.books.google.co.uk/books?id=gkOEL47-eAsC&printsec=frontcover&img=1&zoom=3&imgtk=AFLRE738HywQFsUKiBV8uu3N55N6yoVKX7Qb4n7A18_NfWhK0SvmYzAKi3buQRoQYIWOr8EVu2Yk0V34oxefmXdANSOtptBDNktpH9kGy-JoRUfIpIjxU90&source=gbs_api",
+   "large": "http://bks7.books.google.co.uk/books?id=gkOEL47-eAsC&printsec=frontcover&img=1&zoom=4&imgtk=AFLRE720NGfBqZbTg3H-M53iNCLaUFpYf2kLPVjzBDXgDSLkn1uMwU-T-Mms7fHNv0N4vuxXN7HW9aI-LRdfncK8BsrNeQTaEht_UNu9KzB6CCp7MzbOb_c&source=gbs_api",
+   "extraLarge": "http://bks7.books.google.co.uk/books?id=gkOEL47-eAsC&printsec=frontcover&img=1&zoom=6&imgtk=AFLRE70BVgRYQSlp4qIdt3koQvy7XWvcvU2OD3ELf5uKvmtbHgilCkG0J_yB4v5biXS1HbrLGn76oUwIX6iLOYnJKUQoarpvlGcgpmrWgsUT9tb10lx_jpE&source=gbs_api"
+  },
+  "language": "en",
+  "previewLink": "http://books.google.co.uk/books?id=gkOEL47-eAsC&hl=&source=gbs_api",
+  "infoLink": "http://books.google.co.uk/books?id=gkOEL47-eAsC&hl=&source=gbs_api",
+  "canonicalVolumeLink": "http://books.google.co.uk/books/about/Reading_the_Romance.html?hl=&id=gkOEL47-eAsC"
+ },
+ "saleInfo": {
+  "country": "GB",
+  "saleability": "NOT_FOR_SALE",
+  "isEbook": false
+ },
+ "accessInfo": {
+  "country": "GB",
+  "viewability": "NO_PAGES",
+  "embeddable": false,
+  "publicDomain": false,
+  "textToSpeechPermission": "ALLOWED",
+  "epub": {
+   "isAvailable": false
+  },
+  "pdf": {
+   "isAvailable": false
+  },
+  "webReaderLink": "http://books.google.co.uk/books/reader?id=gkOEL47-eAsC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+  "accessViewStatus": "NONE",
+  "quoteSharingAllowed": false
+ }
+}

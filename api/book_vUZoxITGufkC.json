@@ -1,0 +1,78 @@
+{
+ "kind": "books#volume",
+ "id": "vUZoxITGufkC",
+ "etag": "KAxbpygLzZg",
+ "selfLink": "https://www.googleapis.com/books/v1/volumes/vUZoxITGufkC",
+ "volumeInfo": {
+  "title": "The Shining",
+  "authors": [
+   "Stephen King"
+  ],
+  "publisher": "Simon and Schuster",
+  "publishedDate": "2002-10-01",
+  "description": "\u003cb\u003e\"YOU'RE THE CARETAKER, SIR. YOU'VE ALWAYS BEEN THE CARETAKER. I SHOULD KNOW, SIR. I'VE ALWAYS BEEN HERE....\"\u003cp\u003e -- DELBERT GRADY OF THE OVERLOOK HOTEL\u003c/b\u003e \u003cp\u003e \u003cb\u003eTHE SHINING\u003c/b\u003e \u003cp\u003e First published in 1977, \u003ci\u003eThe Shining\u003c/i\u003e quickly became a benchmark in the literary career of Stephen King. This tale of a troubled man hired to care for a remote mountain resort over the winter, his loyal wife, and their uniquely gifted son slowly but steadily unfolds as secrets from the Overlook Hotel's past are revealed, and the hotel itself attempts to laim the very souls of the Torrence family. Adapted into a cinematic masterpiece of horror by legendaryStanley Kubrick -- featuring an unforgettable performance by a demonic Jack Nicholson --\u003ci\u003eThe Shining\u003c/i\u003e stands as a cultural icon of modern horror, a searing study of a family torn apart, and a nightmarish glimpse into the dark recesses of human weakness and dementia.",
+  "industryIdentifiers": [
+   {
+    "type": "ISBN_10",
+    "identifier": "0743437497"
+   },
+   {
+    "type": "ISBN_13",
+    "identifier": "9780743437493"
+   }
+  ],
+  "readingModes": {
+   "text": false,
+   "image": false
+  },
+  "pageCount": 505,
+  "printedPageCount": 530,
+  "dimensions": {
+   "height": "21.00 cm",
+   "width": "13.50 cm",
+   "thickness": "3.60 cm"
+  },
+  "printType": "BOOK",
+  "categories": [
+   "Fiction / General",
+   "Fiction / Horror",
+   "Fiction / Thrillers / General"
+  ],
+  "averageRating": 4.0,
+  "ratingsCount": 71,
+  "contentVersion": "preview-1.0.0",
+  "imageLinks": {
+   "smallThumbnail": "http://bks8.books.google.co.uk/books?id=vUZoxITGufkC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE72AXUwJky8oPpcQt7y3e1XLpx9Ip0o_STonIB-e7pCQX4ZlFTgxpn_Hq1iqZiDqMlxlA99B53UTHqA-0saDAGdaCrFmJrG-ENIDgkaCY_s0ujQkZJ4&source=gbs_api",
+   "thumbnail": "http://bks8.books.google.co.uk/books?id=vUZoxITGufkC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE70r8Tn_jAZlp4Ua4ln2kXY-UWy-hfwu23lfDuP71_SrfxBRyGkNMFqFW0YQfonrt8AeLpJ6T-jiJReB2XC1Pw6Wccdkag0TOSx0D1TBF5slTxXW2xw&source=gbs_api",
+   "small": "http://bks8.books.google.co.uk/books?id=vUZoxITGufkC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE73lnSKQoeICRz2e9HQ9EhrZD5DIjA2LFfmHYbjX9KUzUnnCP7eW-crEpbUOSAivIgFB4YYXIvnK9gLZJ9RXQLT4KSYszubbBTD2b8SYuzLi3_p8zJA&source=gbs_api",
+   "medium": "http://bks8.books.google.co.uk/books?id=vUZoxITGufkC&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE72FIxBqU-CAXSWAqxbkEsKqvWyQGLYU8CN44ljqaenX-89idPoSofXLy5BDUI6Jh6qWQjtGDJsfBa5GRAslA1jO2clOFAdqFaWz-o-tx3D6JPVQ98o&source=gbs_api",
+   "large": "http://bks8.books.google.co.uk/books?id=vUZoxITGufkC&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE70GUwdKW4Sl4hm6RPq1Utj85IeRITA81gc64B3uO0bI7_vUcTWrjpfaBcQJKAdIT0tEQPg13l8Iom7eb8MES8rVZaToghpyGneUQmIdu5ZFahgxy8I&source=gbs_api",
+   "extraLarge": "http://bks8.books.google.co.uk/books?id=vUZoxITGufkC&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE70SH6vQ8q7NbhiyefnYnq-gk4qAV7RYtHfXIzJ8pHvnzC4xB52uE-LTDLte2za8YwXUeod3B1gVowwRyDQ4QDMMgKW0EvPfOeDqPJxUQjdDCBH4dfQ&source=gbs_api"
+  },
+  "language": "en",
+  "previewLink": "http://books.google.co.uk/books?id=vUZoxITGufkC&hl=&source=gbs_api",
+  "infoLink": "http://books.google.co.uk/books?id=vUZoxITGufkC&hl=&source=gbs_api",
+  "canonicalVolumeLink": "http://books.google.co.uk/books/about/The_Shining.html?hl=&id=vUZoxITGufkC"
+ },
+ "saleInfo": {
+  "country": "GB",
+  "saleability": "NOT_FOR_SALE",
+  "isEbook": false
+ },
+ "accessInfo": {
+  "country": "GB",
+  "viewability": "PARTIAL",
+  "embeddable": true,
+  "publicDomain": false,
+  "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+  "epub": {
+   "isAvailable": false
+  },
+  "pdf": {
+   "isAvailable": false
+  },
+  "webReaderLink": "http://books.google.co.uk/books/reader?id=vUZoxITGufkC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+  "accessViewStatus": "SAMPLE",
+  "quoteSharingAllowed": false
+ }
+}

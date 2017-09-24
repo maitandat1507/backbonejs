@@ -1,0 +1,76 @@
+{
+ "kind": "books#volume",
+ "id": "_tyFxRRpY6YC",
+ "etag": "m4YEaU43FII",
+ "selfLink": "https://www.googleapis.com/books/v1/volumes/_tyFxRRpY6YC",
+ "volumeInfo": {
+  "title": "Doing Sport Psychology",
+  "authors": [
+   "Mark B. Andersen"
+  ],
+  "publisher": "Human Kinetics",
+  "publishedDate": "2000",
+  "description": "\"\u003cp\u003eMany sport psychology texts focus on what to do — relaxation, imagery, etc. This is the first text to focus directly on the how of doing sport psychology.\u003c/p\u003e\u003cp\u003e\u003ci\u003eDoing Sport Psychology\u003c/i\u003einvolves much more than the standard techniques such as goal setting and positive self-talk. Counselors' personalities, the history of their relationships with athletes, the interaction of individual psychologists and athletes with entire teams—these factors are at least as important as the application of standard procedures. This book reveals in intimate detail the process of sport psychology at work.\u003c/p\u003e\u003cp\u003eThe text, edited by psychologist Mark B. Andersen, includes\u003cbr\u003e-details of sessions directed by professionals using a variety of models: cognitive-behavioral, rational-emotive, performance enhancement, developmental, and psychodynamic;\u003c/p\u003e\u003cp\u003e-transcripts of dialogue between counselors and athletes in many different sports, which clearly demonstrate what sport psychology sessions actually sound like; \u003c/p\u003e\u003cp\u003e-descriptive commentaries on why the psychologists chose the therapeutic path they did and what other options they might have chosen; and\u003c/p\u003e\u003cp\u003e-specifics on how a wide variety of people—including coaches, physical therapists, and other professionals who work with athletes and performers—administer sport psychology. \u003cbr\u003e\u003cb\u003ePart I,\u003c/b\u003e\"\"Getting Started,\"\" details first encounters, intake sessions, and establishment of working relationships. Removing psychological barriers to optimal performance and managing athletes' inevitable stressors are covered here. In every instance, actual session transcripts reveal how counselors related to people in specific situations.\u003c/p\u003e\u003cp\u003e\u003cb\u003ePart II,\u003c/b\u003e\"\"From the Applied Sport Psychology Canon,\"\" covers traditional topics such as goal setting, relaxation, imagery, and self-talk. But these interventions are not as easy to deliver as some texts imply. The focus here is on how such techniques are applied in real-life situations. \u003c/p\u003e\u003cp\u003e\u003cb\u003ePart III,\u003c/b\u003e\"\"Beyond Performance Enhancement: Working With and Working Through,\"\" reveals what clinical/counseling sessions with athletes really sound like. Performance-enhancing sessions often expose deeper clinical issues such as personal loss, depression, or eating disorders.\u003c/p\u003e\u003cp\u003e\u003cb\u003ePart IV,\u003c/b\u003e\"\"The Study of Service: From Supervision to Complex Delivery,\"\" deals with advanced topics. Some of the world's most experienced sport psychologists provide their insight regarding supervising others who deliver psychological services, dealing with interns, and developing long-term relationships with elite athletes. \u003c/p\u003e\u003cp\u003e\u003cb\u003ePart V,\u003c/b\u003e\"\"Branching Out: Other Practitioners, Other Settings,\"\" provides details of sessions with injured athletes, cross country runners, athletes who are retiring from professional sports, and even a musician (illustrating how sport psychology is broadly applicable to any endeavor where performance is important).\u003c/p\u003e\u003cp\u003eThis book provides powerful and revealing insights into how sport psychology is done by the people who do it best.\u003c/p\u003e\u003cp\u003eMark B. Andersen began this book for use with his own graduate students. It is the book he wishes he had when he was in graduate school. It is now available to all!\u003cbr\u003e\u003c/p\u003e\"",
+  "industryIdentifiers": [
+   {
+    "type": "ISBN_10",
+    "identifier": "0736000860"
+   },
+   {
+    "type": "ISBN_13",
+    "identifier": "9780736000864"
+   }
+  ],
+  "readingModes": {
+   "text": false,
+   "image": true
+  },
+  "pageCount": 293,
+  "printedPageCount": 316,
+  "dimensions": {
+   "height": "28.00 cm",
+   "width": "21.60 cm",
+   "thickness": "1.90 cm"
+  },
+  "printType": "BOOK",
+  "categories": [
+   "Education / Physical Education",
+   "Medical / Sports Medicine",
+   "Sports & Recreation / Sports Psychology"
+  ],
+  "contentVersion": "1.0.0.0.preview.1",
+  "imageLinks": {
+   "smallThumbnail": "http://bks1.books.google.co.uk/books?id=_tyFxRRpY6YC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE72awvDIIGNi6ebfjvVEDQz-yTyiFKXCkQHooJAbo8maRaPLMlXCpXWSzmxVZTyilr12edtI_6ZpTHm3dC-OVkNgM82Wo89kN_5dRzhMriEzI97iOVw&source=gbs_api",
+   "thumbnail": "http://bks1.books.google.co.uk/books?id=_tyFxRRpY6YC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE72ebMqxjoxwWtUWxsbrxyqIkbjakDiT_PB3Rh40KO96BezU0av5_KnLcXWvwzIBSPXQxZX6BixdNR67V_R9TSQysX7zB_r2sZfNqEhGPLeL6bqHTSY&source=gbs_api",
+   "small": "http://bks1.books.google.co.uk/books?id=_tyFxRRpY6YC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE71jLXfZ52TbMhSu7ZWYx4RqR5DPBgqzanw3fVWN2TirVEdetr9xBp3KjuFQ5N3YJ1n_d7DB47YDPiHYSUXIGUTVQWkQPUiE9OyYcRWVZZSSwYqQUnc&source=gbs_api",
+   "medium": "http://bks1.books.google.co.uk/books?id=_tyFxRRpY6YC&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE70bAQTh1n4rHbTwVqyb_X8wczXjGzTDQzSz4m-4s3pxuoTSAw5l1ChoNT1zwyOU--9fDuWA7L2xfHN3XzCHOGSHKbphIzKUYdOx37fJMFxloPCtejM&source=gbs_api",
+   "large": "http://bks1.books.google.co.uk/books?id=_tyFxRRpY6YC&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE71Lmv_I0okqSI-UCpxLt4oYY5X8y_W11GCTEgylTo30y-nElOYHz5-V9ZeHvZyL6utCVSAvfv6I7roaBRMYJJJ5bizuiiD03ofaHu4PBLf84Xtj8SY&source=gbs_api",
+   "extraLarge": "http://bks1.books.google.co.uk/books?id=_tyFxRRpY6YC&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE71AAx_wsmiYKycj6nvXVthkF4K2_mBnfNGittQ3zMVh6lPhbEL5fKkUqpBkLYzsNCGrCPkgXHBoPcMXQmO4nGnE82_y9kpqtIlujMdEpqjkk-AtYhw&source=gbs_api"
+  },
+  "language": "en",
+  "previewLink": "http://books.google.co.uk/books?id=_tyFxRRpY6YC&hl=&source=gbs_api",
+  "infoLink": "http://books.google.co.uk/books?id=_tyFxRRpY6YC&hl=&source=gbs_api",
+  "canonicalVolumeLink": "http://books.google.co.uk/books/about/Doing_Sport_Psychology.html?hl=&id=_tyFxRRpY6YC"
+ },
+ "saleInfo": {
+  "country": "GB",
+  "saleability": "NOT_FOR_SALE",
+  "isEbook": false
+ },
+ "accessInfo": {
+  "country": "GB",
+  "viewability": "PARTIAL",
+  "embeddable": true,
+  "publicDomain": false,
+  "textToSpeechPermission": "ALLOWED",
+  "epub": {
+   "isAvailable": false
+  },
+  "pdf": {
+   "isAvailable": false
+  },
+  "webReaderLink": "http://books.google.co.uk/books/reader?id=_tyFxRRpY6YC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+  "accessViewStatus": "SAMPLE",
+  "quoteSharingAllowed": false
+ }
+}

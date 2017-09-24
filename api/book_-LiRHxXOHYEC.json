@@ -1,0 +1,87 @@
+{
+ "kind": "books#volume",
+ "id": "-LiRHxXOHYEC",
+ "etag": "MYV6Z76vOqs",
+ "selfLink": "https://www.googleapis.com/books/v1/volumes/-LiRHxXOHYEC",
+ "volumeInfo": {
+  "title": "Adventure, Mystery, and Romance",
+  "subtitle": "Formula Stories as Art and Popular Culture",
+  "authors": [
+   "John G. Cawelti"
+  ],
+  "publisher": "University of Chicago Press",
+  "publishedDate": "1977-07-15",
+  "description": "In this first general theory for the analysis of popular literary formulas, John G. Cawelti reveals the artistry that underlies the best in formulaic literature. Cawelti discusses such seemingly diverse works as Mario Puzo's \u003ci\u003eThe Godfather\u003c/i\u003e, Dorothy Sayers's \u003ci\u003eThe Nine Tailors\u003c/i\u003e, and Owen Wister's \u003ci\u003eThe Virginian\u003c/i\u003e in the light of his hypotheses about the cultural function of formula literature. He describes the most important artistic characteristics of popular formula stories and the differences between this literature and that commonly labeled \"high\" or \"serious\" literature. He also defines the archetypal patterns of adventure, mystery, romance, melodrama, and fantasy, and offers a tentative account of their basis in human psychology.",
+  "industryIdentifiers": [
+   {
+    "type": "ISBN_10",
+    "identifier": "0226098672"
+   },
+   {
+    "type": "ISBN_13",
+    "identifier": "9780226098678"
+   }
+  ],
+  "readingModes": {
+   "text": true,
+   "image": true
+  },
+  "pageCount": 335,
+  "printedPageCount": 344,
+  "dimensions": {
+   "height": "22.90 cm",
+   "width": "15.20 cm",
+   "thickness": "2.50 cm"
+  },
+  "printType": "BOOK",
+  "categories": [
+   "Language Arts & Disciplines / Composition & Creative Writing",
+   "Literary Criticism / General"
+  ],
+  "averageRating": 4.0,
+  "ratingsCount": 6,
+  "contentVersion": "1.1.0.0.preview.3",
+  "imageLinks": {
+   "smallThumbnail": "http://bks7.books.google.co.uk/books?id=-LiRHxXOHYEC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE70hn90JeNlphPOF0VUjLn9XfkAG4dxDtft_2CUH15jPIat0biDsHVG5IKCa8WBQekwQiAzqY5uu9kqYefQLK_gkKsxgqOYM4wnUWXX0E0fgGbImolE&source=gbs_api",
+   "thumbnail": "http://bks7.books.google.co.uk/books?id=-LiRHxXOHYEC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE73Id62bxz3Pqy1OF-WEPW1OUgOLdZW0wqFdAq_kIWSt5Gjh6lh93Sz5M_OnXlMPR_KWOgO9MSy1S6sEQeBTuPG1mQqLPHhHju16FIUFgkffZf7qD1I&source=gbs_api",
+   "small": "http://bks7.books.google.co.uk/books?id=-LiRHxXOHYEC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE723KNSHMjQM3mwWlTDAUPW7hZniqZvxnNuYvXNFpd7oFOA3hN6FU9K-7IAF8TcSo9Qvurvww96t-IGNHO26ESnL-d4gNulMxvNtTUYhYANRb8mTwIE&source=gbs_api",
+   "medium": "http://bks7.books.google.co.uk/books?id=-LiRHxXOHYEC&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE73yIdgel6TS0pS-j2lsv6gbqgki0SygjHPDlesEhOdRuNypPVO7tkDvYnX1j0r_B5MtLuQaivnCWP4YxK_Vkkv0v7DBMBV4qA4gH0a16nuoHotVDFw&source=gbs_api",
+   "large": "http://bks7.books.google.co.uk/books?id=-LiRHxXOHYEC&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE70dLSQ8nQRxu57MFTJsH1NMQ67asz4Qj0jq9KZZEuAhuCX0ttSfxCk2Eei612nu8oiuNu_BbdQtHQgBo2oncD_M95107Q2ACrqhUGvjm22n2zw062c&source=gbs_api",
+   "extraLarge": "http://bks7.books.google.co.uk/books?id=-LiRHxXOHYEC&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE71aauAVpmQS0QXFkfppmbhIHFXKdVnnU-Lzga0lm5QlYrvkir4-lD_upi-q6m_O_GE7Ir8-jgbRyzD8ioudK_fn6PXM8OiRdgqIlrdLCs5scwOWOrk&source=gbs_api"
+  },
+  "language": "en",
+  "previewLink": "http://books.google.co.uk/books?id=-LiRHxXOHYEC&hl=&source=gbs_api",
+  "infoLink": "http://books.google.co.uk/books?id=-LiRHxXOHYEC&hl=&source=gbs_api",
+  "canonicalVolumeLink": "http://books.google.co.uk/books/about/Adventure_Mystery_and_Romance.html?hl=&id=-LiRHxXOHYEC"
+ },
+ "layerInfo": {
+  "layers": [
+   {
+    "layerId": "geo",
+    "volumeAnnotationsVersion": "3"
+   }
+  ]
+ },
+ "saleInfo": {
+  "country": "GB",
+  "saleability": "NOT_FOR_SALE",
+  "isEbook": false
+ },
+ "accessInfo": {
+  "country": "GB",
+  "viewability": "PARTIAL",
+  "embeddable": true,
+  "publicDomain": false,
+  "textToSpeechPermission": "ALLOWED",
+  "epub": {
+   "isAvailable": true,
+   "acsTokenLink": "http://books.google.co.uk/books/download/Adventure_Mystery_and_Romance-sample-epub.acsm?id=-LiRHxXOHYEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+  },
+  "pdf": {
+   "isAvailable": false
+  },
+  "webReaderLink": "http://books.google.co.uk/books/reader?id=-LiRHxXOHYEC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+  "accessViewStatus": "SAMPLE",
+  "quoteSharingAllowed": false
+ }
+}

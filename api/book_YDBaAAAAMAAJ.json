@@ -1,0 +1,82 @@
+{
+ "kind": "books#volume",
+ "id": "YDBaAAAAMAAJ",
+ "etag": "6ctdnKVn0uI",
+ "selfLink": "https://www.googleapis.com/books/v1/volumes/YDBaAAAAMAAJ",
+ "volumeInfo": {
+  "title": "From my guy to sci-fi",
+  "subtitle": "genre and women's writing in the postmodern world",
+  "authors": [
+   "Helen Carr"
+  ],
+  "publisher": "Pandora Press",
+  "publishedDate": "1989",
+  "description": "Debates literary genres and the ways in which women writers use them, and explores the cultural implications from a feminist criticism standpoint",
+  "industryIdentifiers": [
+   {
+    "type": "ISBN_10",
+    "identifier": "0044404085"
+   },
+   {
+    "type": "ISBN_13",
+    "identifier": "9780044404088"
+   }
+  ],
+  "readingModes": {
+   "text": false,
+   "image": false
+  },
+  "pageCount": 224,
+  "printedPageCount": 248,
+  "dimensions": {
+   "height": "20.00 cm",
+   "width": "13.00 cm",
+   "thickness": "2.30 cm"
+  },
+  "printType": "BOOK",
+  "categories": [
+   "English fiction",
+   "Feminism and literature",
+   "Feminism in literature",
+   "Literary form",
+   "Literature/ 20th century/ History and criticism",
+   "Literature/ Women authors/ History and criticism",
+   "Literature",
+   "Literary Criticism / General"
+  ],
+  "contentVersion": "preview-1.0.0",
+  "imageLinks": {
+   "smallThumbnail": "http://bks1.books.google.co.uk/books?id=YDBaAAAAMAAJ&printsec=frontcover&img=1&zoom=5&imgtk=AFLRE70GFmQrJh89XrR_cdo9JtYMZnp3dvGElcS8mfvO7nfTs2dvkokwzZHcP83K65LY9F22foEaoJvsfefAVRt3oDLN1LWp3g&source=gbs_api",
+   "thumbnail": "http://bks1.books.google.co.uk/books?id=YDBaAAAAMAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE70wq9P1i_qVMFmgeMLkrhFM5J8JJ4pNEQWfWphTio4KDq7ZBMn2C9qK57Qe6lj6qVjkj7_6wX464Uj2rQYumpX8wdWcPA&source=gbs_api",
+   "small": "http://bks1.books.google.co.uk/books?id=YDBaAAAAMAAJ&printsec=frontcover&img=1&zoom=2&imgtk=AFLRE70CO3BM9uiziLSJ9AlVOmGDELywPz8rDiou2juC-nGYooGwfDxTQBt_om1Yaq0xwVu5zTTkIMxAY-zuNG2GsPO27-h6NA&source=gbs_api",
+   "medium": "http://bks1.books.google.co.uk/books?id=YDBaAAAAMAAJ&printsec=frontcover&img=1&zoom=3&imgtk=AFLRE70CNLtYZIVRVUqz95aqsh_p6DoDRvMpOl4-yt7iyPlgOikipuQ2qiSLTyU_mbnvziS7aBxZBeCb_b2kHVT9lxHU-VmTbA&source=gbs_api",
+   "large": "http://bks1.books.google.co.uk/books?id=YDBaAAAAMAAJ&printsec=frontcover&img=1&zoom=4&imgtk=AFLRE708KsfyA44Cw2Yo6isoawRUt6CaqssTE_vc0E98M9bx5TcMYOpYmgh4bOoUAf-r2fbmUpiIrb7rBHf2QfgigpqMDIn_ew&source=gbs_api",
+   "extraLarge": "http://bks1.books.google.co.uk/books?id=YDBaAAAAMAAJ&printsec=frontcover&img=1&zoom=6&imgtk=AFLRE71ia4whxTQZFvszCrmXgIPCfJh4STVKR-rQb8EvIuaY87lvxzEzlTnRt6icEJrcSGiIL6ScMRiRF-fBWiXZ0ANWIXA8yA&source=gbs_api"
+  },
+  "language": "en",
+  "previewLink": "http://books.google.co.uk/books?id=YDBaAAAAMAAJ&hl=&source=gbs_api",
+  "infoLink": "http://books.google.co.uk/books?id=YDBaAAAAMAAJ&hl=&source=gbs_api",
+  "canonicalVolumeLink": "http://books.google.co.uk/books/about/From_my_guy_to_sci_fi.html?hl=&id=YDBaAAAAMAAJ"
+ },
+ "saleInfo": {
+  "country": "GB",
+  "saleability": "NOT_FOR_SALE",
+  "isEbook": false
+ },
+ "accessInfo": {
+  "country": "GB",
+  "viewability": "NO_PAGES",
+  "embeddable": false,
+  "publicDomain": false,
+  "textToSpeechPermission": "ALLOWED",
+  "epub": {
+   "isAvailable": false
+  },
+  "pdf": {
+   "isAvailable": false
+  },
+  "webReaderLink": "http://books.google.co.uk/books/reader?id=YDBaAAAAMAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+  "accessViewStatus": "NONE",
+  "quoteSharingAllowed": false
+ }
+}

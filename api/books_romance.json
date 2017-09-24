@@ -1,0 +1,782 @@
+[
+  {
+   "kind": "books#volume",
+   "id": "ExguqMV2WaMC",
+   "etag": "X32+/qWFDBk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/ExguqMV2WaMC",
+   "volumeInfo": {
+    "title": "Fifty Shades of Grey",
+    "authors": [
+     "E L James"
+    ],
+    "publisher": "Random House",
+    "publishedDate": "2012-03-19",
+    "description": "MORE THAN 100 MILLION COPIES SOLD WORLD WIDE. Soon to be a major movie starring Jamie Dornan and Dakota Johnson, directed by Sam Taylor-Johnson. When literature student Anastasia Steele interviews successful entrepreneur Christian Grey, she finds him very attractive and deeply intimidating. Convinced that their meeting went badly, she tries to put him out of her mind – until he turns up at the store where she works part-time, and invites her out. Unworldly and innocent, Ana is shocked to find she wants this man. And, when he warns her to keep her distance, it only makes her want him more. As they embark on a passionate love affair, Ana discovers more about her own desires, as well as the dark secrets Christian keeps hidden away from public view ...",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781448149452"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1448149452"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": false
+    },
+    "pageCount": 528,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1962,
+    "contentVersion": "1.13.11.0.preview.2",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.co.uk/books?id=ExguqMV2WaMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks6.books.google.co.uk/books?id=ExguqMV2WaMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=ExguqMV2WaMC&printsec=frontcover&dq=romance&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=ExguqMV2WaMC&dq=romance&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/Fifty_Shades_of_Grey.html?hl=&id=ExguqMV2WaMC"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 4.49,
+     "currencyCode": "GBP"
+    },
+    "retailPrice": {
+     "amount": 3.59,
+     "currencyCode": "GBP"
+    },
+    "buyLink": "http://books.google.co.uk/books?id=ExguqMV2WaMC&dq=romance&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4490000.0,
+       "currencyCode": "GBP"
+      },
+      "retailPrice": {
+       "amountInMicros": 3590000.0,
+       "currencyCode": "GBP"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.co.uk/books/download/Fifty_Shades_of_Grey-sample-epub.acsm?id=ExguqMV2WaMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=ExguqMV2WaMC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Romantic, liberating and totally addictive, this is a novel that will obsess you, possess you, and stay with you for ever."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "MMhpS90HrukC",
+   "etag": "j/w1R4uXOf0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/MMhpS90HrukC",
+   "volumeInfo": {
+    "title": "Fifty Shades of Grey",
+    "authors": [
+     "E. L. James"
+    ],
+    "publisher": "Vintage",
+    "publishedDate": "2011",
+    "description": "When Anastasia Steele, a young literature student, interviews wealthy young entrepreneur Christian Grey for her campus magazine, their initial meeting introduces Anastasia to an exciting new world that will change them both forever.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780345803481"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0345803485"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 514,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 272,
+    "contentVersion": "0.5.1.0.preview.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks5.books.google.co.uk/books?id=MMhpS90HrukC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://bks5.books.google.co.uk/books?id=MMhpS90HrukC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=MMhpS90HrukC&dq=romance&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=MMhpS90HrukC&dq=romance&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/Fifty_Shades_of_Grey.html?hl=&id=MMhpS90HrukC"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=MMhpS90HrukC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "When Anastasia Steele, a young literature student, interviews wealthy young entrepreneur Christian Grey for her campus magazine, their initial meeting introduces Anastasia to an exciting new world that will change them both forever."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0VIkLwEACAAJ",
+   "etag": "noGP+AhuMos",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0VIkLwEACAAJ",
+   "volumeInfo": {
+    "title": "Fifty Shades of Grey",
+    "authors": [
+     "E. L. James"
+    ],
+    "publisher": "Lulu.com",
+    "publishedDate": "2011",
+    "description": "When Anastasia Steele, a young literature student, interviews wealthy young entrepreneur Christian Grey for her campus magazine, their initial meeting introduces Anastasia to an exciting new world that will change them both forever.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1612130283"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781612130286"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 380,
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 239,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks1.books.google.co.uk/books?id=0VIkLwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://bks1.books.google.co.uk/books?id=0VIkLwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=0VIkLwEACAAJ&dq=romance&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=0VIkLwEACAAJ&dq=romance&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/Fifty_Shades_of_Grey.html?hl=&id=0VIkLwEACAAJ"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=0VIkLwEACAAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "When Anastasia Steele, a young literature student, interviews wealthy young entrepreneur Christian Grey for her campus magazine, their initial meeting introduces Anastasia to an exciting new world that will change them both forever."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QZGMt8gSaasC",
+   "etag": "0WTVI6XIb7Y",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QZGMt8gSaasC",
+   "volumeInfo": {
+    "title": "Romance",
+    "authors": [
+     "Barbara Fuchs"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "2004",
+    "description": "Often derided as an inferior form of literature, 'romance' as a literary mode or genre defies satisfactory definition, dividing critics, scholars and readers alike. This useful guidebook traces the myriad transformations of 'romance' from medieval courtly love to Mills and Boon, and claims that its elusive and complex nature serves as a touchstone for larger questions of literary and cultural theory, such as: How does the history of 'romance' as a category force us to rethink the historicization of literary genres? What definitions can we provide for our own time to help us recognize and analyze new forms of 'romance'? To what extent is the resistance to romance a resistance to the imaginative force of literature? The case for 'romance' as a concept is presented clearly and imaginatively, arguing that its usefulness to contemporary critics can be maintained if it is regarded as a literary strategy rather than a fixed genre. In encouraging the reader to consider the fluidity of literature, Romance will be of equal value to all students of historical and comparative literatures and of modern literary forms.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "041521260X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780415212601"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 146,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://bks6.books.google.co.uk/books?id=QZGMt8gSaasC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks6.books.google.co.uk/books?id=QZGMt8gSaasC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=QZGMt8gSaasC&printsec=frontcover&dq=romance&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=QZGMt8gSaasC&dq=romance&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/Romance.html?hl=&id=QZGMt8gSaasC"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=QZGMt8gSaasC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "What definitions can we provide for our own time to help us recognize and analyze new forms of &#39;romance&#39;? To what extent is the resistance to romance a resistance to the imaginative force of literature?"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gkOEL47-eAsC",
+   "etag": "012LbhH63VQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gkOEL47-eAsC",
+   "volumeInfo": {
+    "title": "Reading the Romance",
+    "subtitle": "Women, Patriarchy, and Popular Literature",
+    "authors": [
+     "Janice A. Radway"
+    ],
+    "publisher": "Univ of North Carolina Press",
+    "publishedDate": "1991",
+    "description": "Reading the Romance: Women, Patriarchy, and Popular Literature",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0807843490"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780807843499"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 276,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 23,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.co.uk/books?id=gkOEL47-eAsC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://bks7.books.google.co.uk/books?id=gkOEL47-eAsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=gkOEL47-eAsC&q=romance&dq=romance&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=gkOEL47-eAsC&dq=romance&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/Reading_the_Romance.html?hl=&id=gkOEL47-eAsC"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=gkOEL47-eAsC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Reading the Romance: Women, Patriarchy, and Popular Literature"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "iN6dg0D0gu0C",
+   "etag": "rcArTpwd6vo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/iN6dg0D0gu0C",
+   "volumeInfo": {
+    "title": "The Romance of Arthur",
+    "subtitle": "An Anthology of Medieval Texts in Translation",
+    "authors": [
+     "James J. Wilhelm"
+    ],
+    "publisher": "Psychology Press",
+    "publishedDate": "1994",
+    "description": "This book covers nearly a thousand years of translated texts in a broad range of genres, from the early chronicles and Welsh verse through Sir Thomas Malory.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0815315112"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780815315117"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 582,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 8,
+    "contentVersion": "0.0.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.co.uk/books?id=iN6dg0D0gu0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks8.books.google.co.uk/books?id=iN6dg0D0gu0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=iN6dg0D0gu0C&printsec=frontcover&dq=romance&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=iN6dg0D0gu0C&dq=romance&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/The_Romance_of_Arthur.html?hl=&id=iN6dg0D0gu0C"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=iN6dg0D0gu0C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This book covers nearly a thousand years of translated texts in a broad range of genres, from the early chronicles and Welsh verse through Sir Thomas Malory."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "GFcRKW0cjEwC",
+   "etag": "Gb4Q+8uHKDk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/GFcRKW0cjEwC",
+   "volumeInfo": {
+    "title": "A Natural History of the Romance Novel",
+    "authors": [
+     "Pamela Regis"
+    ],
+    "publisher": "University of Pennsylvania Press",
+    "publishedDate": "2011-01-01",
+    "description": "The romance novel has the strange distinction of being the most popular but least respected of literary genres. While it remains consistently dominant in bookstores and on best-seller lists, it is also widely dismissed by the critical community. Scholars have alleged that romance novels help create subservient readers, who are largely women, by confining heroines to stories that ignore issues other than love and marriage. Pamela Regis argues that such critical studies fail to take into consideration the personal choice of readers, offer any true definition of the romance novel, or discuss the nature and scope of the genre. Presenting the counterclaim that the romance novel does not enslave women but, on the contrary, is about celebrating freedom and joy, Regis offers a definition that provides critics with an expanded vocabulary for discussing a genre that is both classic and contemporary, sexy and entertaining. Taking the stance that the popular romance novel is a work of literature with a brilliant pedigree, Regis asserts that it is also a very old, stable form. She traces the literary history of the romance novel from canonical works such as Richardson's Pamela through Austen's Pride and Prejudice, Brontë's Jane Eyre, and E. M. Hull's The Sheik, and then turns to more contemporary works such as the novels of Georgette Heyer, Mary Stewart, Janet Dailey, Jayne Ann Krentz, and Nora Roberts.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780812203103"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0812203100"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Literary Criticism"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 9,
+    "contentVersion": "1.2.1.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://bks9.books.google.co.uk/books?id=GFcRKW0cjEwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks9.books.google.co.uk/books?id=GFcRKW0cjEwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=GFcRKW0cjEwC&printsec=frontcover&dq=romance&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=GFcRKW0cjEwC&dq=romance&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/A_Natural_History_of_the_Romance_Novel.html?hl=&id=GFcRKW0cjEwC"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "FOR_SALE_AND_RENTAL",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 17.4,
+     "currencyCode": "GBP"
+    },
+    "retailPrice": {
+     "amount": 11.31,
+     "currencyCode": "GBP"
+    },
+    "buyLink": "http://books.google.co.uk/books?id=GFcRKW0cjEwC&dq=romance&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.74E7,
+       "currencyCode": "GBP"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.131E7,
+       "currencyCode": "GBP"
+      }
+     },
+     {
+      "finskyOfferType": 3,
+      "listPrice": {
+       "amountInMicros": 1.566E7,
+       "currencyCode": "GBP"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.018E7,
+       "currencyCode": "GBP"
+      },
+      "rentalDuration": {
+       "unit": "DAY",
+       "count": 180.0
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.co.uk/books/download/A_Natural_History_of_the_Romance_Novel-sample-pdf.acsm?id=GFcRKW0cjEwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=GFcRKW0cjEwC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The romance novel has the strange distinction of being the most popular but least respected of literary genres."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EnUrreyCXRsC",
+   "etag": "78Edq37cGCk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EnUrreyCXRsC",
+   "volumeInfo": {
+    "title": "Educated in Romance",
+    "subtitle": "Women, Achievement, and College Culture",
+    "authors": [
+     "Dorothy C. Holland"
+    ],
+    "publisher": "University of Chicago Press",
+    "publishedDate": "1992-04-15",
+    "description": "Is romance more important to women in college than grades are? Why do so many women enter college with strong academic backgrounds and firm career goals but leave with dramatically scaled-down ambitions? Dorothy C. Holland and Margaret A. Eisenhart expose a pervasive \"culture of romance\" on campus: a high-pressure peer system that propels women into a world where their attractiveness to men counts most.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0226349446"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780226349442"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Education"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://bks8.books.google.co.uk/books?id=EnUrreyCXRsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks8.books.google.co.uk/books?id=EnUrreyCXRsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=EnUrreyCXRsC&printsec=frontcover&dq=romance&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=EnUrreyCXRsC&dq=romance&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/Educated_in_Romance.html?hl=&id=EnUrreyCXRsC"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.co.uk/books/download/Educated_in_Romance-sample-epub.acsm?id=EnUrreyCXRsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=EnUrreyCXRsC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Dorothy C. Holland and Margaret A. Eisenhart expose a pervasive &quot;culture of romance&quot; on campus: a high-pressure peer system that propels women into a world where their attractiveness to men counts most."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Ujt0Y7-hD_cC",
+   "etag": "QcuVxdrc2gw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Ujt0Y7-hD_cC",
+   "volumeInfo": {
+    "title": "The Book of Romance",
+    "subtitle": "What Solomon Says About Love, Sex, and Intimacy",
+    "authors": [
+     "Tommy Nelson"
+    ],
+    "publisher": "Thomas Nelson Inc",
+    "publishedDate": "1998-11-13",
+    "description": "The Bible is well-known for its wisdom on spiritual concerns and righteous living. But did you know it can also guide you in matters of dating, courtship, and marriage? \"Based on what God knows about us,\" says Tommy Nelson, \"He has provided an instruction manual in the Song of Solomon with eight very enlightening, explicit, and highly practical chapters on the topics of love, sex and intimacy.\" Wise and engaging, The Book of Romance digs deep into the Song of Solomon and what it says about the Bible's most passionate lovers. As you learn about their relationship, you'll discover how you, too, can experience the deep emotional, sexual, and spiritual satisfaction that God created to be enjoyed in marriage.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781418565558"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1418565555"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Family & Relationships"
+    ],
+    "averageRating": 4.5,
+    "ratingsCount": 14,
+    "contentVersion": "0.2.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks3.books.google.co.uk/books?id=Ujt0Y7-hD_cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks3.books.google.co.uk/books?id=Ujt0Y7-hD_cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=Ujt0Y7-hD_cC&printsec=frontcover&dq=romance&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=Ujt0Y7-hD_cC&dq=romance&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/The_Book_of_Romance.html?hl=&id=Ujt0Y7-hD_cC"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 11.01,
+     "currencyCode": "GBP"
+    },
+    "retailPrice": {
+     "amount": 7.38,
+     "currencyCode": "GBP"
+    },
+    "buyLink": "http://books.google.co.uk/books?id=Ujt0Y7-hD_cC&dq=romance&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.101E7,
+       "currencyCode": "GBP"
+      },
+      "retailPrice": {
+       "amountInMicros": 7380000.0,
+       "currencyCode": "GBP"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.co.uk/books/download/The_Book_of_Romance-sample-epub.acsm?id=Ujt0Y7-hD_cC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.co.uk/books/download/The_Book_of_Romance-sample-pdf.acsm?id=Ujt0Y7-hD_cC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=Ujt0Y7-hD_cC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&quot; Wise and engaging, The Book of Romance digs deep into the Song of Solomon and what it says about the Bible&#39;s most passionate lovers."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-LiRHxXOHYEC",
+   "etag": "H1tvnT4b6jc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-LiRHxXOHYEC",
+   "volumeInfo": {
+    "title": "Adventure, Mystery, and Romance",
+    "subtitle": "Formula Stories as Art and Popular Culture",
+    "authors": [
+     "John G. Cawelti"
+    ],
+    "publisher": "University of Chicago Press",
+    "publishedDate": "1977-07-15",
+    "description": "A study of the popular plot formulas, and chief practitioners, of the detective and crime story, western, and social melodrama, assessing their artistic and cultural significance",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0226098672"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780226098678"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 335,
+    "printType": "BOOK",
+    "categories": [
+     "Language Arts & Disciplines"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 6,
+    "contentVersion": "1.1.0.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://bks7.books.google.co.uk/books?id=-LiRHxXOHYEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://bks7.books.google.co.uk/books?id=-LiRHxXOHYEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.co.uk/books?id=-LiRHxXOHYEC&printsec=frontcover&dq=romance&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.co.uk/books?id=-LiRHxXOHYEC&dq=romance&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.co.uk/books/about/Adventure_Mystery_and_Romance.html?hl=&id=-LiRHxXOHYEC"
+   },
+   "saleInfo": {
+    "country": "GB",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "GB",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.co.uk/books/download/Adventure_Mystery_and_Romance-sample-epub.acsm?id=-LiRHxXOHYEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.co.uk/books/reader?id=-LiRHxXOHYEC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A study of the popular plot formulas, and chief practitioners, of the detective and crime story, western, and social melodrama, assessing their artistic and cultural significance"
+   }
+  }
+]

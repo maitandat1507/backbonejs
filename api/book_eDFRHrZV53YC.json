@@ -1,0 +1,82 @@
+{
+ "kind": "books#volume",
+ "id": "eDFRHrZV53YC",
+ "etag": "nlU+Yb2mNfY",
+ "selfLink": "https://www.googleapis.com/books/v1/volumes/eDFRHrZV53YC",
+ "volumeInfo": {
+  "title": "Sport Marketing",
+  "subtitle": "Managing the Exchange Process",
+  "authors": [
+   "George R. Milne",
+   "Mark A. McDonald"
+  ],
+  "publisher": "Jones & Bartlett Learning",
+  "publishedDate": "1999",
+  "description": "Sport marketing is a growing and rapidly evolving industry. As such, managers need increasingly sophisticated approaches to evaluate and serve their markets. Sport marketing: managing the exchange process presents cutting edge conceptual and empirical approaches for managers to conduct relationships with consumers. The central theme of this book is the sport marketing exchange process. [The authors] focus on exchange because this process is fundamental to marketing and can be used to highlight the challenges and opportunities faced by the sport marketer&… Topics include: fan identification; measuring participant and spectator motivations, brand equity; databases; niche marketing, service quality; sport sponsorship; personality matching and Internet marketing.",
+  "industryIdentifiers": [
+   {
+    "type": "ISBN_10",
+    "identifier": "0763708739"
+   },
+   {
+    "type": "ISBN_13",
+    "identifier": "9780763708733"
+   }
+  ],
+  "readingModes": {
+   "text": false,
+   "image": true
+  },
+  "pageCount": 169,
+  "printedPageCount": 196,
+  "dimensions": {
+   "height": "27.00 cm",
+   "width": "20.70 cm",
+   "thickness": "1.30 cm"
+  },
+  "printType": "BOOK",
+  "categories": [
+   "Business & Economics / Advertising & Promotion",
+   "Business & Economics / Management",
+   "Business & Economics / Marketing / General",
+   "Health & Fitness / General",
+   "Sports & Recreation / General"
+  ],
+  "averageRating": 4.0,
+  "ratingsCount": 3,
+  "contentVersion": "preview-1.0.0",
+  "imageLinks": {
+   "smallThumbnail": "http://bks6.books.google.co.uk/books?id=eDFRHrZV53YC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE702lJ26OwgzJlAxsHpvbSuLAR3CJ3CrR-4u-9YVySJZ_5_mRRFbvZh2MuUgqN4wJVg9l3x8u1VXP12rrM6JMEgILFr2uquX-uG_WQU_Dxk9U9MLBcU&source=gbs_api",
+   "thumbnail": "http://bks6.books.google.co.uk/books?id=eDFRHrZV53YC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE723QGNjiSHnNuUdfnVNm-jCDrKSZrZ5Hecpcq8-ZM0eA4llBuPoOrdXNLV2JAt53oyQjlZUvwjfOUTrwKIhjXNjJaWWy5I6AwsmbETVOlM9JbD0LuI&source=gbs_api",
+   "small": "http://bks6.books.google.co.uk/books?id=eDFRHrZV53YC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE72RSXU3ax7JFttRa4JuW5wtujEioqsO6m9NlbX_O6hKl15b8-OdNwuh2nUect6LfzasFcKGMBnSC_08uvY6JmLxlHDCukt548pVgwkDcDh5KMQpxU8&source=gbs_api",
+   "medium": "http://bks6.books.google.co.uk/books?id=eDFRHrZV53YC&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE70QqdClcbYcXvKGNSLf0ypxdYawp756yj7-5joDER1CbBeKxwCCHmMx5UMwCHQYOp0JXBqNywYchDnLBkZJq7FguTMjD5SQJ4tEChGX84NHIVzmS2M&source=gbs_api",
+   "large": "http://bks6.books.google.co.uk/books?id=eDFRHrZV53YC&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE71A-elf7s2JxS0sjVzhbN0_bLUP4l6zTv1gpLZCVwKAlV-wYkCljV_wzXlrBFf0Zyx4b3jqrgXRjGU_b63YL6y8679BPy0HBawb57SsMumSEZUl7pg&source=gbs_api",
+   "extraLarge": "http://bks6.books.google.co.uk/books?id=eDFRHrZV53YC&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE71W-gA8o0n6E4LedDfqMIeSfXbB-lLG31bac0SxNzi_0G_5NE6YklCUyI1feNUHmwHn6IVj1slvPdS6Uw6tmfV8_HJzlBQWMgI0aGVm7s850eE8k1I&source=gbs_api"
+  },
+  "language": "en",
+  "previewLink": "http://books.google.co.uk/books?id=eDFRHrZV53YC&hl=&source=gbs_api",
+  "infoLink": "http://books.google.co.uk/books?id=eDFRHrZV53YC&hl=&source=gbs_api",
+  "canonicalVolumeLink": "http://books.google.co.uk/books/about/Sport_Marketing.html?hl=&id=eDFRHrZV53YC"
+ },
+ "saleInfo": {
+  "country": "GB",
+  "saleability": "NOT_FOR_SALE",
+  "isEbook": false
+ },
+ "accessInfo": {
+  "country": "GB",
+  "viewability": "PARTIAL",
+  "embeddable": true,
+  "publicDomain": false,
+  "textToSpeechPermission": "ALLOWED",
+  "epub": {
+   "isAvailable": false
+  },
+  "pdf": {
+   "isAvailable": false
+  },
+  "webReaderLink": "http://books.google.co.uk/books/reader?id=eDFRHrZV53YC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+  "accessViewStatus": "SAMPLE",
+  "quoteSharingAllowed": false
+ }
+}

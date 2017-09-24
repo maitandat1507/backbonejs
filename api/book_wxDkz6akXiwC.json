@@ -1,0 +1,77 @@
+{
+ "kind": "books#volume",
+ "id": "wxDkz6akXiwC",
+ "etag": "sJExObfzLO0",
+ "selfLink": "https://www.googleapis.com/books/v1/volumes/wxDkz6akXiwC",
+ "volumeInfo": {
+  "title": "Advances in Sport Psychology",
+  "authors": [
+   "Thelma S. Horn"
+  ],
+  "publisher": "Human Kinetics",
+  "publishedDate": "2008",
+  "description": "\u003cp\u003eThe updated third edition of \u003ci\u003eAdvances in Sport Psychology\u003c/i\u003eoffers a view of the latest research in the field of sport psychology. The text is written by 34 of the field's most prolific researchers and scholars, including Maureen Weiss, Shane Murphy, and Albert Carron. These contributors extend the boundaries that have defined the field and provide a clear direction for future research.\u003c/p\u003e\u003cp\u003eThis third edition has been completely revised to reflect the advances that have occurred in the field within the past several years. The text provides readers with a complete picture of current research and emerging topics in sport psychology while challenging researchers to examine the factors that keep this discipline growing. \u003ci\u003eAdvances in Sport Psychology, Third Edition\u003c/i\u003e, provides a fresh look at sport psychology with these features: \u003c/p\u003e\u003cp\u003e-Four new chapters on qualitative research methods, achievement goal theories, self-confidence, and family and peer influences\u003c/p\u003e\u003cp\u003e-Significant revisions of the second-edition chapters, along with more concise overviews of individual topics\u003c/p\u003e\u003cp\u003e-An analysis and synthesis of the state of knowledge for each topic and a discussion of future research directions\u003cbr\u003eThe text focuses on the most important and active areas of current research, which recognize the merging of individual and socioenvironmental factors in making sense of sport performance and behavior. Each chapter includes a definition of terms, an explanation of the chapter's scope, and an outline of the sections. The author then provides a review of the available research and theory on the chapter's main topic, analyzes the state of knowledge in the area, and devotes significant space to future research directions.\u003c/p\u003e\u003cp\u003eThe book is divided into four parts. \u003cb\u003ePart I\u003c/b\u003eoffers a comprehensive introduction to the field, including definitions, history, and research paradigms and methodologies. \u003cb\u003ePart II\u003c/b\u003eexplores individual characteristics that affect sport participants' behavior, including self-perceptions, attributional patterns and perceptions of control, motivational orientations, and achievement goal perspectives. \u003cb\u003ePart III\u003c/b\u003eexplores socioenvironmental factors that affect sport participants' behaviors. \u003cb\u003ePart IV\u003c/b\u003edelves into the research and theory concerning intervention techniques used for enhancing performance and modifying athletes' behaviors, including imagery and mental rehearsal, attentional processes, goal setting, and flow and peak performance. \u003c/p\u003e\u003cp\u003e\u003ci\u003eAdvances in Sport Psychology, Third Edition\u003c/i\u003e, offers a new and thorough understanding of where sport psychology has been, where it is now, and where it is headed. This text will help students prepare and conduct their own research, and it will be a great reference for professionals who want to stay on the cutting-edge of the field.\u003c/p\u003e",
+  "industryIdentifiers": [
+   {
+    "type": "ISBN_10",
+    "identifier": "0736057358"
+   },
+   {
+    "type": "ISBN_13",
+    "identifier": "9780736057356"
+   }
+  ],
+  "readingModes": {
+   "text": false,
+   "image": true
+  },
+  "pageCount": 499,
+  "printedPageCount": 520,
+  "dimensions": {
+   "height": "29.00 cm",
+   "width": "22.10 cm",
+   "thickness": "3.20 cm"
+  },
+  "printType": "BOOK",
+  "categories": [
+   "Medical / Sports Medicine",
+   "Sports & Recreation / Sports Psychology"
+  ],
+  "averageRating": 4.0,
+  "ratingsCount": 1,
+  "contentVersion": "3.1.0.0.preview.1",
+  "imageLinks": {
+   "smallThumbnail": "http://books.google.com/books/content?id=wxDkz6akXiwC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE72asE7yHLFp7CcO9KVazqXPF61UaeOAVKzf1TGIpaJvyq94MqrC_JaWrlggkbI3MFLS0rDrCd-qdk7nY29YRsmqb7yMiGVhENkfA1D2yuPrJ7P0aiQ&source=gbs_api",
+   "thumbnail": "http://books.google.com/books/content?id=wxDkz6akXiwC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE71GLhXZZsc4DBhlatbrsN-_uGQ3qi717s6l3Oupq_g2mpRaQQcLdJxM9xmHe8LnCIh6N-bo8cFSCm2wKo_O3Cch0trpVWFH-B9Gl34QGHsg3sTm-h8&source=gbs_api",
+   "small": "http://books.google.com/books/content?id=wxDkz6akXiwC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE72BsKXPat9qhTnCpm8GRgHTyNm-DUYIUkcJLOu9PdRDbvozC9CmF3f6qm4qkV7xrlGq3Cji1ff8Rqmi3PO9GPCkJ3bsCCzMCuADVj7mCWfvLWpA5nU&source=gbs_api",
+   "medium": "http://books.google.com/books/content?id=wxDkz6akXiwC&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE70LIzSz6xGv0L6I0z4VSN3Dbk2SMJhl2qWsP_J-DL2RIyerOruL04vuSOz1ipicErCf1jEMVTFd_bpd2xdhvxDiQ7_U1JOpRnzyqq5FulWIbhG18i8&source=gbs_api",
+   "large": "http://books.google.com/books/content?id=wxDkz6akXiwC&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE7287QLAuiy_h7S1AmRC5wuZbWPA9V51pNoUV1ZuD4RuvHYBI6GV4NO-A69Ult25nFnNOt-TOrW7zvjtEZzBnzt9XremAOPG1l7q9rbLarL_PMtecFU&source=gbs_api",
+   "extraLarge": "http://books.google.com/books/content?id=wxDkz6akXiwC&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE73663JmuhbGvyf0KZWFoz3_XZcttPK02MiEa3PEE0AsWl-RdJFdEQntKDwXujc3i-gYpnE2irB4CsoQT6awlu4hU1DumzRijqw3DTssGh0SXHNU1wg&source=gbs_api"
+  },
+  "language": "en",
+  "previewLink": "http://books.google.co.uk/books?id=wxDkz6akXiwC&hl=&source=gbs_api",
+  "infoLink": "http://books.google.co.uk/books?id=wxDkz6akXiwC&hl=&source=gbs_api",
+  "canonicalVolumeLink": "http://books.google.co.uk/books/about/Advances_in_Sport_Psychology.html?hl=&id=wxDkz6akXiwC"
+ },
+ "saleInfo": {
+  "country": "GB",
+  "saleability": "NOT_FOR_SALE",
+  "isEbook": false
+ },
+ "accessInfo": {
+  "country": "GB",
+  "viewability": "PARTIAL",
+  "embeddable": true,
+  "publicDomain": false,
+  "textToSpeechPermission": "ALLOWED",
+  "epub": {
+   "isAvailable": false
+  },
+  "pdf": {
+   "isAvailable": false
+  },
+  "webReaderLink": "http://books.google.co.uk/books/reader?id=wxDkz6akXiwC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+  "accessViewStatus": "SAMPLE",
+  "quoteSharingAllowed": false
+ }
+}

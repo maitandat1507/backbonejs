@@ -1,0 +1,81 @@
+{
+ "kind": "books#volume",
+ "id": "iX9mAwAAQBAJ",
+ "etag": "XQE7CyQxo0U",
+ "selfLink": "https://www.googleapis.com/books/v1/volumes/iX9mAwAAQBAJ",
+ "volumeInfo": {
+  "title": "Six Scifi Stories Volume Four",
+  "authors": [
+   "Robert Jeschonek"
+  ],
+  "publisher": "Pie Press",
+  "publishedDate": "2014-04-23",
+  "description": "\u003cp\u003e\u003c/p\u003e\u003cp\u003e\n\n\u003c/p\u003e\u003cp\u003eIn these pages, Robert T. Jeschonek will take you on a tour\nof the wildest places and people you've never imagined.  You've never met anyone quite like 12:30\nP.M., the fugitive time fragment...Frieda, the killer-haunting e-ghost...or\nPatty, the lunatic vagrant who keeps seeing Tijuana, Mexico where Cape Cod,\nMassachusetts should be.\u003c/p\u003e\n\n\u003cp\u003e\u003c/p\u003e\n\n\u003cp\u003eDon't miss these edgy, exciting, and surprising science\nfiction tales by a STAR TREK and DOCTOR WHO author.  It’s the latest collection from award-winning\nstoryteller Robert T. Jeschonek, a master of unique and unexpected science\nfiction that really packs a punch.  This\nvolume includes six scifi stories for one low price:\u003c/p\u003e\n\n\u003cp\u003e &quot;Warning! Do Not Read This Story!&quot;:  An entire town wiped out...by a rogue \u003ci\u003estory?\u003c/i\u003e Anyone who hears or reads it\nlaunches into a murder-suicide spree, and its power is about to spread to the\nrest of the world. Only Carrol and Sascha LaVerge, mystic problem-solving\nsisters extraordinaire, stand in its way. Tracking the story's power to an\nancient evil, Carrol and Sascha race against time to stop it from escaping town\nand triggering an apocalypse. But can they outsmart the story with a mind of\nits own before it comes up with a plot twist that traps them in the ultimate\nunhappy ending?\u003c/p\u003e\n\n\u003cp\u003e\"Tempus Fugitive\": \nWhat form will the Second Coming of Christ take? In the world of the far\nfuture, Father Clement the warrior priest and Imago the stained glass robot\nwill stop at nothing to find Him...so they can KILL Him. It's the only way to\nsave the King of the World and his Kingdom from the great threat predicted in\nthe Book of Revelations. Will a mysterious prisoner lead the way to their\ntarget Messiah, or will she help them realize they're serving an evil cause?\u003c/p\u003e\n\n\u003cp\u003e\"Luminaria\": \nOn a day known forever as The Silencing, millions of human colonists\nwent missing in space without a trace. Fifty years later, a team of explorers\nmounts a search, riding a space elevator into the heart of the unknown. One\nscientist, Gabriel Shard, holds the key to the truth, the last chance to recover\nthe missing...but he might just die before he can use it.\u003c/p\u003e\n\n\u003cp\u003e\"The Secret of the Ultimate Male Enhancement\":  The male enhancement of tomorrow has\neverything from shape-changing powers to a mind of its own. But what happens\nwhen this miraculous endowment refuses to cooperate with its new owner? War\nbreaks out between man and enhancement, the ultimate struggle between two minds\nin one body. Only by guessing the enhancement's dark secret does the man stand\na chance of breaking the stranglehold this high tech smart-part has on his\nlife.\u003c/p\u003e\n\n\u003cp\u003e\"The Memory of\nYou Lingers\":  Baird the\nconvicted rapist knows no peace. Ten years of haunting by the digital ghost of\nhis victim, Frieda, have left him a basket case…but freedom awaits. If he can\njust make it till tomorrow, his sentence will end, and the digital ghost will\nbecome vaporware. But Frieda has no intention of leaving quietly, and the\ngoing-away present she has in store for Baird could be far worse than the\ndigital nightmare he has already endured.\u003c/p\u003e\n\n\u003cp\u003e\"Tijuana, Massachusetts\":  Why does Cape Cod, Massachusetts keep\nchanging into Tijuana, Mexico? Don't ask Patty, the foul-mouthed\neverything-hater with a memory full of holes. Every time the lump on her head\nbuzzes, Cape Cod becomes Tijuana or vice versa. One minute, Patty sees\nlighthouses and well-dressed children; the next, she fends off pushy street\nkids and donkeys done up like zebras. Has she lost her mind, or is someone--or\nsomething--driving her crazy? Little by little, the truth seeps through...but\nthe dark secrets it forces to the surface might be far more terrible than any\nillusion.\u003c/p\u003e\n\n\u003cp\u003e \u003c/p\u003e\n\n\u003cp\u003eContents\u003c/p\u003e\n\n\u003cp\u003eCollection of 6\nstories plus a novel preview\u003c/p\u003e\n\n\u003cp\u003e \u003cbr\u003e\u003c/p\u003e\n\n\u003cp\u003eReviews\u003c/p\u003e\n\n\u003cp\u003e\"Robert Jeschonek is a towering talent.\" – Mike\nResnick, Hugo and Nebula Award-winning author of the \u003ci\u003eStarship\u003c/i\u003e series\u003c/p\u003e\n\n\u003cp\u003e\"Robert Jeschonek is the literary love child of Tim\nBurton and Neil Gaiman.\" – Adrian Phoenix, critically acclaimed author of \u003ci\u003eThe Maker's Song\u003c/i\u003e and\u003ci\u003e Hoodoo\u003c/i\u003e series.\u003c/p\u003e\n\n\u003cp\u003e\"Jeschonek´s stories are delightfully insane, a\npleasure to read…\" – Fabio Fernandes, \u003ci\u003eFantasy\nBook Critic\u003c/i\u003e\u003c/p\u003e\n\n\u003cp\u003e\u003c/p\u003e",
+  "industryIdentifiers": [
+   {
+    "type": "ISBN_10",
+    "identifier": "1311187642"
+   },
+   {
+    "type": "ISBN_13",
+    "identifier": "9781311187642"
+   }
+  ],
+  "readingModes": {
+   "text": true,
+   "image": false
+  },
+  "pageCount": 108,
+  "printedPageCount": 108,
+  "printType": "BOOK",
+  "categories": [
+   "Fiction / Science Fiction / General",
+   "Fiction / Science Fiction / Action & Adventure",
+   "Fiction / Science Fiction / Collections & Anthologies",
+   "Fiction / Science Fiction / Space Opera",
+   "Fiction / Science Fiction / Time Travel"
+  ],
+  "contentVersion": "1.1.1.0.preview.2",
+  "imageLinks": {
+   "smallThumbnail": "http://bks9.books.google.co.uk/books?id=iX9mAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE73gPM5RN3HjXPogpImK1OuhDF_8GcYcVCZ1NDv96lZsjk1sWl6bUZ0lYGNSs_-hG9EYa3QQ0jSFrgAv6Xxn_B4bw1X_2UE_scBvik8SXnCIjtdJgAE&source=gbs_api",
+   "thumbnail": "http://bks9.books.google.co.uk/books?id=iX9mAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE70UBIcSkhvAr4_X5LXYulS3Ef2LwK0tFvwxmg2oOKhuM1zsAdManx8awgkNsjd_y64SLOPd1GET53PREOqcx1Q1snelR-zIE9XtEiHImDwuFNbPR4c&source=gbs_api",
+   "small": "http://bks9.books.google.co.uk/books?id=iX9mAwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE707iUShEVwVUUyEu5XwxG4W-ygp-U1saIgJTyp1DU8c-5hHkpz3SeSuJqOUwmiIqY2jD0bHhA67mC2Rz6pFLI_QYZQQ0iBMqUoKFBXGweWTX3FaqvE&source=gbs_api",
+   "medium": "http://bks9.books.google.co.uk/books?id=iX9mAwAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE70WoFIYq9SIk3RrGQT0bQGaNgcw2z4S10d5VmM0-XXspemtIfNDipZBu3jq9hKY_B6qpuw8qJ0M1Ht4QsakA1eXAuOzP8DlUgnwKH7pcT8e62LqW9k&source=gbs_api",
+   "large": "http://bks9.books.google.co.uk/books?id=iX9mAwAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE707GdlSEtQb3vVA9NwlNwo5ztIlOD-qHrie_0r_Wkiau0Omffc-0Wz0XydOiIZ9o3ATIJXYdGV0wB0ex7DL0UfiPBN_gxzk_4vhRSrNYUr0-eWatqQ&source=gbs_api",
+   "extraLarge": "http://bks9.books.google.co.uk/books?id=iX9mAwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE70kEWiXYkX0gdocHbGqk8Csnr81rqxbiCV87F4zElU_WPFKdpMlPIiQp-c51TI0xZa4Tdl_Lg3NdE2gqKsJK8I5EZxIoRGLvidfaTATRZTM6Pz34qw&source=gbs_api"
+  },
+  "language": "en",
+  "previewLink": "http://books.google.co.uk/books?id=iX9mAwAAQBAJ&hl=&source=gbs_api",
+  "infoLink": "http://books.google.co.uk/books?id=iX9mAwAAQBAJ&hl=&source=gbs_api",
+  "canonicalVolumeLink": "http://books.google.co.uk/books/about/Six_Scifi_Stories_Volume_Four.html?hl=&id=iX9mAwAAQBAJ"
+ },
+ "layerInfo": {
+  "layers": [
+   {
+    "layerId": "geo",
+    "volumeAnnotationsVersion": "3"
+   }
+  ]
+ },
+ "saleInfo": {
+  "country": "GB",
+  "saleability": "NOT_FOR_SALE",
+  "isEbook": false
+ },
+ "accessInfo": {
+  "country": "GB",
+  "viewability": "PARTIAL",
+  "embeddable": true,
+  "publicDomain": false,
+  "textToSpeechPermission": "ALLOWED",
+  "epub": {
+   "isAvailable": true
+  },
+  "pdf": {
+   "isAvailable": false
+  },
+  "webReaderLink": "http://books.google.co.uk/books/reader?id=iX9mAwAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+  "accessViewStatus": "SAMPLE",
+  "quoteSharingAllowed": false
+ }
+}

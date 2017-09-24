@@ -1,0 +1,76 @@
+{
+ "kind": "books#volume",
+ "id": "WCEpIM4YiG4C",
+ "etag": "vNCJWmUXmIU",
+ "selfLink": "https://www.googleapis.com/books/v1/volumes/WCEpIM4YiG4C",
+ "volumeInfo": {
+  "title": "Sports",
+  "subtitle": "The First Five Millennia",
+  "authors": [
+   "Allen Guttmann"
+  ],
+  "publisher": "Univ of Massachusetts Press",
+  "publishedDate": "2004",
+  "description": "From ancient Egyptian archery and medieval Japanese football to contemporary American baseball, every sport has been shaped by - and in turn has helped shape - the culture of which it is a part. Yet as Allen Guttmann shows in this far-ranging study, for all their differences sports throughout the ages have exhibited many common characteristics. They have always been a domain for the cultivation of gender roles, for example, as well as for the enactment of class and ethnic identities. They have also followed a similar historical trajectory from traditional to modern forms. images, Sports: The First Five Millennia traces this evolution across continents, cultures, and historical epochs to present a single comprehensive narrative of the world's sports. Beginning with a discussion of what constitutes a sport - and what does not - Guttmann explores the vast variety of sports played by the preliterate peoples of the Americas and Africa, by the Greeks and Romans of antiquity, and in premodern China and Japan as well as in Islamic Asia and medieval Europe. These traditional sports include everything from Cherokee stickball and Chinese kite-flying to Persian wrestling and English bear-baiting. Guttmann then turns his attention to modern sports, an invention of eighteenth-century England that spread throughout the world during the nineteenth century and became institutionalized during the twentieth. international organizations such as the Federation Internationale de Football Association and the International Olympic Committee, modern sports have all but displaced their traditional antecedents throughout the world. The book concludes with a look at how skateboarding, hang gliding, and other postmodern sports have resisted the transition from spontaneous play to institutionalized contest, only to succumb in the end to the lure of modernization.",
+  "industryIdentifiers": [
+   {
+    "type": "ISBN_13",
+    "identifier": "9781558494701"
+   },
+   {
+    "type": "ISBN_10",
+    "identifier": "1558494707"
+   }
+  ],
+  "readingModes": {
+   "text": false,
+   "image": true
+  },
+  "pageCount": 448,
+  "printedPageCount": 502,
+  "dimensions": {
+   "height": "24.00 cm",
+   "width": "16.30 cm",
+   "thickness": "3.60 cm"
+  },
+  "printType": "BOOK",
+  "categories": [
+   "Sports & Recreation / History",
+   "Sports & Recreation / Reference"
+  ],
+  "contentVersion": "1.0.0.0.preview.1",
+  "imageLinks": {
+   "smallThumbnail": "http://bks1.books.google.co.uk/books?id=WCEpIM4YiG4C&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE71xGsbLahExy9_VTTK-mrRdbIU3aX_7TuPa6DD1i1dfc-zzprHI-AhnxMRlLmsCDErtYjMjpUd7tMuvCLE-oXi9A3QYtHU7dru95cqyGIJymiEKl8E&source=gbs_api",
+   "thumbnail": "http://bks1.books.google.co.uk/books?id=WCEpIM4YiG4C&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE73u-Zj4-Ogw8motqy_KwJWy9LuwiUe_TLidb0YmEBsPxQf1FPnnaqP5gtKRX-XXCYO_IllxkAz37_gM2qaDFVuBYpv1wjbWbaXkfHTHBpToBKtox2g&source=gbs_api",
+   "small": "http://bks1.books.google.co.uk/books?id=WCEpIM4YiG4C&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE72wR_NOI3zNlZ-wrb8uv0CouRAgDnG_3Td8KjkCd0CiMq00axAQYwkErVmPUFWSt1N1JHJzL-mhrYJhB3dxoo398tmdbyRqG9bwIHCrVj-rC-zWq6s&source=gbs_api",
+   "medium": "http://bks1.books.google.co.uk/books?id=WCEpIM4YiG4C&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE711w871RixlFGeFwKKT4ZqFwhhlqgkAPTAHUTfkwdul7xnRMBD1h-QRdrXbRW3OsRGX1hiVVXM-KIZk-dg-SQ3K6kug3XPyzp40GVmrIhTFS7p8a-0&source=gbs_api",
+   "large": "http://bks1.books.google.co.uk/books?id=WCEpIM4YiG4C&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE72UoobCGE7THw3qc68gl0usgvN-XBUF2twgXIS2gCxKbSqadl1g0BH8CRX_ipoueBK_OZJg5N29XXBsnavIFbKVcqXze11RfgFOLGw5x9xS8Bgr4AA&source=gbs_api",
+   "extraLarge": "http://bks1.books.google.co.uk/books?id=WCEpIM4YiG4C&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE70iCzGhSuqH6u9VSobNWjXz5yIP79w6BdHq-lyTzQ1hReodnWWWqrxL7egqp3nsqUdDU21g9baGy22FX8Pza7Z4NsxngwsbUdy_7hKomLR1jqAO780&source=gbs_api"
+  },
+  "language": "en",
+  "previewLink": "http://books.google.co.uk/books?id=WCEpIM4YiG4C&hl=&source=gbs_api",
+  "infoLink": "http://books.google.co.uk/books?id=WCEpIM4YiG4C&hl=&source=gbs_api",
+  "canonicalVolumeLink": "http://books.google.co.uk/books/about/Sports.html?hl=&id=WCEpIM4YiG4C"
+ },
+ "saleInfo": {
+  "country": "GB",
+  "saleability": "NOT_FOR_SALE",
+  "isEbook": false
+ },
+ "accessInfo": {
+  "country": "GB",
+  "viewability": "PARTIAL",
+  "embeddable": true,
+  "publicDomain": false,
+  "textToSpeechPermission": "ALLOWED",
+  "epub": {
+   "isAvailable": false
+  },
+  "pdf": {
+   "isAvailable": false
+  },
+  "webReaderLink": "http://books.google.co.uk/books/reader?id=WCEpIM4YiG4C&hl=&printsec=frontcover&output=reader&source=gbs_api",
+  "accessViewStatus": "SAMPLE",
+  "quoteSharingAllowed": false
+ }
+}
