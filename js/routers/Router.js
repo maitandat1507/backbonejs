@@ -14,7 +14,6 @@ app.routers.Router = Backbone.Router.extend({
         console.log("category " + id);
 
         app.data.books = new app.models.Books(null, {catId: id});
-        console.log(app.data.books.url());
 
         app.data.currentView = new app.views.BooksList({
             collection: app.data.books
